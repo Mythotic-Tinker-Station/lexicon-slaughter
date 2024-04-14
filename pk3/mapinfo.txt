@@ -1,1 +1,4 @@
-include "mapinfo/CCHEST1.txt" // cchest_map15coopfix.wad
+include "mapinfo/CHILLAX.txt" // chillax-v9.7.3.wad
+include "mapinfo/NGM1.txt" // NGmvmt1.wad
+include "mapinfo/NGM2.txt" // NGmvmt2.wad
+include "mapinfo/PIZZAS.txt" // pizzaS.wad

@@ -1,0 +1,27 @@
+// Chillax
+texture CHLX0360 range CHLX0363 tics 8 allowdecals
+texture CHLX0448 range CHLX0451 tics 8 allowdecals
+texture CHLX0509 range CHLX0512 tics 8
+texture CHLX0526 range CHLX0527 tics 8
+texture CHLX0531 range CHLX0533 tics 8
+texture CHLX0856 range CHLX0858 tics 8
+flat CHLX0018 range CHLX0021 tics 8
+
+// Newgothic Movement 1
+texture NGM10457 range NGM10460 tics 8 allowdecals
+texture NGM10520 range NGM10523 tics 8
+texture NGM10545 range NGM10548 tics 8 allowdecals
+texture NGM10606 range NGM10609 tics 8
+texture NGM10628 range NGM10630 tics 8
+texture NGM10727 range NGM10730 tics 8
+flat NGM10011 range NGM10014 tics 8
+warp flat NGM10110
+warp flat NGM10170
+
+// Newgothic Movement 2
+texture NGM20647 range NGM20650 tics 8
+texture NGM20779 range NGM20782 tics 8
+texture NGM20817 range NGM20820 tics 8
+texture NGM20845 range NGM20854 tics 8
+texture NGM20856 range NGM20865 tics 8
+texture NGM21158 range NGM21161 tics 8
