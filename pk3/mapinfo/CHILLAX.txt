@@ -1,5 +1,4 @@
 // Chillax Mapinfo
-// TODO: Port over Chillax IOS sounds
 
 defaultmap
 {
