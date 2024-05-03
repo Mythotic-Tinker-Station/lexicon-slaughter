@@ -1,5 +1,11 @@
 // Maps of Chaos (Doom 2 version) Mapinfo
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map MOC201 "Maps of Chaos Map 1"
 {
 	titlepatch = "CWILV00"
