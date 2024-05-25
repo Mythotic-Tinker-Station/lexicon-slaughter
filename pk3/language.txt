@@ -1,0 +1,8 @@
+[default]
+
+// Custom actors for Lexicon Slaughter mapsets
+// Chillax
+CHLX_ACTOR_1 = "Lexicon_CHLX_BossBrain";
+CHLX_ACTORALT_1 = "BossBrain";
+CHLX_ACTOR_2 = "Lexicon_CHLX_BossEye";
+CHLX_ACTORALT_2 = "BossEye";
