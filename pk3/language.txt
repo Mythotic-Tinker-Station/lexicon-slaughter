@@ -6,3 +6,9 @@ CHLX_ACTOR_1 = "Lexicon_CHLX_BossBrain";
 CHLX_ACTORALT_1 = "BossBrain";
 CHLX_ACTOR_2 = "Lexicon_CHLX_BossEye";
 CHLX_ACTORALT_2 = "BossEye";
+
+// Slaughterfest 2012
+SF12_ACTOR_1 = "Lexicon_SF12_WolfensteinSS";
+SF12_ACTOR_2 = "Lexicon_SF12_Chainsaw";
+SF12_ACTORALT_2 = "BFG9000";
+SF12_GOTCHAINSAW = "Infinite BFG!";

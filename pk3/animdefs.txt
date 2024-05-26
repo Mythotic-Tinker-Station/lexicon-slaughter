@@ -28,3 +28,14 @@ texture NGM20817 range NGM20820 tics 8
 texture NGM20845 range NGM20854 tics 8
 texture NGM20856 range NGM20865 tics 8
 texture NGM21158 range NGM21161 tics 8
+
+// Slaughterfest 2012
+texture SF120745 range SF120748 tics 8
+texture SF120872 range SF120875 tics 8
+flat SF120071 range SF120074 tics 8
+flat SF120111 range SF120114 tics 8
+switch SF120852 on pic SF120857 tics 0
+switch SF120853 on pic SF120858 tics 0
+switch SF120854 on pic SF120859 tics 0
+switch SF120855 on pic SF120860 tics 0
+switch SF120856 on pic SF120861 tics 0
