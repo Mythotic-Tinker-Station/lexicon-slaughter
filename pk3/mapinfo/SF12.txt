@@ -9,7 +9,7 @@ defaultmap
 
 map SF1201 "01 Exodus - cannonball"
 {
-	titlepatch = "CWILV00"
+	titlepatch = "SF12V00"
 	next = "SF1202"
 	secretnext = "SF1202"
 	sky1 = "SF120448"
@@ -21,7 +21,7 @@ map SF1201 "01 Exodus - cannonball"
 
 map SF1202 "02 Cashews - Death Egg"
 {
-	titlepatch = "CWILV01"
+	titlepatch = "SF12V01"
 	next = "SF1203"
 	secretnext = "SF1203"
 	sky1 = "SF120448"
@@ -33,7 +33,7 @@ map SF1202 "02 Cashews - Death Egg"
 
 map SF1203 "03 Island of Mystery - Ribbiks"
 {
-	titlepatch = "CWILV02"
+	titlepatch = "SF12V02"
 	next = "SF1204"
 	secretnext = "SF1204"
 	sky1 = "SF120448"
@@ -45,7 +45,7 @@ map SF1203 "03 Island of Mystery - Ribbiks"
 
 map SF1204 "04 Pure Hate - darkreaver"
 {
-	titlepatch = "CWILV03"
+	titlepatch = "SF12V03"
 	next = "SF1205"
 	secretnext = "SF1205"
 	sky1 = "SF120448"
@@ -57,7 +57,7 @@ map SF1204 "04 Pure Hate - darkreaver"
 
 map SF1205 "05 Fortress of Damnation - cannonball"
 {
-	titlepatch = "CWILV04"
+	titlepatch = "SF12V04"
 	next = "SF1206"
 	secretnext = "SF1206"
 	sky1 = "SF120448"
@@ -69,7 +69,7 @@ map SF1205 "05 Fortress of Damnation - cannonball"
 
 map SF1206 "06 Trifling - Phml"
 {
-	titlepatch = "CWILV05"
+	titlepatch = "SF12V05"
 	next = "SF1207"
 	secretnext = "SF1207"
 	sky1 = "SF120448"
@@ -81,7 +81,7 @@ map SF1206 "06 Trifling - Phml"
 
 map SF1207 "07 Simply Dead - Kyka"
 {
-	titlepatch = "CWILV06"
+	titlepatch = "SF12V06"
 	next = "SF1208"
 	secretnext = "SF1208"
 	sky1 = "SF120448"
@@ -94,7 +94,7 @@ map SF1207 "07 Simply Dead - Kyka"
 
 map SF1208 "08 Tingsryd - dannebubinga"
 {
-	titlepatch = "CWILV07"
+	titlepatch = "SF12V07"
 	next = "SF1209"
 	secretnext = "SF1209"
 	sky1 = "SF120448"
@@ -106,7 +106,7 @@ map SF1208 "08 Tingsryd - dannebubinga"
 
 map SF1209 "09 Core Annihilation - cannonball"
 {
-	titlepatch = "CWILV08"
+	titlepatch = "SF12V08"
 	next = "SF1210"
 	secretnext = "SF1210"
 	sky1 = "SF120448"
@@ -118,7 +118,7 @@ map SF1209 "09 Core Annihilation - cannonball"
 
 map SF1210 "10 Total Recall - cannonball"
 {
-	titlepatch = "CWILV09"
+	titlepatch = "SF12V09"
 	next = "SF1211"
 	secretnext = "SF1211"
 	sky1 = "SF120448"
@@ -130,7 +130,7 @@ map SF1210 "10 Total Recall - cannonball"
 
 map SF1211 "11 Warborn - Rayzik"
 {
-	titlepatch = "CWILV10"
+	titlepatch = "SF12V10"
 	next = "SF1212"
 	secretnext = "SF1212"
 	sky1 = "SF120448"
@@ -142,7 +142,7 @@ map SF1211 "11 Warborn - Rayzik"
 
 map SF1212 "12 Damnation - darkreaver"
 {
-	titlepatch = "CWILV11"
+	titlepatch = "SF12V11"
 	next = "SF1213"
 	secretnext = "SF1213"
 	sky1 = "SF120449"
@@ -154,7 +154,7 @@ map SF1212 "12 Damnation - darkreaver"
 
 map SF1213 "13 Unleash the Fire - Rayzik"
 {
-	titlepatch = "CWILV12"
+	titlepatch = "SF12V12"
 	next = "SF1214"
 	secretnext = "SF1214"
 	sky1 = "SF120449"
@@ -166,7 +166,7 @@ map SF1213 "13 Unleash the Fire - Rayzik"
 
 map SF1214 "14 Damned Legion - Archi"
 {
-	titlepatch = "CWILV13"
+	titlepatch = "SF12V13"
 	next = "SF1215"
 	secretnext = "SF1215"
 	sky1 = "SF120449"
@@ -178,7 +178,7 @@ map SF1214 "14 Damned Legion - Archi"
 
 map SF1215 "15 Doomherolandia - General Rainbow Bacon"
 {
-	titlepatch = "CWILV14"
+	titlepatch = "SF12V14"
 	next = "SF1216"
 	secretnext = "SF1231"
 	sky1 = "SF120449"
@@ -190,7 +190,7 @@ map SF1215 "15 Doomherolandia - General Rainbow Bacon"
 
 map SF1216 "16 Twobox - Phml"
 {
-	titlepatch = "CWILV15"
+	titlepatch = "SF12V15"
 	next = "SF1217"
 	secretnext = "SF1217"
 	sky1 = "SF120449"
@@ -202,7 +202,7 @@ map SF1216 "16 Twobox - Phml"
 
 map SF1217 "17 Electric Wizard - Ribbiks"
 {
-	titlepatch = "CWILV16"
+	titlepatch = "SF12V16"
 	next = "SF1218"
 	secretnext = "SF1218"
 	sky1 = "SF120449"
@@ -214,7 +214,7 @@ map SF1217 "17 Electric Wizard - Ribbiks"
 
 map SF1218 "18 Last Cup of Sorrow - Bloodite Krypto"
 {
-	titlepatch = "CWILV17"
+	titlepatch = "SF12V17"
 	next = "SF1219"
 	secretnext = "SF1219"
 	sky1 = "SF120449"
@@ -226,7 +226,7 @@ map SF1218 "18 Last Cup of Sorrow - Bloodite Krypto"
 
 map SF1219 "19 Split Wide Open - TimeOfDeath"
 {
-	titlepatch = "CWILV18"
+	titlepatch = "SF12V18"
 	next = "SF1220"
 	secretnext = "SF1220"
 	sky1 = "SF120449"
@@ -238,7 +238,7 @@ map SF1219 "19 Split Wide Open - TimeOfDeath"
 
 map SF1220 "20 True Grit - cannonball"
 {
-	titlepatch = "CWILV19"
+	titlepatch = "SF12V19"
 	next = "SF1221"
 	secretnext = "SF1221"
 	sky1 = "SF120449"
@@ -250,7 +250,7 @@ map SF1220 "20 True Grit - cannonball"
 
 map SF1221 "21 Walk With Me in Hell - Rayzik"
 {
-	titlepatch = "CWILV20"
+	titlepatch = "SF12V20"
 	next = "SF1222"
 	secretnext = "SF1222"
 	sky1 = "SF120450"
@@ -262,7 +262,7 @@ map SF1221 "21 Walk With Me in Hell - Rayzik"
 
 map SF1222 "22 Royale Arena - cannonball"
 {
-	titlepatch = "CWILV21"
+	titlepatch = "SF12V21"
 	next = "SF1223"
 	secretnext = "SF1223"
 	sky1 = "SF120450"
@@ -274,7 +274,7 @@ map SF1222 "22 Royale Arena - cannonball"
 
 map SF1223 "23 Castle Lava - TimeOfDeath"
 {
-	titlepatch = "CWILV22"
+	titlepatch = "SF12V22"
 	next = "SF1224"
 	secretnext = "SF1224"
 	sky1 = "SF120450"
@@ -286,7 +286,7 @@ map SF1223 "23 Castle Lava - TimeOfDeath"
 
 map SF1224 "24 Bane's Atrium - General Rainbow Bacon"
 {
-	titlepatch = "CWILV23"
+	titlepatch = "SF12V23"
 	next = "SF1225"
 	secretnext = "SF1225"
 	sky1 = "SF120450"
@@ -298,7 +298,7 @@ map SF1224 "24 Bane's Atrium - General Rainbow Bacon"
 
 map SF1225 "25 Fourtress - elmle"
 {
-	titlepatch = "CWILV24"
+	titlepatch = "SF12V24"
 	next = "SF1226"
 	secretnext = "SF1226"
 	sky1 = "SF120450"
@@ -310,7 +310,7 @@ map SF1225 "25 Fourtress - elmle"
 
 map SF1226 "26 Crimson - Phml"
 {
-	titlepatch = "CWILV25"
+	titlepatch = "SF12V25"
 	next = "SF1227"
 	secretnext = "SF1227"
 	sky1 = "SF120450"
@@ -322,7 +322,7 @@ map SF1226 "26 Crimson - Phml"
 
 map SF1227 "27 Decimal Error - ArmouredBlood"
 {
-	titlepatch = "CWILV26"
+	titlepatch = "SF12V26"
 	next = "SF1228"
 	secretnext = "SF1228"
 	sky1 = "SF120450"
@@ -334,7 +334,7 @@ map SF1227 "27 Decimal Error - ArmouredBlood"
 
 map SF1228 "28 Slaughtenstein - Phml"
 {
-	titlepatch = "CWILV27"
+	titlepatch = "SF12V27"
 	next = "SF1229"
 	secretnext = "SF1229"
 	sky1 = "SF120450"
@@ -346,7 +346,7 @@ map SF1228 "28 Slaughtenstein - Phml"
 
 map SF1229 "29 Degrassi - TimeOfDeath"
 {
-	titlepatch = "CWILV28"
+	titlepatch = "SF12V28"
 	next = "SF1230"
 	secretnext = "SF1230"
 	sky1 = "SF120450"
@@ -358,7 +358,7 @@ map SF1229 "29 Degrassi - TimeOfDeath"
 
 map SF1230 "30 Anathema - Ribbiks"
 {
-	titlepatch = "CWILV29"
+	titlepatch = "SF12V29"
 	next = "VR"
 	secretnext = "VR"
 	sky1 = "SF120450"
@@ -371,7 +371,7 @@ map SF1230 "30 Anathema - Ribbiks"
 
 map SF1231 "31 sworf - gggmork"
 {
-	titlepatch = "CWILV30"
+	titlepatch = "SF12V30"
 	next = "SF1216"
 	secretnext = "SF1232"
 	sky1 = "SF120450"
@@ -383,7 +383,7 @@ map SF1231 "31 sworf - gggmork"
 
 map SF1232 "32 Brookhaven Hospital - TimeOfDeath"
 {
-	titlepatch = "CWILV31"
+	titlepatch = "SF12V31"
 	next = "SF1216"
 	secretnext = "SF1216"
 	sky1 = "SF120450"
@@ -395,7 +395,7 @@ map SF1232 "32 Brookhaven Hospital - TimeOfDeath"
 
 map SF1233 "33 Boontown - Processingcontrol"
 {
-	titlepatch = "CWILV32"
+	titlepatch = "SF12V32"
 	next = "SF1201"
 	secretnext = "SF1201"
 	intermusic = "D_SF12IN"
@@ -405,7 +405,7 @@ map SF1233 "33 Boontown - Processingcontrol"
 
 map SF1234 "34 Hard Contact - ArmouredBlood"
 {
-	titlepatch = "CWILV33"
+	titlepatch = "SF12V33"
 	next = "SF1201"
 	secretnext = "SF1201"
 	music = "D_SF1234"
@@ -416,7 +416,7 @@ map SF1234 "34 Hard Contact - ArmouredBlood"
 
 map SF1235 "35 KSP - TimeOfDeath"
 {
-	titlepatch = "CWILV34"
+	titlepatch = "SF12V34"
 	next = "SF1201"
 	secretnext = "SF1201"
 	intermusic = "D_SF12IN"

@@ -1,2 +1,3 @@
 #include "decorate/CHLX.txt" // Chillax
+#include "decorate/SF11.txt" // Slaughterfest 2011
 #include "decorate/SF12.txt" // Slaughterfest 2012
