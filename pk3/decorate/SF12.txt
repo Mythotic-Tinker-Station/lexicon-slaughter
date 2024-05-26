@@ -50,8 +50,7 @@ Actor Lexicon_SF12_Chainsaw : Weapon
 	Weapon.SlotNumber 1
 	Weapon.SlotPriority 1
 	Inventory.PickupMessage "$SF12_GOTCHAINSAW"
-	Obituary "$OB_MPCHAINSAW"
-	Tag "$TAG_CHAINSAW"
+	Tag "$SF12_TAG_CHAINSAW"
 	+WEAPON.MELEEWEAPON		
 	+WEAPON.ALLOW_WITH_RESPAWN_INVUL
 	+WEAPON.CHEATNOTWEAPON

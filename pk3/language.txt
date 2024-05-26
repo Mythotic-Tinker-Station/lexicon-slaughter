@@ -12,3 +12,4 @@ SF12_ACTOR_1 = "Lexicon_SF12_WolfensteinSS";
 SF12_ACTOR_2 = "Lexicon_SF12_Chainsaw";
 SF12_ACTORALT_2 = "BFG9000";
 SF12_GOTCHAINSAW = "Infinite BFG!";
+SF12_TAG_CHAINSAW = "Infinite BFG";
