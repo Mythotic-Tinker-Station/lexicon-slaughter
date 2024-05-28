@@ -1,0 +1,2 @@
+// Slaughterfest 3
+generator Lexicon_SF13_PlasmaBall	PlasmaScorch
