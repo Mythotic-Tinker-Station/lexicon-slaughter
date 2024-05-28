@@ -18,3 +18,12 @@ SF12_ACTOR_2 = "Lexicon_SF12_Chainsaw";
 SF12_ACTORALT_2 = "BFG9000";
 SF12_GOTCHAINSAW = "Infinite BFG!";
 SF12_TAG_CHAINSAW = "Infinite BFG";
+
+// Slaughterfest 3
+SF13_ACTOR_1 = "Lexicon_SF13_Arachnotron";
+SF13_ACTORALT_1 = "Arachnotron";
+SF13_ACTOR_2 = "Lexicon_SF12_WolfensteinSS";
+SF13_ACTOR_3 = "Lexicon_SF13_PlasmaRifle";
+SF13_ACTORALT_3 = "PlasmaRifle";
+SF13_ACTOR_4 = "Lexicon_SF12_Chainsaw";
+SF13_ACTORALT_4 = "BFG9000";

@@ -5,3 +5,6 @@ CHLX/DSBOSPN				CHLX0003
 
 // Slaughterfest 2012
 SF12/DSSAWUP				SF120001
+
+// Slaughterfest 3
+SF13/DSPLASMA				SF130002
