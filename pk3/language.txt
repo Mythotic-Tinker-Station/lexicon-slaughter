@@ -6,11 +6,49 @@ CHLX_ACTOR_1 = "Lexicon_CHLX_BossBrain";
 CHLX_ACTORALT_1 = "BossBrain";
 CHLX_ACTOR_2 = "Lexicon_CHLX_BossEye";
 CHLX_ACTORALT_2 = "BossEye";
+CHLX_MAPSET_AUTH = "Anonymous author, maps originally from multiple authors";
+CHLX_MAPSET_CUST = "Y";
+CHLX_MAPSET_DATE = "2020";
+CHLX_MAPSET_MAPS = "47";
+CHLX_MAPSET_TTLE = "Chillax";
+
+// Maps of Chaos
+MOC2_MAPSET_AUTH = "DoomVideoVault";
+MOC2_MAPSET_CUST = "N";
+MOC2_MAPSET_DATE = "2020";
+MOC2_MAPSET_MAPS = "32";
+MOC2_MAPSET_TTLE = "Maps of Chaos (Doom 2)";
+
+// Newgothic Movement 1
+NGM1_MAPSET_AUTH = "Christopher Shepherd";
+NGM1_MAPSET_CUST = "N";
+NGM1_MAPSET_DATE = "2010";
+NGM1_MAPSET_MAPS = "18";
+NGM1_MAPSET_TTLE = "Newgothic Movement";
+
+// Newgothic Movement 2
+NGM2_MAPSET_AUTH = "Christopher Shepherd, Arthur O.";
+NGM2_MAPSET_CUST = "N";
+NGM2_MAPSET_DATE = "2017";
+NGM2_MAPSET_MAPS = "17";
+NGM2_MAPSET_TTLE = "Newgothic Movement 2";
+
+// Pizza Steve
+PZST_MAPSET_AUTH = "pocho_man123";
+PZST_MAPSET_CUST = "N";
+PZST_MAPSET_DATE = "2016";
+PZST_MAPSET_MAPS = "32";
+PZST_MAPSET_TTLE = "Pizza Steve";
 
 // Slaughterfest 2011
 SF11_ACTOR_1 = "Lexicon_SF11_WolfensteinSS";
 SF11_ACTOR_2 = "Lexicon_SF11_Chainsaw";
 SF11_ACTORALT_2 = "BFG9000";
+SF11_MAPSET_AUTH = "General Rainbow Bacon, SF2011 Team";
+SF11_MAPSET_CUST = "Y";
+SF11_MAPSET_DATE = "2011";
+SF11_MAPSET_MAPS = "11";
+SF11_MAPSET_TTLE = "Slaughterfest 2011";
 
 // Slaughterfest 2012
 SF12_ACTOR_1 = "Lexicon_SF12_WolfensteinSS";
@@ -18,6 +56,11 @@ SF12_ACTOR_2 = "Lexicon_SF12_Chainsaw";
 SF12_ACTORALT_2 = "BFG9000";
 SF12_GOTCHAINSAW = "Infinite BFG!";
 SF12_TAG_CHAINSAW = "Infinite BFG";
+SF12_MAPSET_AUTH = "General Rainbow Bacon, SF2012 Team";
+SF12_MAPSET_CUST = "Y";
+SF12_MAPSET_DATE = "2012";
+SF12_MAPSET_MAPS = "35";
+SF12_MAPSET_TTLE = "Slaughterfest 2012";
 
 // Slaughterfest 3
 SF13_ACTOR_1 = "Lexicon_SF13_Arachnotron";
@@ -27,3 +70,8 @@ SF13_ACTOR_3 = "Lexicon_SF13_PlasmaRifle";
 SF13_ACTORALT_3 = "PlasmaRifle";
 SF13_ACTOR_4 = "Lexicon_SF12_Chainsaw";
 SF13_ACTORALT_4 = "BFG9000";
+SF13_MAPSET_AUTH = "General Rainbow Bacon, SF3 Team";
+SF13_MAPSET_CUST = "Y";
+SF13_MAPSET_DATE = "2018";
+SF13_MAPSET_MAPS = "35";
+SF13_MAPSET_TTLE = "Slaughterfest 3";
