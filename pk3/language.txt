@@ -12,6 +12,39 @@ CHLX_MAPSET_DATE = "2020";
 CHLX_MAPSET_MAPS = "47";
 CHLX_MAPSET_TTLE = "Chillax";
 
+// Dark Tartarus
+DKTS_ACTORST_1 = "StrengthRune";
+DKTS_ACTOR_1 = "Megasphere";
+DKTS_ACTORST_2 = "RageRune";
+DKTS_ACTOR_2 = "Megasphere";
+DKTS_ACTORST_3 = "DrainRune";
+DKTS_ACTOR_3 = "Megasphere";
+DKTS_ACTORST_4 = "SpreadRune";
+DKTS_ACTOR_4 = "Megasphere";
+DKTS_ACTORST_5 = "ResistanceRune";
+DKTS_ACTOR_5 = "Megasphere";
+DKTS_ACTORST_6 = "RegenerationRune";
+DKTS_ACTOR_6 = "Megasphere";
+DKTS_ACTORST_7 = "ProsperityRune";
+DKTS_ACTOR_7 = "Megasphere";
+DKTS_ACTORST_8 = "ReflectionRune";
+DKTS_ACTOR_8 = "Megasphere";
+DKTS_ACTORST_9 = "HighJumpRune";
+DKTS_ACTOR_9 = "Megasphere";
+DKTS_ACTORST_10 = "HasteRune";
+DKTS_ACTOR_10 = "Megasphere";
+DKTS_ACTOR_11 = "Lexicon_DKTS_MegaMap";
+DKTS_ACTOR_12 = "Lexicon_DKTS_SuperBoss";
+DKTS_ACTOR_13 = "Lexicon_DKTS_DiscoImpSpawner";
+DKTS_ACTOR_14 = "Lexicon_DKTS_PracticeTargets";
+DKTS_ACTOR_15 = "Lexicon_DKTS_TkBarrel";
+DKTS_ACTOR_16 = "Lexicon_DKTS_CyberSpider";
+DKTS_MAPSET_AUTH = "lihanchi";
+DKTS_MAPSET_CUST = "Y";
+DKTS_MAPSET_DATE = "2015";
+DKTS_MAPSET_MAPS = "43";
+DKTS_MAPSET_TTLE = "Dark Tartarus";
+
 // Maps of Chaos
 MOC2_MAPSET_AUTH = "DoomVideoVault";
 MOC2_MAPSET_CUST = "N";
