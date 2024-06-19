@@ -10,6 +10,15 @@ switch CHLX0712 on pic CHLX0752 tics 0
 switch CHLX0717 on pic CHLX0757 tics 0
 switch CHLX0723 on pic CHLX0763 tics 0
 
+// Dark Tartarus
+Switch	Doom 3		DKTS0235   	On Pic	DKTS0236   	Tics 0
+Texture	Optional	DKTS0249  	Range	DKTS0252  	Tics 8
+Texture	Optional	DKTS0253  	Range	DKTS0256  	Tics 8
+Texture	Optional	DKTS0245	Range	DKTS0248	Tics 8
+Texture	Optional	DKTS0082	Range	DKTS0080	Tics 8
+Texture	Optional	DKTS0011	Range	DKTS0014	Tics 8
+Switch	Doom 3		DKTS0271   	On Pic	DKTS0272  	Tics 0
+
 // Newgothic Movement 1
 texture NGM10457 range NGM10460 tics 8 allowdecals
 texture NGM10520 range NGM10523 tics 8

@@ -1,4 +1,5 @@
 #include "decorate/CHLX.txt" // Chillax
+#include "decorate/DKTS.txt" // Dark Tartarus
 #include "decorate/SF11.txt" // Slaughterfest 2011
 #include "decorate/SF12.txt" // Slaughterfest 2012
 #include "decorate/SF13.txt" // Slaughterfest 3
