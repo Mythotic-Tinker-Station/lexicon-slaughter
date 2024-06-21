@@ -4,7 +4,7 @@ defaultmap
 {
 	nojump
 	nocrouch
-	specialaction = "Cyberdemon", "Door_Open", 666
+	specialaction = "Cyberdemon", "Door_Open", 666, 16
 }
 
 map SF1301 "01: Resurrect Dead"
