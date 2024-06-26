@@ -2625,7 +2625,6 @@ Actor Lexicon_DKTS_CyberFrameG : Lexicon_DKTS_CyberFrameA
 
 ACTOR Lexicon_DKTS_AwesomeSphere : Health
 {
-  Game Doom
   +COUNTITEM
   +INVENTORY.AUTOACTIVATE
   +INVENTORY.BIGPOWERUP
