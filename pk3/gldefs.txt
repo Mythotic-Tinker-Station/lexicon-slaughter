@@ -1,1 +1,2 @@
+#include "gldefs/HSTE.txt" // Haste
 #include "gldefs/SF13.txt" // Slaugherfest 3

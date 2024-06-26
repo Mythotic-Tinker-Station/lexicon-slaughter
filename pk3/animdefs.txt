@@ -19,6 +19,13 @@ Texture	Optional	DKTS0082	Range	DKTS0080	Tics 8
 Texture	Optional	DKTS0011	Range	DKTS0014	Tics 8
 Switch	Doom 3		DKTS0271   	On Pic	DKTS0272  	Tics 0
 
+// Haste
+texture HSTE0128 range HSTE0131 tics 8
+texture HSTE0566 range HSTE0569 tics 8
+texture HSTE0584 range HSTE0602 tics 8
+texture HSTE0606 range HSTE0609 tics 8
+switch HSTE0613 on pic HSTE0614 tics 0
+
 // Newgothic Movement 1
 texture NGM10457 range NGM10460 tics 8 allowdecals
 texture NGM10520 range NGM10523 tics 8

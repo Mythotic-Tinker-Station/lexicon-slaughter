@@ -1,2 +1,7 @@
+// Haste
+generator Lexicon_HSTE_ArachnotronPlasma	ArachnotronScorch
+generator Lexicon_HSTE_PlasmaBall	PlasmaScorch
+
 // Slaughterfest 3
+generator Lexicon_SF13_Arachnotron	ArachnotronScorch
 generator Lexicon_SF13_PlasmaBall	PlasmaScorch
