@@ -45,6 +45,24 @@ DKTS_MAPSET_DATE = "2015";
 DKTS_MAPSET_MAPS = "43";
 DKTS_MAPSET_TTLE = "Dark Tartarus";
 
+// Deus Vult
+DSV1_ACTOR_1 = "Lexicon_DSV1_BurningBarrel";
+DSV1_ACTOR_2 = "Lexicon_DSV1_CommanderKeen";
+DSV1_ACTOR_3 = "Lexicon_DSV1_BossEye";
+DSV1_ACTORALT_3 = "BossEye";
+DSV1_MAPSET_AUTH = "Huy Pham";
+DSV1_MAPSET_CUST = "Y";
+DSV1_MAPSET_DATE = "2004";
+DSV1_MAPSET_MAPS = "4";
+DSV1_MAPSET_TTLE = "Deus Vult";
+
+// Deus Vult II
+DSV2_MAPSET_AUTH = "Huy Pham";
+DSV2_MAPSET_CUST = "Y";
+DSV2_MAPSET_DATE = "2008";
+DSV2_MAPSET_MAPS = "13";
+DSV2_MAPSET_TTLE = "Deus Vult II";
+
 // Haste
 HSTE_ACTOR_1 = "Lexicon_HSTE_Arachnotron";
 HSTE_ACTORALT_1 = "Arachnotron";

@@ -1,2 +1,3 @@
+#include "gldefs/DSV1.txt" // Deus Vult
 #include "gldefs/HSTE.txt" // Haste
 #include "gldefs/SF13.txt" // Slaugherfest 3
