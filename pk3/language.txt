@@ -63,6 +63,17 @@ DSV2_MAPSET_DATE = "2008";
 DSV2_MAPSET_MAPS = "13";
 DSV2_MAPSET_TTLE = "Deus Vult II";
 
+// Drown in Blood
+DIBL_WEAPON_2 = "Lexicon_DIBL_Pistol";
+DIBL_WEAPON_4 = "Lexicon_DIBL_Shotgun";
+DIBL_WEAPON_6 = "Lexicon_DIBL_Chaingun";
+DIBL_WEAPON_7 = "Lexicon_DIBL_RocketLauncher";
+DIBL_MAPSET_AUTH = "TimeOfDeath, Ak-01, Doom Trooper, various fixes by EnragedLegendaryGoldberg";
+DIBL_MAPSET_CUST = "Y";
+DIBL_MAPSET_DATE = "2018";
+DIBL_MAPSET_MAPS = "29";
+DIBL_MAPSET_TTLE = "Drown in Blood";
+
 // Haste
 HSTE_ACTOR_1 = "Lexicon_HSTE_Arachnotron";
 HSTE_ACTORALT_1 = "Arachnotron";
