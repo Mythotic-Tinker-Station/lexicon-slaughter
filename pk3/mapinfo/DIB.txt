@@ -1,0 +1,396 @@
+// Drown in Blood Mapinfo
+
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
+map DIBL01 "Penetration"
+{
+	titlepatch = "DBILV00"
+	next = "DIBL02"
+	secretnext = "DIBL02"
+	sky1 = "DIBL0318"
+	music = "D_DIBL01"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL02 "Hell Forge" 
+{
+	titlepatch = "DBILV01"
+	next = "DIBL03"
+	secretnext = "DIBL03"
+	sky1 = "DIBL0318"
+	music = "D_DIBL02"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL03 "Abrasion"
+{
+	titlepatch = "DBILV02"
+	next = "DIBL04"
+	secretnext = "DIBL04"
+	sky1 = "DIBL0318"
+	music = "D_DIBL03"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL04 "Einfach"
+{
+	titlepatch = "DBILV03"
+	next = "DIBL05"
+	secretnext = "DIBL05"
+	sky1 = "DIBL0318"
+	music = "D_DIBL04"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL05 "Doom 4 Tough"
+{
+	titlepatch = "DBILV04"
+	next = "DIBL06"
+	secretnext = "DIBL06"
+	sky1 = "DIBL0318"
+	music = "D_DIBL05"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL06 "Installation"
+{
+	titlepatch = "DBILV05"
+	next = "DIBL07"
+	secretnext = "DIBL07"
+	sky1 = "DIBL0318"
+	music = "D_DIBL06"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+	outsidefog = "C6 09 09"
+}
+
+map DIBL07 "Mortal Coil"
+{
+	titlepatch = "DBILV06"
+	next = "DIBL08"
+	secretnext = "DIBL08"
+	sky1 = "DIBL0318"
+	music = "D_DIBL07"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+	Map07Special
+}
+
+map DIBL08 "Winged Fortress"
+{
+	titlepatch = "DBILV07"
+	next = "DIBL09"
+	secretnext = "DIBL09"
+	sky1 = "DIBL0318"
+	music = "D_DIBL08"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL09 "Mars Sand"
+{
+	titlepatch = "DBILV08"
+	next = "DIBL10"
+	secretnext = "DIBL10"
+	sky1 = "DIBL0318"
+	music = "D_DIBL09"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL10 "Time of death"
+{
+	titlepatch = "DBILV09"
+	next = "DIBL11"
+	secretnext = "DIBL11"
+	sky1 = "DIBL0318"
+	music = "D_DIBL10"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL11 "Rusted Judas"
+{
+	titlepatch = "DBILV10"
+	next = "DIBL12"
+	secretnext = "DIBL12"
+	sky1 = "DIBL0318"
+	music = "D_DIBL11"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL12 "Open Circuit"
+{
+	titlepatch = "DBILV11"
+	next = "DIBL13"
+	secretnext = "DIBL13"
+	sky1 = "DIBL0319"
+	music = "D_DIBL12"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+	outsidefog = "ff ff ff"
+}
+
+map DIBL13 "Unnecessary Playground"
+{
+	titlepatch = "DBILV12"
+	next = "DIBL14"
+	secretnext = "DIBL14"
+	sky1 = "DIBL0319"
+	music = "D_DIBL13"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL14 "Slaughterhouse"
+{
+	titlepatch = "DBILV13"
+	next = "DIBL15"
+	secretnext = "DIBL15"
+	sky1 = "DIBL0319"
+	music = "D_DIBL14"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL15 "Carcass Depository"
+{
+	titlepatch = "DBILV14"
+	next = "DIBL16"
+	secretnext = "DIBL31"
+	sky1 = "DIBL0319"
+	music = "D_DIBL15"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+	outsidefog = "ff ff ff"
+}
+
+map DIBL16 "A Dream"
+{
+	titlepatch = "DBILV15"
+	next = "DIBL17"
+	secretnext = "DIBL17"
+	sky1 = "DIBL0319"
+	music = "D_DIBL16"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL17 "Death Ring"
+{
+	titlepatch = "DBILV16"
+	next = "DIBL18"
+	secretnext = "DIBL18"
+	sky1 = "DIBL0319"
+	music = "D_DIBL17"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL18 "Abondoned instalation"
+{
+	titlepatch = "DBILV17"
+	next = "DIBL19"
+	secretnext = "DIBL19"
+	sky1 = "DIBL0319"
+	music = "D_DIBL18"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+	outsidefog = "ff ff ff"
+}
+
+map DIBL19 "Entering Earth Energy Complex"
+{
+	next = "DIBL20"
+	secretnext = "DIBL20"
+	sky1 = "DIBL0319"
+	music = "D_DIBL19"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL20 "Kuthundral's Fortress"
+{
+	next = "DIBL21"
+	secretnext = "DIBL21"
+	sky1 = "DIBL0319"
+	music = "D_DIBL20"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL21 "Descent into the Maelstrom"
+{
+	next = "DIBL22"
+	secretnext = "DIBL22"
+	sky1 = "DIBL0320"
+	music = "D_DIBL21"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL22 "Drown in Blood Map 22"
+{
+	next = "DIBL23"
+	secretnext = "DIBL23"
+	sky1 = "DIBL0320"
+	music = "D_DIBL22"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL23 "The Map"
+{
+	next = "DIBL24"
+	secretnext = "DIBL24"
+	sky1 = "DIBL0320"
+	music = "D_DIBL23"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL24 "Drown in Blood Map 24"
+{
+	next = "DIBL25"
+	secretnext = "DIBL25"
+	sky1 = "DIBL0320"
+	music = "D_DIBL24"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL25 "Drown in Blood Map 25"
+{
+	next = "DIBL26"
+	secretnext = "DIBL26"
+	sky1 = "DIBL0320"
+	music = "D_DIBL25"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL26 "Drown in Blood Map 26"
+{
+	next = "DIBL27"
+	secretnext = "DIBL27"
+	sky1 = "DIBL0320"
+	music = "D_DIBL26"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL27 "Drown in Blood Map 27"
+{
+	next = "DIBL28"
+	secretnext = "DIBL28"
+	sky1 = "DIBL0320"
+	music = "D_DIBL27"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL28 "Drown in Blood Map 28"
+{
+	next = "DIBL29"
+	secretnext = "DIBL29"
+	sky1 = "DIBL0320"
+	music = "D_DIBL28"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL29 "Drown in Blood Map 29"
+{
+	next = "DIBL30"
+	secretnext = "DIBL30"
+	sky1 = "DIBL0320"
+	music = "D_DIBL29"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL30 "Drown in Blood Map 30"
+{
+	next = "DIBL33"
+	secretnext = "DIBL33"
+	sky1 = "DIBL0320"
+	music = "D_DIBL30"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+	allowmonstertelefrags
+}
+
+map DIBL31 "Metal Fact"
+{
+	titlepatch = "DBILV30"
+	next = "DIBL16"
+	secretnext = "DIBL32"
+	sky1 = "DIBL0320"
+	music = "D_DIBL31"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL32 "Forsaken Ruins"
+{
+	titlepatch = "DBILV31"
+	next = "DIBL16"
+	secretnext = "DIBL16"
+	sky1 = "DIBL0320"
+	music = "D_DIBL32"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
+
+map DIBL33 "Fortress"
+{
+	next = "VR"
+	secretnext = "VR"
+	sky1 = "DIBL0320"
+	music = "D_DIBL33"
+	intermusic = "D_DIBLIN"
+	ExitPic = "DIBLINT"
+	EnterPic = "DIBLINT"
+}
