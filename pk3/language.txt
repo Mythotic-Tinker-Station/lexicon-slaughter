@@ -98,6 +98,7 @@ DIBL_MAPSET_CUST = "Y";
 DIBL_MAPSET_DATE = "2018";
 DIBL_MAPSET_MAPS = "29";
 DIBL_MAPSET_TTLE = "Drown in Blood";
+DIBL_MAPFLAG_INFAMM = "Y";
 
 // Haste
 HSTE_ACTOR_1 = "Lexicon_HSTE_Arachnotron";

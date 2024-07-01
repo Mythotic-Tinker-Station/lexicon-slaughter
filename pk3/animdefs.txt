@@ -31,6 +31,9 @@ switch DSV10557 on pic DSV10597 tics 0
 switch DSV10559 on pic DSV10599 tics 0
 switch DSV10573 on pic DSV10613 tics 0
 
+// Drown in Blood
+switch DIBL0410 on pic DIBL0450 tics 0
+
 // Haste
 texture HSTE0128 range HSTE0131 tics 8
 texture HSTE0566 range HSTE0569 tics 8
