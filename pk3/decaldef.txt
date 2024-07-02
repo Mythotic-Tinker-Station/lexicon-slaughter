@@ -1,3 +1,9 @@
+// Drown in Blood
+generator Lexicon_DIBL_Pistol	BulletChip
+generator Lexicon_DIBL_Shotgun	BulletChip
+generator Lexicon_DIBL_Chaingun	BulletChip
+generator Lexicon_DIBL_Rocket	Scorch
+
 // Haste
 generator Lexicon_HSTE_ArachnotronPlasma	ArachnotronScorch
 generator Lexicon_HSTE_PlasmaBall	PlasmaScorch

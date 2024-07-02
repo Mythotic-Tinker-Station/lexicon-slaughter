@@ -96,7 +96,7 @@ DIBL_GOTSHOTGUN = "Shotgun...... What a crap.....";
 DIBL_MAPSET_AUTH = "TimeOfDeath, Ak-01, Doom Trooper, various fixes by EnragedLegendaryGoldberg";
 DIBL_MAPSET_CUST = "Y";
 DIBL_MAPSET_DATE = "2018";
-DIBL_MAPSET_MAPS = "29";
+DIBL_MAPSET_MAPS = "28";
 DIBL_MAPSET_TTLE = "Drown in Blood";
 DIBL_MAPFLAG_INFAMM = "Y";
 
