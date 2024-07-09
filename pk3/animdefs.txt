@@ -31,6 +31,121 @@ switch DSV10557 on pic DSV10597 tics 0
 switch DSV10559 on pic DSV10599 tics 0
 switch DSV10573 on pic DSV10613 tics 0
 
+// Deus Vult II
+texture DSV24831 range DSV24839 tics 8
+texture DSV24840 range DSV24848 tics 8
+texture DSV24849 range DSV24852 tics 8
+texture DSV24853 range DSV24856 tics 8
+texture DSV24857 range DSV24860 tics 8
+texture DSV24861 range DSV24864 tics 8
+texture DSV24865 range DSV24868 tics 8
+texture DSV24944 range DSV24947 tics 8
+texture DSV24948 range DSV24957 tics 8
+texture DSV24964 range DSV24976 tics 8
+texture DSV24989 range DSV25003 tics 8
+texture DSV25004 range DSV25017 tics 8
+texture DSV25024 range DSV25063 tics 8
+texture DSV25080 range DSV25095 tics 8
+texture DSV25096 range DSV25111 tics 8
+texture DSV25112 range DSV25127 tics 8
+texture DSV25128 range DSV25143 tics 8
+texture DSV25144 range DSV25159 tics 8
+texture DSV25160 range DSV25175 tics 8
+texture DSV25192 range DSV25195 tics 8
+texture DSV25196 range DSV25199 tics 8
+texture DSV25215 range DSV25218 tics 8
+texture DSV25219 range DSV25222 tics 8
+texture DSV25235 range DSV25243 tics 8
+texture DSV25253 range DSV25256 tics 8
+texture DSV25290 range DSV25295 tics 8
+texture DSV25309 range DSV25312 tics 8
+texture DSV25313 range DSV25356 tics 8
+texture DSV25357 range DSV25375 tics 8
+texture DSV25376 range DSV25457 tics 8
+texture DSV25458 range DSV25470 tics 8
+texture DSV25471 range DSV25518 tics 8
+texture DSV25557 range DSV25560 tics 8
+texture DSV25579 range DSV25581 tics 8
+texture DSV25582 range DSV25587 tics 8
+texture DSV25588 range DSV25593 tics 8
+texture DSV25600 range DSV25605 tics 8
+texture DSV25606 range DSV25609 tics 8
+texture DSV25619 range DSV25623 tics 8
+texture DSV25636 range DSV25639 tics 8
+texture DSV25648 range DSV25651 tics 8
+flat DSV21064 range DSV21067 tics 8
+flat DSV21096 range DSV21099 tics 8
+flat DSV21135 range DSV21138 tics 8
+switch DSV24438 on pic DSV24537 tics 0
+switch DSV24439 on pic DSV24538 tics 0
+switch DSV24440 on pic DSV24539 tics 0
+switch DSV24441 on pic DSV24540 tics 0
+switch DSV24442 on pic DSV24541 tics 0
+switch DSV24443 on pic DSV24542 tics 0
+switch DSV24444 on pic DSV24543 tics 0
+switch DSV24445 on pic DSV24544 tics 0
+switch DSV24446 on pic DSV24545 tics 0
+switch DSV24448 on pic DSV24547 tics 0
+switch DSV24451 on pic DSV24550 tics 0
+switch DSV24452 on pic DSV24551 tics 0
+switch DSV24453 on pic DSV24552 tics 0
+switch DSV24454 on pic DSV24553 tics 0
+switch DSV24455 on pic DSV24554 tics 0
+switch DSV24456 on pic DSV24555 tics 0
+switch DSV24457 on pic DSV24556 tics 0
+switch DSV24458 on pic DSV24557 tics 0
+switch DSV24459 on pic DSV24558 tics 0
+switch DSV24460 on pic DSV24559 tics 0
+switch DSV24461 on pic DSV24560 tics 0
+switch DSV24462 on pic DSV24561 tics 0
+switch DSV24463 on pic DSV24562 tics 0
+switch DSV24464 on pic DSV24563 tics 0
+switch DSV24465 on pic DSV24564 tics 0
+switch DSV24466 on pic DSV24565 tics 0
+switch DSV24467 on pic DSV24566 tics 0
+switch DSV24468 on pic DSV24567 tics 0
+switch DSV24469 on pic DSV24568 tics 0
+switch DSV24470 on pic DSV24569 tics 0
+switch DSV24471 on pic DSV24570 tics 0
+switch DSV24472 on pic DSV24571 tics 0
+switch DSV24473 on pic DSV24572 tics 0
+switch DSV24474 on pic DSV24573 tics 0
+switch DSV24475 on pic DSV24574 tics 0
+switch DSV24477 on pic DSV24576 tics 0
+switch DSV24478 on pic DSV24577 tics 0
+switch DSV24479 on pic DSV24578 tics 0
+switch DSV24482 on pic DSV24581 tics 0
+switch DSV24483 on pic DSV24582 tics 0
+switch DSV24484 on pic DSV24583 tics 0
+switch DSV24485 on pic DSV24584 tics 0
+switch DSV24486 on pic DSV24585 tics 0
+switch DSV24487 on pic DSV24586 tics 0
+switch DSV24489 on pic DSV24588 tics 0
+switch DSV24490 on pic DSV24589 tics 0
+switch DSV24491 on pic DSV24590 tics 0
+switch DSV24493 on pic DSV24592 tics 0
+switch DSV24494 on pic DSV24593 tics 0
+switch DSV24495 on pic DSV24594 tics 0
+switch DSV24496 on pic DSV24595 tics 0
+switch DSV24497 on pic DSV24596 tics 0
+switch DSV24498 on pic DSV24597 tics 0
+switch DSV24499 on pic DSV24598 tics 0
+switch DSV24500 on pic DSV24599 tics 0
+switch DSV24501 on pic DSV24600 tics 0
+switch DSV24503 on pic DSV24602 tics 0
+switch DSV24505 on pic DSV24604 tics 0
+switch DSV24506 on pic DSV24605 tics 0
+switch DSV24507 on pic DSV24606 tics 0
+switch DSV24508 on pic DSV24607 tics 0
+switch DSV24509 on pic DSV24608 tics 0
+switch DSV24511 on pic DSV24610 tics 0
+switch DSV24512 on pic DSV24611 tics 0
+switch DSV24513 on pic DSV24612 tics 0
+switch DSV24514 on pic DSV24613 tics 0
+switch DSV24515 on pic DSV24614 tics 0
+switch DSV24516 on pic DSV24615 tics 0
+switch DSV24517 on pic DSV24616 tics 0
+
 // Drown in Blood
 switch DIBL0410 on pic DIBL0450 tics 0
 
