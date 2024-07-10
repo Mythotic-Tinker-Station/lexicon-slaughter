@@ -233,7 +233,7 @@ ACTOR Lexicon_DIBL_Cyberdemon : Cyberdemon
 }
 
 ACTOR Lexicon_DIBL_Zombieman : Zombieman  { AttackSound "DIBL/DSPISTOL" }
-ACTOR Lexicon_DIBL_ShotgunGuy : ShotgunGuy  { AttackSound "DIBL/DSSHOTGN" }
-ACTOR Lexicon_DIBL_ChaingunGuy : ChaingunGuy  { AttackSound "DIBL/DSSHOTGN" }
+ACTOR Lexicon_DIBL_ShotgunGuy : ShotgunGuy  { AttackSound "DIBL/DSSHOTGN" DropItem "Lexicon_DIBL_Shotgun" }
+ACTOR Lexicon_DIBL_ChaingunGuy : ChaingunGuy  { AttackSound "DIBL/DSSHOTGN" DropItem "Lexicon_DIBL_Chaingun" }
 ACTOR Lexicon_DIBL_Demon : Demon  { Speed 20 }
 ACTOR Lexicon_DIBL_SpiderMastermind : SpiderMastermind  { AttackSound "DIBL/DSSHOTGN" }
