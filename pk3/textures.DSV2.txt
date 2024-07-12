@@ -7132,7 +7132,6 @@ WallTexture "DSV23787", 256, 256
 
 WallTexture "DSV23825", 128, 384
 {
-	Patch "", 0, 256
 	Patch "DSV21822", 0, 0
 	Patch "DSV28847", 0, 256
 	Patch "DSV28701", 88, 256
@@ -11142,7 +11141,7 @@ WallTexture "DSV25599", 2048, 256
 
 WallTexture "DSV25619", 128, 128
 {
-	Patch "DSV210149", 0, 0
+	Patch "ZZZZ0150", 0, 0
 	Patch "DSV22644", 0, 88
 	Patch "DSV22637", 43, 88
 	Patch "DSV22644", 85, 88
@@ -11150,7 +11149,7 @@ WallTexture "DSV25619", 128, 128
 
 WallTexture "DSV25620", 128, 128
 {
-	Patch "DSV210150", 0, 0
+	Patch "ZZZZ0151", 0, 0
 	Patch "DSV22644", 0, 88
 	Patch "DSV22637", 43, 88
 	Patch "DSV22644", 85, 88
@@ -11158,7 +11157,7 @@ WallTexture "DSV25620", 128, 128
 
 WallTexture "DSV25621", 128, 128
 {
-	Patch "DSV210151", 0, 0
+	Patch "ZZZZ0152", 0, 0
 	Patch "DSV22644", 0, 88
 	Patch "DSV22637", 43, 88
 	Patch "DSV22644", 85, 88
@@ -11166,7 +11165,7 @@ WallTexture "DSV25621", 128, 128
 
 WallTexture "DSV25622", 128, 128
 {
-	Patch "DSV210152", 0, 0
+	Patch "ZZZZ0153", 0, 0
 	Patch "DSV22644", 0, 88
 	Patch "DSV22637", 43, 88
 	Patch "DSV22644", 85, 88
@@ -11174,7 +11173,7 @@ WallTexture "DSV25622", 128, 128
 
 WallTexture "DSV25623", 128, 128
 {
-	Patch "DSV210153", 0, 0
+	Patch "ZZZZ0154", 0, 0
 	Patch "DSV22644", 0, 88
 	Patch "DSV22637", 43, 88
 	Patch "DSV22644", 85, 88
@@ -11182,101 +11181,101 @@ WallTexture "DSV25623", 128, 128
 
 WallTexture "DSV25624", 128, 128
 {
-	Patch "DSV210154", 0, 8
+	Patch "ZZZZ0155", 0, 8
 	Patch "DSV24340", 0, 112
 	Patch "DSV24332", 0, 0
 }
 
 WallTexture "DSV25625", 128, 128
 {
-	Patch "DSV210155", 0, 8
+	Patch "ZZZZ0156", 0, 8
 	Patch "DSV24332", 0, 0
 	Patch "DSV24340", 0, 112
 }
 
 WallTexture "DSV25626", 128, 128
 {
-	Patch "DSV210156", 0, 8
+	Patch "ZZZZ0157", 0, 8
 	Patch "DSV24340", 0, 112
 	Patch "DSV24332", 0, 0
 }
 
 WallTexture "DSV25627", 128, 128
 {
-	Patch "DSV210157", 0, 8
+	Patch "ZZZZ0158", 0, 8
 	Patch "DSV24340", 0, 112
 	Patch "DSV24332", 0, 0
 }
 
 WallTexture "DSV25628", 128, 64
 {
-	Patch "DSV210158", 0, 0
+	Patch "ZZZZ0159", 0, 0
 	Patch "DSV24340", 0, 48
 }
 
 WallTexture "DSV25629", 128, 64
 {
-	Patch "DSV210159", 0, 0
+	Patch "ZZZZ0160", 0, 0
 	Patch "DSV24340", 0, 48
 }
 
 WallTexture "DSV25630", 128, 64
 {
-	Patch "DSV210160", 0, 0
+	Patch "ZZZZ0161", 0, 0
 	Patch "DSV24340", 0, 48
 }
 
 WallTexture "DSV25631", 128, 64
 {
-	Patch "DSV210161", 0, 0
+	Patch "ZZZZ0162", 0, 0
 	Patch "DSV24340", 0, 48
 }
 
 WallTexture "DSV25632", 128, 64
 {
-	Patch "DSV210162", 0, 0
+	Patch "ZZZZ0163", 0, 0
 	Patch "DSV24340", 0, 48
 }
 
 WallTexture "DSV25633", 128, 64
 {
-	Patch "DSV210163", 0, 0
+	Patch "ZZZZ0164", 0, 0
 	Patch "DSV24340", 0, 48
 }
 
 WallTexture "DSV25634", 128, 64
 {
-	Patch "DSV210164", 0, 0
+	Patch "ZZZZ0165", 0, 0
 	Patch "DSV24340", 0, 48
 }
 
 WallTexture "DSV25635", 128, 64
 {
-	Patch "DSV210165", 0, 0
+	Patch "ZZZZ0166", 0, 0
 	Patch "DSV24340", 0, 48
 }
 
 WallTexture "DSV25636", 256, 128
 {
-	Patch "DSV210166", 0, 0
+	Patch "ZZZZ0167", 0, 0
 	Patch "DSV25640", 0, 64
 }
 
 WallTexture "DSV25637", 256, 128
 {
-	Patch "DSV210167", 0, 0
+	Patch "ZZZZ0168", 0, 0
 	Patch "DSV25641", 0, 64
 }
 
 WallTexture "DSV25638", 256, 128
 {
-	Patch "DSV210168", 0, 0
+	Patch "ZZZZ0169", 0, 0
 	Patch "DSV25642", 0, 64
 }
 
 WallTexture "DSV25639", 256, 128
 {
-	Patch "DSV210169", 0, 0
+	Patch "ZZZZ0170", 0, 0
 	Patch "DSV25643", 0, 64
 }
 

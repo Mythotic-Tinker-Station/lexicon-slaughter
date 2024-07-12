@@ -1,3 +1,9 @@
+// Deus Vult II
+generator Lexicon_DSV2_Pistol	BulletChip
+generator Lexicon_DSV2_Chainsaw	BulletChip
+generator Lexicon_DSV2_Shotgun	BulletChip
+generator Lexicon_DSV2_Chaingun	BulletChip
+
 // Drown in Blood
 generator Lexicon_DIBL_Pistol	BulletChip
 generator Lexicon_DIBL_Shotgun	BulletChip

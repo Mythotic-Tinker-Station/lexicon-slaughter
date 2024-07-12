@@ -49,7 +49,7 @@ map DSV203 "Crouching Demon, Hidden Archvile"
 
 map DSV212 "Minas Morgul"
 {
-	titlepatch = "DSV2V03"
+	titlepatch = "DSV2V11"
 	next = "DSV213"
 	secretnext = "DSV213"
 	sky1 = "DSV24249"
@@ -61,7 +61,7 @@ map DSV212 "Minas Morgul"
 
 map DSV213 "Eagle's Nest"
 {
-	titlepatch = "DSV2V04"
+	titlepatch = "DSV2V12"
 	next = "DSV219"
 	secretnext = "DSV219"
 	sky1 = "DSV24249"
