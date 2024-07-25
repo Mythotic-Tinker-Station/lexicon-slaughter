@@ -1,0 +1,118 @@
+// Shai'tan's Luck Mapinfo
+
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
+map SHLK20 "Icon of Sin"
+{
+	titlepatch = "CWILV19"
+	next = "SHLK21"
+	secretnext = "SHLK21"
+	sky1 = "SKY2"
+	music = "D_SHLK20"
+	intermusic = "D_SHLKIN"
+}
+
+map SHLK21 "Sewers"
+{
+	titlepatch = "CWILV20"
+	next = "SHLK22"
+	secretnext = "SHLK22"
+	sky1 = "SKY3"
+	music = "D_SHLK21"
+	intermusic = "D_SHLKIN"
+}
+
+map SHLK22 "Processing"
+{
+	titlepatch = "CWILV21"
+	next = "SHLK23"
+	secretnext = "SHLK23"
+	sky1 = "SKY3"
+	music = "D_SHLK22"
+	intermusic = "D_SHLKIN"
+}
+
+map SHLK23 "Area47"
+{
+	titlepatch = "CWILV22"
+	next = "SHLK24"
+	secretnext = "SHLK24"
+	sky1 = "SKY3"
+	music = "D_SHLK23"
+	intermusic = "D_SHLKIN"
+}
+
+map SHLK24 "Colorado Hills"
+{
+	titlepatch = "CWILV23"
+	next = "SHLK25"
+	secretnext = "SHLK25"
+	sky1 = "SKY3"
+	music = "D_SHLK24"
+	intermusic = "D_SHLKIN"
+}
+
+map SHLK25 "Native Ruins"
+{
+	titlepatch = "CWILV24"
+	next = "SHLK26"
+	secretnext = "SHLK26"
+	sky1 = "SKY3"
+	music = "D_SHLK25"
+	intermusic = "D_SHLKIN"
+}
+
+map SHLK26 "Mining Site"
+{
+	titlepatch = "CWILV25"
+	next = "SHLK27"
+	secretnext = "SHLK27"
+	sky1 = "SKY3"
+	music = "D_SHLK26"
+	intermusic = "D_SHLKIN"
+}
+
+map SHLK27 "Area42"
+{
+	titlepatch = "CWILV26"
+	next = "SHLK28"
+	secretnext = "SHLK28"
+	sky1 = "SKY3"
+	music = "D_SHLK27"
+	intermusic = "D_SHLKIN"
+}
+
+map SHLK28 "The Ring Forts"
+{
+	titlepatch = "CWILV27"
+	next = "SHLK29"
+	secretnext = "SHLK29"
+	sky1 = "SKY3"
+	music = "D_SHLK28"
+	intermusic = "D_SHLKIN"
+}
+
+map SHLK29 "Fallen Atlantis"
+{
+	titlepatch = "CWILV28"
+	next = "SHLK30"
+	secretnext = "SHLK30"
+	sky1 = "SKY3"
+	music = "D_SHLK29"
+	intermusic = "D_SHLKIN"
+}
+
+map SHLK30 "Shai'tan's Luck"
+{
+	titlepatch = "CWILV29"
+	next = "VR"
+	secretnext = "VR"
+	sky1 = "SKY3"
+	music = "D_SHLK30"
+	intermusic = "D_SHLKIN"
+	allowmonstertelefrags
+}

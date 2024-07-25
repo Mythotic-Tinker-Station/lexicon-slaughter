@@ -195,6 +195,17 @@ PZST_MAPSET_DATE = "2016";
 PZST_MAPSET_MAPS = "32";
 PZST_MAPSET_TTLE = "Pizza Steve";
 
+// Shai'tan's Luck
+SHLK_MAPSET_AUTH = "Christopher Shepherd";
+SHLK_MAPSET_CUST = "Y";
+SHLK_MAPSET_DATE = "2009";
+SHLK_MAPSET_MAPS = "11";
+SHLK_MAPSET_TTLE = "Shai'tan's Luck";
+SHLK_ACTOR_1 = "Lexicon_SHLK_TallGreenColumn";
+SHLK_ACTOR_2 = "Lexicon_SHLK_TallRedColumn";
+SHLK_ACTOR_3 = "Lexicon_SHLK_BigTree";
+SHLK_ACTOR_4 = "Lexicon_SHLK_ColonGibs";
+
 // Slaughterfest 2011
 SF11_ACTOR_1 = "Lexicon_SF11_WolfensteinSS";
 SF11_ACTOR_2 = "Lexicon_SF11_Chainsaw";

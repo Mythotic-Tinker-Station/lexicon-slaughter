@@ -10,4 +10,5 @@ include "mapinfo/PIZZAS.txt" // pizzaS.wad
 include "mapinfo/SF11.txt" // SF2011.wad
 include "mapinfo/SF12.txt" // SF2012_final.wad
 include "mapinfo/SF3.txt" // sf3.wad
+include "mapinfo/SL.txt" // SL.wad
 include "mapinfo/TARTARUS.txt" // tartaru5.wad

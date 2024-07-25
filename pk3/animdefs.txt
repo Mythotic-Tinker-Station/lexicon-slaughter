@@ -295,6 +295,10 @@ texture NGM20845 range NGM20854 tics 8
 texture NGM20856 range NGM20865 tics 8
 texture NGM21158 range NGM21161 tics 8
 
+// Shai'tan's Luck
+texture SHLK0830 range SHLK0833 tics 8
+flat SHLK0010 range SHLK0013 tics 8
+
 // Slaughterfest 2011
 texture SF110653 range SF110656 tics 8
 texture SF110658 range SF110661 tics 8
