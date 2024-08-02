@@ -13,11 +13,18 @@ CHLX_MAPSET_MAPS = "47";
 CHLX_MAPSET_TTLE = "Chillax";
 
 // Combat Shock 1
-CHLX_MAPSET_AUTH = "Daniel Jakobsson";
-CHLX_MAPSET_CUST = "N";
-CHLX_MAPSET_DATE = "2011";
-CHLX_MAPSET_MAPS = "4";
-CHLX_MAPSET_TTLE = "Combat Shock";
+CSH1_MAPSET_AUTH = "Daniel Jakobsson";
+CSH1_MAPSET_CUST = "N";
+CSH1_MAPSET_DATE = "2011";
+CSH1_MAPSET_MAPS = "4";
+CSH1_MAPSET_TTLE = "Combat Shock";
+
+// Combat Shock 2
+CSH2_MAPSET_AUTH = "Daniel Jakobsson";
+CSH2_MAPSET_CUST = "Y";
+CSH2_MAPSET_DATE = "2012";
+CSH2_MAPSET_MAPS = "7";
+CSH2_MAPSET_TTLE = "Combat Shock 2";
 
 // Dark Tartarus
 DKTS_ACTORST_1 = "StrengthRune";
@@ -96,7 +103,7 @@ DSV2_ACTOR_24 = "Lexicon_DSV2_WolfensteinSS";
 DSV2_ACTOR_25 = "Lexicon_DSV2_TechLamp";
 DSV2_ACTOR_26 = "Lexicon_DSV2_TechLamp2";
 DSV2_ACTOR_27 = "Lexicon_DSV2_BossBrain";
-//DSV2_ACTOR_28 = "Lexicon_DSV2_BossEye";
+DSV2_ACTOR_28 = "Lexicon_DSV2_BossEye";
 DSV2_ACTOR_29 = "Lexicon_DSV2_Shotgun";
 DSV2_ACTORALT_29 = "Shotgun";
 DSV2_ACTOR_30 = "Lexicon_DSV2_Chaingun";
