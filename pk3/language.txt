@@ -12,6 +12,13 @@ CHLX_MAPSET_DATE = "2020";
 CHLX_MAPSET_MAPS = "47";
 CHLX_MAPSET_TTLE = "Chillax";
 
+// Combat Shock 1
+CHLX_MAPSET_AUTH = "Daniel Jakobsson";
+CHLX_MAPSET_CUST = "N";
+CHLX_MAPSET_DATE = "2011";
+CHLX_MAPSET_MAPS = "4";
+CHLX_MAPSET_TTLE = "Combat Shock";
+
 // Dark Tartarus
 DKTS_ACTORST_1 = "StrengthRune";
 DKTS_ACTOR_1 = "Megasphere";

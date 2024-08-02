@@ -10,6 +10,14 @@ switch CHLX0712 on pic CHLX0752 tics 0
 switch CHLX0717 on pic CHLX0757 tics 0
 switch CHLX0723 on pic CHLX0763 tics 0
 
+// Combat Shock 1
+texture CSH10468 range CSH10473 tics 8
+texture CSH10495 range CSH10498 tics 8
+texture CSH10500 range CSH10518 tics 8
+texture CSH10576 range CSH10579 tics 8 allowdecals
+switch CSH10488 on pic CSH10489 tics 0
+switch CSH11098 on pic CSH11099 tics 0
+
 // Dark Tartarus
 Switch	Doom 3		DKTS0235   	On Pic	DKTS0236   	Tics 0
 Texture	Optional	DKTS0249  	Range	DKTS0252  	Tics 8
