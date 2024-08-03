@@ -1,3 +1,8 @@
+// Combat Shock 2
+generator Lexicon_CSH2_ZombieMan	BulletChip
+generator Lexicon_CSH2_ShotgunGuy	BulletChip
+generator Lexicon_CSH2_ChaingunGuy	BulletChip
+
 // Deus Vult II
 generator Lexicon_DSV2_Pistol	BulletChip
 generator Lexicon_DSV2_Chainsaw	BulletChip

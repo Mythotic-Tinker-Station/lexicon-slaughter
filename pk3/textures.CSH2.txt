@@ -1,0 +1,3544 @@
+WallTexture "CSH20413", 1024, 128
+{
+	Patch "CSH22165", 0, 0
+	Patch "CSH22166", 256, 0
+	Patch "CSH22167", 512, 0
+	Patch "CSH22168", 768, 0
+}
+
+WallTexture "CSH20470", 128, 128
+{
+	Patch "TP2_1", 0, 0
+	Patch "CSH22179", 0, 72
+	Patch "CSH22179", 64, 72
+	Patch "CSH23127", 96, 120
+	Patch "CSH23127", 96, 64
+	Patch "CSH23127", 64, 120
+	Patch "CSH23127", 64, 64
+	Patch "CSH23127", 32, 120
+	Patch "CSH23127", 32, 64
+	Patch "CSH23127", 0, 120
+	Patch "CSH23127", 0, 64
+}
+
+WallTexture "CSH20471", 128, 128
+{
+	Patch "TP2_1", 0, 0
+	Patch "CSH22186", 0, 72
+	Patch "CSH23135", 96, 64
+	Patch "CSH23135", 64, 64
+	Patch "CSH23135", 32, 120
+	Patch "CSH23135", 32, 64
+	Patch "CSH23135", 0, 120
+	Patch "CSH23135", 0, 64
+	Patch "CSH22186", 64, 72
+	Patch "CSH23135", 96, 120
+	Patch "CSH23135", 64, 120
+}
+
+WallTexture "CSH20475", 256, 128
+{
+	Patch "BSTONE2", 0, 0
+	Patch "BSTONE2", 128, 0
+	Patch "BSTONE2", 192, 0
+	Patch "BSTONE2", 64, 0
+	Patch "CSH20919", 0, 0
+}
+
+WallTexture "CSH20476", 256, 128
+{
+	Patch "BSTONE2", 0, 0
+	Patch "BSTONE2", 128, 0
+	Patch "BSTONE2", 192, 0
+	Patch "BSTONE2", 64, 0
+	Patch "CSH20920", 0, 0
+}
+
+WallTexture "CSH20488", 64, 128
+{
+	Patch "CSH22096", 0, 0
+	Patch "CSH22096", 0, 64
+}
+
+WallTexture "CSH20489", 128, 128
+{
+	Patch "CSH22060", 0, 0
+	Patch "AG128_2", 0, 72
+	Patch "AG128_2", 64, 72
+}
+
+WallTexture "CSH20490", 128, 128
+{
+	Patch "CSH22061", 0, 0
+	Patch "AG128_2", 0, 72
+	Patch "AG128_2", 64, 72
+}
+
+WallTexture "CSH20491", 256, 128
+{
+	Patch "CSH22099", 32, 0
+	Patch "CSH22101", 96, 0
+	Patch "CSH22097", 160, 0
+	Patch "CSH22098", 0, 64
+	Patch "CSH22100", 64, 64
+	Patch "COMP04_2", 128, 64
+	Patch "CSH22087", 192, 0
+	Patch "COMP04_1", 192, 64
+	Patch "CSH22097", 0, 0
+}
+
+WallTexture "CSH20492", 64, 128
+{
+	Patch "CSH22098", 0, 0
+	Patch "CSH22098", 0, 64
+}
+
+WallTexture "CSH20495", 64, 128
+{
+	Patch "CSH22066", 0, 0
+	Patch "CSH22068", 32, 0
+	Patch "CSH22066", 0, 64
+	Patch "CSH22068", 32, 64
+}
+
+WallTexture "CSH20496", 64, 128
+{
+	Patch "CSH22066", 0, 0
+	Patch "CSH22068", 32, 0
+	Patch "CSH23010", 0, 64
+	Patch "CSH23013", 32, 64
+}
+
+WallTexture "CSH20497", 64, 128
+{
+	Patch "CSH22066", 0, 0
+	Patch "CSH22068", 32, 0
+	Patch "CSH23015", 0, 64
+	Patch "CSH23018", 32, 64
+}
+
+WallTexture "CSH20498", 64, 128
+{
+	Patch "CSH22063", 0, 0
+	Patch "CSH22065", 32, 0
+	Patch "CSH22063", 0, 64
+	Patch "CSH22065", 32, 64
+}
+
+WallTexture "CSH20499", 64, 128
+{
+	Patch "CSH22063", 0, 0
+	Patch "CSH22065", 32, 0
+	Patch "CSH23010", 0, 64
+	Patch "CSH23013", 32, 64
+}
+
+WallTexture "CSH20500", 64, 128
+{
+	Patch "CSH22063", 0, 0
+	Patch "CSH22065", 32, 0
+	Patch "CSH22066", 0, 64
+	Patch "CSH22068", 32, 64
+}
+
+WallTexture "CSH20501", 64, 128
+{
+	Patch "CSH22063", 0, 0
+	Patch "CSH22065", 32, 0
+	Patch "CSH23015", 0, 64
+	Patch "CSH23018", 32, 64
+}
+
+WallTexture "CSH20502", 64, 128
+{
+	Patch "CSH23015", 0, 0
+	Patch "CSH23018", 32, 0
+	Patch "CSH23015", 0, 64
+	Patch "CSH23018", 32, 64
+}
+
+WallTexture "CSH20503", 64, 128
+{
+	Patch "CSH22071", 0, 0
+	Patch "CSH22071", 32, 0
+	Patch "CSH22066", 0, 64
+	Patch "CSH22068", 32, 64
+}
+
+WallTexture "CSH20504", 64, 128
+{
+	Patch "CSH22071", 0, 0
+	Patch "CSH22071", 32, 0
+	Patch "CSH22063", 0, 64
+	Patch "CSH22065", 32, 64
+}
+
+WallTexture "CSH20505", 64, 128
+{
+	Patch "CSH23020", 0, 0
+	Patch "CSH23020", 32, 0
+	Patch "CSH22063", 0, 64
+	Patch "CSH22065", 32, 64
+}
+
+WallTexture "CSH20506", 64, 128
+{
+	Patch "CSH23020", 0, 0
+	Patch "CSH23020", 32, 0
+	Patch "CSH22066", 0, 64
+	Patch "CSH22068", 32, 64
+}
+
+WallTexture "CSH20507", 64, 128
+{
+	Patch "CSH23020", 0, 0
+	Patch "CSH23020", 32, 0
+	Patch "CSH23015", 0, 64
+	Patch "CSH23018", 32, 64
+}
+
+WallTexture "CSH20508", 64, 128
+{
+	Patch "CSH23020", 0, 0
+	Patch "CSH23020", 32, 0
+	Patch "CSH23010", 0, 64
+	Patch "CSH23013", 32, 64
+}
+
+WallTexture "CSH20509", 64, 128
+{
+	Patch "CSH23016", 0, 0
+	Patch "CSH23016", 32, 0
+	Patch "CSH23015", 0, 64
+	Patch "CSH23018", 32, 64
+}
+
+WallTexture "CSH20510", 64, 128
+{
+	Patch "CSH23016", 0, 0
+	Patch "CSH23016", 32, 0
+	Patch "CSH23010", 0, 64
+	Patch "CSH23013", 32, 64
+}
+
+WallTexture "CSH20511", 64, 128
+{
+	Patch "CSH23011", 0, 0
+	Patch "CSH23011", 32, 0
+	Patch "CSH23015", 0, 64
+	Patch "CSH23018", 32, 64
+}
+
+WallTexture "CSH20512", 64, 128
+{
+	Patch "CSH23011", 0, 0
+	Patch "CSH23011", 32, 0
+	Patch "CSH23010", 0, 64
+	Patch "CSH23013", 32, 64
+}
+
+WallTexture "CSH20513", 64, 128
+{
+	Patch "CSH22071", 0, 0
+	Patch "CSH22071", 32, 0
+	Patch "CSH23015", 0, 64
+	Patch "CSH23018", 32, 64
+}
+
+WallTexture "CSH20514", 64, 128
+{
+	Patch "CSH22071", 0, 0
+	Patch "CSH22071", 32, 0
+	Patch "CSH23010", 0, 64
+	Patch "CSH23013", 32, 64
+}
+
+WallTexture "CSH20515", 64, 128
+{
+	Patch "CSH23011", 0, 0
+	Patch "CSH23011", 32, 0
+	Patch "CSH22066", 0, 64
+	Patch "CSH22068", 32, 64
+}
+
+WallTexture "CSH20516", 64, 128
+{
+	Patch "CSH23011", 0, 0
+	Patch "CSH23011", 32, 0
+	Patch "CSH22063", 0, 64
+	Patch "CSH22065", 32, 64
+}
+
+WallTexture "CSH20517", 64, 128
+{
+	Patch "CSH23016", 0, 0
+	Patch "CSH23016", 32, 0
+	Patch "CSH22066", 0, 64
+	Patch "CSH22068", 32, 64
+}
+
+WallTexture "CSH20518", 64, 128
+{
+	Patch "CSH23016", 0, 0
+	Patch "CSH23016", 32, 0
+	Patch "CSH22063", 0, 64
+	Patch "CSH22065", 32, 64
+}
+
+WallTexture "CSH20519", 64, 16
+{
+	Patch "CSH22072", 0, 0
+	Patch "CSH22072", 16, 0
+	Patch "CSH22072", 32, 0
+	Patch "CSH22072", 48, 0
+}
+
+WallTexture "CSH20520", 64, 16
+{
+	Patch "CSH23009", 0, 0
+	Patch "CSH23009", 16, 0
+	Patch "CSH23009", 32, 0
+	Patch "CSH23009", 48, 0
+}
+
+WallTexture "CSH20521", 64, 16
+{
+	Patch "CSH23019", 0, 0
+	Patch "CSH23019", 16, 0
+	Patch "CSH23019", 32, 0
+	Patch "CSH23019", 48, 0
+}
+
+WallTexture "CSH20522", 64, 16
+{
+	Patch "CSH23014", 0, 0
+	Patch "CSH23014", 16, 0
+	Patch "CSH23014", 32, 0
+	Patch "CSH23014", 48, 0
+}
+
+WallTexture "CSH20523", 128, 128
+{
+	Patch "CSH22066", 0, 64
+	Patch "CSH22067", 40, 64
+	Patch "CSH22067", 32, 64
+	Patch "CSH22067", 48, 64
+	Patch "CSH22067", 56, 64
+	Patch "CSH22068", 96, 64
+	Patch "CSH22067", 88, 64
+	Patch "CSH22067", 80, 64
+	Patch "CSH22067", 72, 64
+	Patch "CSH22067", 64, 64
+	Patch "CSH22063", 0, 0
+	Patch "CSH22065", 96, 0
+	Patch "CSH22064", 48, 0
+	Patch "CSH22064", 40, 0
+	Patch "CSH22064", 32, 0
+	Patch "CSH22064", 72, 0
+	Patch "CSH22064", 64, 0
+	Patch "CSH22064", 56, 0
+	Patch "CSH22064", 80, 0
+	Patch "CSH22064", 88, 0
+}
+
+WallTexture "CSH20525", 64, 128
+{
+	Patch "CSH20524", 0, 0
+	Patch "CSH23023", 0, 0
+	Patch "CSH23023", 32, 0
+	Patch "CSH23023", 32, 32
+	Patch "CSH23023", 0, 32
+}
+
+WallTexture "CSH20526", 64, 16
+{
+	Patch "CSH23022", 0, 0
+	Patch "CSH23022", 16, 0
+	Patch "CSH23022", 32, 0
+	Patch "CSH23022", 48, 0
+}
+
+WallTexture "CSH20527", 128, 128
+{
+	Patch "CSH23015", 0, 64
+	Patch "CSH23017", 40, 64
+	Patch "CSH23017", 32, 64
+	Patch "CSH23017", 48, 64
+	Patch "CSH23017", 56, 64
+	Patch "CSH23018", 96, 64
+	Patch "CSH23017", 88, 64
+	Patch "CSH23017", 80, 64
+	Patch "CSH23017", 72, 64
+	Patch "CSH23017", 64, 64
+	Patch "CSH22063", 0, 0
+	Patch "CSH22065", 96, 0
+	Patch "CSH22064", 48, 0
+	Patch "CSH22064", 40, 0
+	Patch "CSH22064", 32, 0
+	Patch "CSH22064", 72, 0
+	Patch "CSH22064", 64, 0
+	Patch "CSH22064", 56, 0
+	Patch "CSH22064", 80, 0
+	Patch "CSH22064", 88, 0
+}
+
+WallTexture "CSH20528", 128, 128
+{
+	Patch "CSH23015", 0, 64
+	Patch "CSH23017", 40, 64
+	Patch "CSH23017", 32, 64
+	Patch "CSH23017", 48, 64
+	Patch "CSH23017", 56, 64
+	Patch "CSH23018", 96, 64
+	Patch "CSH23017", 88, 64
+	Patch "CSH23017", 80, 64
+	Patch "CSH23017", 72, 64
+	Patch "CSH23017", 64, 64
+	Patch "CSH22066", 0, 0
+	Patch "CSH22068", 96, 0
+	Patch "CSH22067", 48, 0
+	Patch "CSH22067", 40, 0
+	Patch "CSH22067", 32, 0
+	Patch "CSH22067", 72, 0
+	Patch "CSH22067", 64, 0
+	Patch "CSH22067", 56, 0
+	Patch "CSH22067", 80, 0
+	Patch "CSH22067", 88, 0
+}
+
+WallTexture "CSH20529", 128, 128
+{
+	Patch "CSH23010", 0, 64
+	Patch "CSH23012", 40, 64
+	Patch "CSH23012", 32, 64
+	Patch "CSH23012", 48, 64
+	Patch "CSH23012", 56, 64
+	Patch "CSH23013", 96, 64
+	Patch "CSH23012", 88, 64
+	Patch "CSH23012", 80, 64
+	Patch "CSH23012", 72, 64
+	Patch "CSH23012", 64, 64
+	Patch "CSH22063", 0, 0
+	Patch "CSH22065", 96, 0
+	Patch "CSH22064", 48, 0
+	Patch "CSH22064", 40, 0
+	Patch "CSH22064", 32, 0
+	Patch "CSH22064", 72, 0
+	Patch "CSH22064", 64, 0
+	Patch "CSH22064", 56, 0
+	Patch "CSH22064", 80, 0
+	Patch "CSH22064", 88, 0
+}
+
+WallTexture "CSH20530", 128, 128
+{
+	Patch "CSH23010", 0, 64
+	Patch "CSH23012", 40, 64
+	Patch "CSH23012", 32, 64
+	Patch "CSH23012", 48, 64
+	Patch "CSH23012", 56, 64
+	Patch "CSH23013", 96, 64
+	Patch "CSH23012", 88, 64
+	Patch "CSH23012", 80, 64
+	Patch "CSH23012", 72, 64
+	Patch "CSH23012", 64, 64
+	Patch "CSH22066", 0, 0
+	Patch "CSH22068", 96, 0
+	Patch "CSH22067", 48, 0
+	Patch "CSH22067", 40, 0
+	Patch "CSH22067", 32, 0
+	Patch "CSH22067", 72, 0
+	Patch "CSH22067", 64, 0
+	Patch "CSH22067", 56, 0
+	Patch "CSH22067", 80, 0
+	Patch "CSH22067", 88, 0
+}
+
+WallTexture "CSH20547", 64, 128
+{
+	Patch "CSH22102", 0, 64
+	Patch "CSH22102", 0, 0
+	Patch "EXIT1", 17, 22
+}
+
+WallTexture "CSH20564", 256, 128
+{
+	Patch "CSH21010", 0, 0
+	Patch "CSH21010", 64, 0
+	Patch "CSH21010", 128, 0
+	Patch "CSH21010", 192, 0
+	Patch "CSH22223", 64, 0
+	Patch "CSH22224", 128, 0
+	Patch "CSH22224", 192, 0
+	Patch "CSH22224", 0, 0
+	Patch "CSH22224", 64, 56
+	Patch "CSH22223", 128, 56
+	Patch "CSH22224", 192, 56
+	Patch "CSH22224", 0, 56
+	Patch "W33_8", 0, 120
+	Patch "W33_8", 64, 120
+	Patch "W33_8", 128, 120
+	Patch "W33_8", 192, 120
+}
+
+WallTexture "CSH20716", 128, 128
+{
+	Patch "CSH22102", 0, 64
+	Patch "CSH22102", 64, 0
+	Patch "CSH22103", 0, 0
+	Patch "CSH22103", 64, 64
+}
+
+WallTexture "CSH20717", 128, 128
+{
+	Patch "CSH22105", 0, 0
+	Patch "CSH22104", 0, 64
+	Patch "CSH22105", 64, 64
+	Patch "CSH22104", 64, 0
+}
+
+WallTexture "CSH20730", 64, 128
+{
+	Patch "WALL02_2", 0, 56
+	Patch "WALL02_2", 0, 0
+	Patch "CSH22086", 20, 79
+}
+
+WallTexture "CSH20734", 64, 128
+{
+	Patch "CSH22096", 0, 64
+	Patch "CSH22099", 0, 0
+	Patch "CSH22096", 32, 64
+	Patch "SW2S0", 16, 72
+}
+
+WallTexture "CSH20739", 64, 128
+{
+	Patch "W31_1", 0, 64
+	Patch "W31_1", 0, 0
+	Patch "CSH22086", 19, 79
+}
+
+WallTexture "CSH20745", 64, 128
+{
+	Patch "WALL03_7", 0, 0
+	Patch "WALL03_7", 0, 64
+	Patch "CSH22086", 20, 68
+}
+
+WallTexture "CSH20746", 64, 128
+{
+	Patch "MODWALL1", 0, 0
+	Patch "CSH22086", 20, 80
+}
+
+WallTexture "CSH20754", 64, 128
+{
+	Patch "CSH22102", 0, 64
+	Patch "CSH22102", 0, 0
+	Patch "SW1S0", 16, 78
+}
+
+WallTexture "CSH20757", 64, 128
+{
+	Patch "TEKGREN2", 0, 0
+	Patch "CSH22086", 20, 79
+}
+
+WallTexture "CSH20758", 64, 128
+{
+	Patch "CSH21966", 0, -16
+	Patch "CSH20919", 0, 0
+	Patch "CSH22086", 20, 84
+}
+
+WallTexture "CSH20765", 64, 128
+{
+	Patch "WALL02_2", 0, 56
+	Patch "WALL02_2", 0, 0
+	Patch "CSH22085", 20, 79
+}
+
+WallTexture "CSH20766", 64, 128
+{
+	Patch "BROWNGRN", 0, 0
+	Patch "CSH22085", 20, 80
+}
+
+WallTexture "CSH20770", 64, 128
+{
+	Patch "CSH22096", 0, 64
+	Patch "CSH22099", 0, 0
+	Patch "CSH22096", 32, 64
+	Patch "SW2S1", 16, 72
+}
+
+WallTexture "CSH20775", 64, 128
+{
+	Patch "W31_1", 0, 64
+	Patch "W31_1", 0, 0
+	Patch "CSH22085", 19, 79
+}
+
+WallTexture "CSH20781", 64, 128
+{
+	Patch "WALL03_7", 0, 0
+	Patch "WALL03_7", 0, 64
+	Patch "CSH22085", 20, 68
+}
+
+WallTexture "CSH20782", 64, 128
+{
+	Patch "MODWALL1", 0, 0
+	Patch "CSH22085", 20, 80
+}
+
+WallTexture "CSH20790", 64, 128
+{
+	Patch "CSH22102", 0, 64
+	Patch "CSH22102", 0, 0
+	Patch "SW1S1", 16, 78
+}
+
+WallTexture "CSH20793", 64, 128
+{
+	Patch "TEKGREN2", 0, 0
+	Patch "CSH22085", 20, 79
+}
+
+WallTexture "CSH20794", 64, 128
+{
+	Patch "CSH21966", 0, -16
+	Patch "CSH20919", 0, 0
+	Patch "CSH22085", 20, 84
+}
+
+WallTexture "CSH20863", 24, 72
+{
+	Patch "WALL00_3", 0, 0
+	Patch "WALL00_3", 12, -6
+}
+
+WallTexture "CSH20867", 64, 128
+{
+	Patch "BROWNGRN", 0, 0
+	Patch "CSH22134", 1, 60
+}
+
+WallTexture "CSH20868", 64, 128
+{
+	Patch "BROWN96", 0, 0
+	Patch "CSH22134", 0, 57
+}
+
+WallTexture "CSH20869", 256, 128
+{
+	Patch "CSH22088", 0, 0
+	Patch "CSH22089", 64, 0
+	Patch "CSH22091", 128, 0
+	Patch "CSH22090", 192, 0
+	Patch "CSH22093", 0, 64
+	Patch "CSH22095", 64, 64
+	Patch "CSH22094", 128, 64
+	Patch "CSH22092", 192, 64
+	Patch "STEP08", 0, 56
+	Patch "STEP08", 32, 56
+	Patch "STEP08", 64, 56
+	Patch "STEP08", 96, 56
+	Patch "STEP08", 128, 56
+	Patch "STEP08", 160, 56
+	Patch "STEP08", 192, 56
+	Patch "STEP08", 224, 56
+	Patch "STEP08", 0, 120
+	Patch "STEP08", 32, 120
+	Patch "STEP08", 64, 120
+	Patch "STEP08", 96, 120
+	Patch "STEP08", 128, 120
+	Patch "STEP08", 160, 120
+	Patch "STEP08", 192, 120
+	Patch "STEP08", 224, 120
+}
+
+WallTexture "CSH20870", 128, 128
+{
+	Patch "COMP03_1", 0, 0
+	Patch "COMP03_2", 0, 64
+	Patch "COMP03_1", 64, 64
+	Patch "COMP03_2", 64, 0
+	Patch "CSH22124", 0, 0
+	Patch "CSH22124", 0, 64
+	Patch "CSH22125", 96, 64
+	Patch "CSH22125", 96, 0
+}
+
+WallTexture "CSH20871", 256, 128
+{
+	Patch "CSH22120", 26, 64
+	Patch "CSH22119", 0, 64
+	Patch "W33_8", 0, 56
+	Patch "W33_8", 64, 56
+	Patch "W33_8", 0, 120
+	Patch "W33_8", 64, 120
+	Patch "CSH22120", 28, 0
+	Patch "CSH22123", 72, 64
+	Patch "CSH22122", 0, 0
+	Patch "CSH22120", 176, 0
+	Patch "CSH22120", 128, 64
+	Patch "CSH22120", 112, 0
+	Patch "CSH22120", 160, 64
+	Patch "CSH22120", 136, 0
+	Patch "CSH22923", 200, 0
+	Patch "CSH22924", 200, 64
+	Patch "CSH22925", 136, 64
+	Patch "CSH22121", 72, 0
+	Patch "W33_8", 192, 120
+	Patch "W33_8", 128, 120
+	Patch "W33_8", 192, 56
+	Patch "W33_8", 128, 56
+}
+
+WallTexture "CSH20872", 256, 128
+{
+	Patch "CSH22120", 26, 64
+	Patch "CSH22939", 0, 64
+	Patch "W33_8", 0, 56
+	Patch "W33_8", 64, 56
+	Patch "W33_8", 0, 120
+	Patch "W33_8", 64, 120
+	Patch "CSH22120", 28, 0
+	Patch "CSH22123", 72, 64
+	Patch "CSH22940", 0, 0
+	Patch "CSH22120", 176, 0
+	Patch "CSH22120", 128, 64
+	Patch "CSH22120", 112, 0
+	Patch "CSH22120", 160, 64
+	Patch "CSH22120", 136, 0
+	Patch "CSH22923", 200, 0
+	Patch "CSH22924", 200, 64
+	Patch "CSH22926", 136, 64
+	Patch "CSH22121", 72, 0
+	Patch "W33_8", 192, 120
+	Patch "W33_8", 128, 120
+	Patch "W33_8", 192, 56
+	Patch "W33_8", 128, 56
+}
+
+WallTexture "CSH20873", 256, 56
+{
+	Patch "CSH22088", 0, 0
+	Patch "CSH22089", 64, 0
+	Patch "CSH22090", 128, 0
+	Patch "CSH22094", 192, 0
+}
+
+WallTexture "CSH20874", 128, 128
+{
+	Patch "SW11_4", 0, 4
+	Patch "CSH22118", 32, 4
+	Patch "SW11_4", 64, 4
+	Patch "CSH22088", 0, 0
+	Patch "CSH22118", 96, 4
+	Patch "CSH22089", 64, 0
+	Patch "STEP08", 0, 56
+	Patch "STEP08", 32, 56
+	Patch "STEP08", 64, 56
+	Patch "STEP08", 96, 56
+}
+
+WallTexture "CSH20875", 64, 128
+{
+	Patch "WALL02_2", 0, 56
+	Patch "WALL02_2", 0, 0
+	Patch "CSH22127", 5, 0
+	Patch "CSH22127", 35, 0
+}
+
+WallTexture "CSH20876", 16, 128
+{
+	Patch "T14_5", 0, 56
+	Patch "WLITA0", 0, 0
+	Patch "WLITC0", 8, 0
+	Patch "WLITA0", 0, 48
+	Patch "WLITC0", 8, 48
+	Patch "WLITA0", 0, 40
+	Patch "WLITC0", 8, 40
+	Patch "WLITA0", 0, 32
+	Patch "WLITC0", 8, 32
+	Patch "WLITA0", 0, 24
+	Patch "WLITC0", 8, 24
+	Patch "WLITA0", 0, 16
+	Patch "WLITC0", 8, 16
+	Patch "WLITA0", 0, 8
+	Patch "WLITC0", 8, 8
+}
+
+WallTexture "CSH20878", 16, 128
+{
+	Patch "CSH22107", 0, 0
+	Patch "CSH22107", 0, 56
+}
+
+WallTexture "CSH20880", 256, 128
+{
+	Patch "SHAWN2", 0, 0
+	Patch "CSH22128", 4, 69
+	Patch "SHAWN2", 64, 0
+	Patch "CSH22129", 68, 69
+	Patch "SHAWN2", 128, 0
+	Patch "CSH22130", 132, 69
+	Patch "CSH22131", 68, 7
+	Patch "CSH22132", 4, 7
+	Patch "CSH22133", 132, 7
+	Patch "SHAWN2", 192, 0
+	Patch "CSH22959", 196, 7
+	Patch "CSH22956", 196, 69
+}
+
+WallTexture "CSH20881", 256, 128
+{
+	Patch "SHAWN2", 0, 0
+	Patch "CSH22955", 4, 69
+	Patch "SHAWN2", 64, 0
+	Patch "CSH22956", 68, 69
+	Patch "SHAWN2", 128, 0
+	Patch "CSH22957", 132, 69
+	Patch "CSH22961", 68, 7
+	Patch "CSH22958", 4, 7
+	Patch "CSH22960", 132, 7
+	Patch "SHAWN2", 192, 0
+	Patch "CSH22954", 196, 7
+	Patch "CSH22962", 196, 69
+}
+
+WallTexture "CSH20882", 128, 128
+{
+	Patch "CSH22109", 0, 56
+	Patch "CSH22110", 64, 56
+	Patch "CSH22109", 0, 0
+	Patch "CSH22110", 64, 0
+}
+
+WallTexture "CSH20887", 64, 128
+{
+	Patch "SW12_4", 0, 0
+	Patch "SW12_5", 32, 0
+}
+
+WallTexture "CSH20888", 64, 128
+{
+	Patch "WALL01_1", 0, 0
+	Patch "WALL01_2", 16, 0
+	Patch "WALL01_3", 32, 0
+	Patch "WALL01_4", 48, 0
+	Patch "WALL01_1", 0, 72
+	Patch "WALL01_2", 16, 72
+	Patch "WALL01_3", 32, 72
+	Patch "WALL01_4", 48, 72
+	Patch "W33_8", 0, 64
+	Patch "W33_8", 0, 120
+	Patch "CSH22134", 1, 43
+}
+
+WallTexture "CSH20889", 64, 128
+{
+	Patch "CSH22058", 40, 0
+	Patch "CSH22058", 0, 0
+	Patch "CSH22058", 19, 0
+}
+
+WallTexture "CSH20890", 64, 128
+{
+	Patch "WALL02_2", 0, 56
+	Patch "WALL02_2", 0, 0
+	Patch "SW3S0", 16, 75
+}
+
+WallTexture "CSH20891", 64, 128
+{
+	Patch "BROWNGRN", 0, 0
+	Patch "CSH22086", 20, 80
+}
+
+WallTexture "CSH20892", 128, 128
+{
+	Patch "CSH20702", 0, 0
+	Patch "SW3S0", 48, 76
+}
+
+WallTexture "CSH20893", 64, 128
+{
+	Patch "CSH22103", 0, 0
+	Patch "CSH22102", 0, 64
+	Patch "WARNB0", 24, 73
+}
+
+WallTexture "CSH20894", 64, 128
+{
+	Patch "WALL01_1", 0, 0
+	Patch "WALL01_2", 16, 0
+	Patch "WALL01_3", 32, 0
+	Patch "WALL01_4", 48, 0
+	Patch "WALL01_1", 0, 72
+	Patch "WALL01_2", 16, 72
+	Patch "WALL01_3", 32, 72
+	Patch "WALL01_4", 48, 72
+	Patch "W33_8", 0, 64
+	Patch "W33_8", 0, 120
+	Patch "SW1S0", 16, 72
+}
+
+WallTexture "CSH20895", 64, 128
+{
+	Patch "STEP07", 32, 72
+	Patch "STEP07", 0, 72
+	Patch "WALL02_2", 0, 56
+	Patch "WALL02_2", 0, 0
+	Patch "SW3S1", 16, 75
+}
+
+WallTexture "CSH20896", 128, 128
+{
+	Patch "CSH20702", 0, 0
+	Patch "SW3S1", 48, 76
+}
+
+WallTexture "CSH20897", 64, 128
+{
+	Patch "CSH22102", 0, 64
+	Patch "WARNA0", 24, 73
+	Patch "CSH22103", 0, 0
+}
+
+WallTexture "CSH20898", 64, 128
+{
+	Patch "WALL01_1", 0, 0
+	Patch "WALL01_2", 16, 0
+	Patch "WALL01_3", 32, 0
+	Patch "WALL01_4", 48, 0
+	Patch "WALL01_1", 0, 72
+	Patch "WALL01_2", 16, 72
+	Patch "WALL01_3", 32, 72
+	Patch "WALL01_4", 48, 72
+	Patch "W33_8", 0, 64
+	Patch "W33_8", 0, 120
+	Patch "SW1S1", 16, 72
+}
+
+WallTexture "CSH20907", 256, 128
+{
+	Patch "WALL02_2", 0, 56
+	Patch "WALL02_2", 0, 0
+	Patch "WALL02_1", 88, 56
+	Patch "WALL02_1", 88, 0
+	Patch "WALL02_3", 64, 56
+	Patch "WALL02_3", 64, 0
+	Patch "WALL02_3", 152, 56
+	Patch "WALL02_3", 152, 0
+	Patch "WALL02_3", 232, 56
+	Patch "WALL02_2", 176, 56
+	Patch "WALL02_3", 232, 0
+	Patch "WALL02_2", 176, 0
+	Patch "CSH20920", 0, 0
+}
+
+WallTexture "CSH20908", 256, 72
+{
+	Patch "WALL03_4", 0, 0
+	Patch "CSH22146", 128, 0
+	Patch "WALL03_4", 64, 0
+	Patch "WALL03_4", 192, 0
+}
+
+WallTexture "CSH20909", 128, 128
+{
+	Patch "CEMENT1", 0, 0
+	Patch "CSH22134", 0, 28
+}
+
+WallTexture "CSH20910", 128, 128
+{
+	Patch "CSH22148", 64, 66
+	Patch "CSH22150", 0, 66
+	Patch "CSH22149", 0, 0
+	Patch "CSH22148", 64, 0
+}
+
+WallTexture "CSH20911", 64, 128
+{
+	Patch "CSH22151", 0, 0
+	Patch "CSH22151", 0, 32
+	Patch "CSH22151", 0, 96
+	Patch "CSH22151", 0, 64
+}
+
+WallTexture "CSH20912", 64, 128
+{
+	Patch "W33_7", 0, 0
+	Patch "W33_7", 0, 64
+	Patch "CSH22159", 14, 74
+}
+
+WallTexture "CSH20913", 64, 72
+{
+	Patch "WALL69_4", 0, 9
+	Patch "CSH22138", 0, 0
+}
+
+WallTexture "CSH20914", 64, 128
+{
+	Patch "WALL69_4", 0, 0
+	Patch "CSH22137", 4, 0
+	Patch "W32_4", 0, 64
+}
+
+WallTexture "CSH20915", 64, 128
+{
+	Patch "BROWN96", -1, 0
+	Patch "CSH22127", 4, 18
+	Patch "CSH22127", 38, 18
+}
+
+WallTexture "CSH20916", 128, 128
+{
+	Patch "WALL03_7", 0, 0
+	Patch "WALL03_7", 64, 0
+	Patch "WALL03_7", 0, 64
+	Patch "WALL03_7", 64, 64
+	Patch "CSH22127", 81, 34
+	Patch "CSH22127", 19, 34
+}
+
+WallTexture "CSH20917", 16, 128
+{
+	Patch "CSH22147", -4, 56
+	Patch "CSH22147", -4, 0
+}
+
+WallTexture "CSH20918", 64, 128
+{
+	Patch "CSH22103", 0, 0
+	Patch "CSH22102", 0, 64
+	Patch "CSH22127", 7, 27
+	Patch "CSH22127", 37, 27
+}
+
+WallTexture "CSH20921", 64, 128
+{
+	Patch "CSH22152", 0, 0
+	Patch "CSH22153", 32, 0
+}
+
+WallTexture "CSH20922", 256, 128
+{
+	Patch "CSH22143", 0, 0
+	Patch "CSH22144", 128, 0
+}
+
+WallTexture "CSH20924", 128, 128
+{
+	Patch "CSH22139", -12, 0
+	Patch "CSH22139", 116, 0
+}
+
+WallTexture "CSH20925", 128, 128
+{
+	Patch "CSH22140", -4, 0
+	Patch "CSH22140", 124, 0
+}
+
+WallTexture "CSH20927", 128, 128
+{
+	Patch "CSH22104", 64, 64
+	Patch "CSH22105", 64, 0
+	Patch "CSH22104", 0, 0
+	Patch "CSH22105", 0, 64
+	Patch "CSH22158", 0, 79
+	Patch "CSH22158", 64, 15
+}
+
+WallTexture "CSH20928", 64, 128
+{
+	Patch "WALL40_1", 0, 0
+	Patch "SW2_2", 24, 70
+}
+
+WallTexture "CSH20934", 64, 128
+{
+	Patch "SW11_4", 0, 0
+	Patch "CSH22118", 32, 0
+}
+
+WallTexture "CSH20940", 128, 128
+{
+	Patch "CSH22179", 0, 56
+	Patch "CSH22179", 0, 0
+	Patch "CSH22180", 64, 56
+	Patch "CSH22180", 64, 0
+	Patch "CSH22181", 88, 56
+	Patch "CSH22181", 88, 0
+}
+
+WallTexture "CSH20949", 128, 128
+{
+	Patch "CSH22186", 0, 56
+	Patch "CSH22186", 0, 0
+	Patch "CSH22187", 64, 56
+	Patch "CSH22187", 64, 0
+	Patch "CSH22188", 88, 56
+	Patch "CSH22188", 88, 0
+}
+
+WallTexture "CSH20950", 64, 128
+{
+	Patch "CSH22179", 0, 56
+	Patch "CSH22179", 0, 0
+}
+
+WallTexture "CSH20951", 64, 128
+{
+	Patch "CSH22186", 0, 56
+	Patch "CSH22186", 0, 0
+}
+
+WallTexture "CSH20952", 64, 128
+{
+	Patch "WALL02_2", 0, 56
+	Patch "WALL02_2", 0, 0
+}
+
+WallTexture "CSH20970", 128, 128
+{
+	Patch "CSH20962", 0, 0
+	Patch "CSH22206", 99, 120
+	Patch "CSH22206", 67, 120
+	Patch "CSH22206", 35, 120
+	Patch "CSH22206", 3, 120
+}
+
+WallTexture "CSH20971", 128, 128
+{
+	Patch "CSH20962", 0, 0
+	Patch "CSH22207", 99, 120
+	Patch "CSH22207", 67, 120
+	Patch "CSH22207", 35, 120
+	Patch "CSH22207", 3, 120
+}
+
+WallTexture "CSH20972", 128, 128
+{
+	Patch "CSH20962", 0, 0
+	Patch "CSH22208", 99, 120
+	Patch "CSH22208", 67, 120
+	Patch "CSH22208", 35, 120
+	Patch "CSH22208", 3, 120
+}
+
+WallTexture "CSH20973", 128, 128
+{
+	Patch "CSH20962", 0, 0
+	Patch "CSH22209", 99, 120
+	Patch "CSH22209", 67, 120
+	Patch "CSH22209", 35, 120
+	Patch "CSH22209", 3, 120
+}
+
+WallTexture "CSH20974", 128, 128
+{
+	Patch "CSH20962", 0, 0
+	Patch "CSH22210", 99, 120
+	Patch "CSH22210", 67, 120
+	Patch "CSH22210", 35, 120
+	Patch "CSH22210", 3, 120
+}
+
+WallTexture "CSH20975", 128, 128
+{
+	Patch "CSH20968", 0, 0
+	Patch "CSH22206", 99, 120
+	Patch "CSH22206", 67, 120
+	Patch "CSH22206", 35, 120
+	Patch "CSH22206", 3, 120
+}
+
+WallTexture "CSH20976", 128, 128
+{
+	Patch "CSH20968", 0, 0
+	Patch "CSH22207", 99, 120
+	Patch "CSH22207", 67, 120
+	Patch "CSH22207", 35, 120
+	Patch "CSH22207", 3, 120
+}
+
+WallTexture "CSH20977", 128, 128
+{
+	Patch "CSH20968", 0, 0
+	Patch "CSH22208", 99, 120
+	Patch "CSH22208", 67, 120
+	Patch "CSH22208", 35, 120
+	Patch "CSH22208", 3, 120
+}
+
+WallTexture "CSH20978", 128, 128
+{
+	Patch "CSH20968", 0, 0
+	Patch "CSH22209", 99, 120
+	Patch "CSH22209", 67, 120
+	Patch "CSH22209", 35, 120
+	Patch "CSH22209", 3, 120
+}
+
+WallTexture "CSH20979", 128, 128
+{
+	Patch "CSH20968", 0, 0
+	Patch "CSH22210", 99, 120
+	Patch "CSH22210", 67, 120
+	Patch "CSH22210", 35, 120
+	Patch "CSH22210", 3, 120
+}
+
+WallTexture "CSH20981", 128, 128
+{
+	Patch "CSH22211", 0, 0
+	Patch "CSH22212", 0, 64
+}
+
+WallTexture "CSH20982", 128, 128
+{
+	Patch "CSH22213", 0, 64
+	Patch "CSH22211", 0, 0
+}
+
+WallTexture "CSH20983", 128, 128
+{
+	Patch "CSH22213", 0, 0
+	Patch "CSH22214", 0, 64
+}
+
+WallTexture "CSH20984", 128, 128
+{
+	Patch "CSH22214", 0, 0
+	Patch "CSH22214", -16, 64
+	Patch "CSH22214", 112, 64
+}
+
+WallTexture "CSH20990", 128, 128
+{
+	Patch "CSH21009", 8, 0
+	Patch "CSH21009", 56, 8
+	Patch "CSH22220", 0, 0
+}
+
+WallTexture "CSH20991", 128, 128
+{
+	Patch "CSH21010", 8, 0
+	Patch "CSH21010", 56, 8
+	Patch "CSH22220", 0, 0
+}
+
+WallTexture "CSH20993", 64, 128
+{
+	Patch "CSH22222", 0, 0
+	Patch "CSH22222", -32, 64
+	Patch "CSH22222", 32, 64
+}
+
+WallTexture "CSH20994", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 24
+	Patch "CSH22224", 64, 64
+	Patch "CSH22224", 0, 64
+	Patch "CSH22223", 32, 0
+	Patch "CSH22224", 96, 0
+	Patch "CSH22224", -32, 0
+}
+
+WallTexture "CSH20995", 128, 128
+{
+	Patch "CSH21010", 0, 0
+	Patch "CSH21010", 64, 24
+	Patch "CSH22224", 64, 64
+	Patch "CSH22224", 0, 64
+	Patch "CSH22223", 32, 0
+	Patch "CSH22224", 96, 0
+	Patch "CSH22224", -32, 0
+}
+
+WallTexture "CSH20996", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH22224", 0, 0
+	Patch "CSH22224", -32, 64
+	Patch "CSH21009", 64, 24
+	Patch "CSH22224", 64, 0
+	Patch "CSH22224", 96, 64
+	Patch "CSH22224", 32, 64
+}
+
+WallTexture "CSH20997", 128, 128
+{
+	Patch "CSH21010", 0, 0
+	Patch "CSH22224", 0, 0
+	Patch "CSH22224", -32, 64
+	Patch "CSH21010", 64, 24
+	Patch "CSH22224", 64, 0
+	Patch "CSH22224", 96, 64
+	Patch "CSH22224", 32, 64
+}
+
+WallTexture "CSH20998", 64, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH22225", 0, 0
+	Patch "CSH21001", 0, 64
+}
+
+WallTexture "CSH20999", 64, 128
+{
+	Patch "CSH21010", 0, 0
+	Patch "CSH22225", 0, 0
+	Patch "CSH21001", 0, 64
+}
+
+WallTexture "CSH21011", 64, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH22236", 0, 0
+}
+
+WallTexture "CSH21012", 64, 128
+{
+	Patch "CSH21010", 0, 0
+	Patch "CSH22236", 0, 0
+}
+
+WallTexture "CSH21013", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 8
+	Patch "CSH22237", 0, 0
+}
+
+WallTexture "CSH21014", 128, 128
+{
+	Patch "CSH21010", 0, 0
+	Patch "CSH21010", 64, 8
+	Patch "CSH22237", 0, 0
+}
+
+WallTexture "CSH21015", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 8
+	Patch "CSH22237", 0, 0
+	Patch "CSH22248", 0, 56
+}
+
+WallTexture "CSH21016", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 56
+	Patch "CSH22238", 0, 0
+}
+
+WallTexture "CSH21017", 128, 128
+{
+	Patch "CSH21010", 0, 0
+	Patch "CSH21010", 64, 56
+	Patch "CSH22238", 0, 0
+}
+
+WallTexture "CSH21018", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 56
+	Patch "CSH22238", 0, 0
+	Patch "CSH22248", 0, 56
+}
+
+WallTexture "CSH21019", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 56
+	Patch "CSH22239", 0, 0
+}
+
+WallTexture "CSH21020", 128, 128
+{
+	Patch "CSH21010", 0, 0
+	Patch "CSH21010", 64, 56
+	Patch "CSH22239", 0, 0
+}
+
+WallTexture "CSH21021", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 56
+	Patch "CSH22239", 0, 0
+	Patch "CSH22248", 0, 56
+}
+
+WallTexture "CSH21022", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 16
+	Patch "CSH22240", 0, 0
+}
+
+WallTexture "CSH21023", 128, 128
+{
+	Patch "CSH21010", 0, 0
+	Patch "CSH21010", 64, 16
+	Patch "CSH22240", 0, 0
+}
+
+WallTexture "CSH21024", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 16
+	Patch "CSH22240", 0, 0
+	Patch "CSH22248", 0, 56
+}
+
+WallTexture "CSH21025", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 16
+	Patch "CSH22241", 0, 0
+}
+
+WallTexture "CSH21026", 128, 128
+{
+	Patch "CSH21010", 0, 0
+	Patch "CSH21010", 64, 16
+	Patch "CSH22241", 0, 0
+}
+
+WallTexture "CSH21027", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 16
+	Patch "CSH22241", 0, 0
+	Patch "CSH22248", 0, 56
+}
+
+WallTexture "CSH21028", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 8
+	Patch "CSH22242", 0, 0
+}
+
+WallTexture "CSH21029", 128, 128
+{
+	Patch "CSH21010", 0, 0
+	Patch "CSH21010", 64, 8
+	Patch "CSH22242", 0, 0
+}
+
+WallTexture "CSH21030", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 8
+	Patch "CSH22242", 0, 0
+	Patch "CSH22248", 0, 56
+}
+
+WallTexture "CSH21031", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 0
+	Patch "CSH22243", 0, 0
+}
+
+WallTexture "CSH21032", 128, 128
+{
+	Patch "CSH21010", 0, 0
+	Patch "CSH21010", 64, 0
+	Patch "CSH22243", 0, 0
+}
+
+WallTexture "CSH21033", 128, 128
+{
+	Patch "CSH21009", 0, 0
+	Patch "CSH21009", 64, 0
+	Patch "CSH22244", 0, 0
+}
+
+WallTexture "CSH21034", 128, 128
+{
+	Patch "CSH21010", 0, 0
+	Patch "CSH21010", 64, 0
+	Patch "CSH22244", 0, 0
+}
+
+WallTexture "CSH21043", 64, 128
+{
+	Patch "CSH22264", 0, 0
+	Patch "CSH22264", 0, 64
+}
+
+WallTexture "CSH21092", 256, 128
+{
+	Patch "CSH21090", 0, 0
+	Patch "CSH21090", 128, 0
+	Patch "CSH20919", 0, 0
+}
+
+WallTexture "CSH21093", 256, 128
+{
+	Patch "CSH21079", 0, 0
+	Patch "CSH21079", 128, 0
+	Patch "CSH20920", 0, 0
+}
+
+WallTexture "CSH21094", 256, 128
+{
+	Patch "CSH21090", 0, 0
+	Patch "CSH21090", 128, 0
+	Patch "CSH20920", 0, 0
+}
+
+WallTexture "CSH21100", 16, 128
+{
+	Patch "CSH22317", 0, 0
+	Patch "CSH22319", 8, 0
+	Patch "CSH22317", 0, 8
+	Patch "CSH22319", 8, 8
+	Patch "CSH22317", 0, 16
+	Patch "CSH22319", 8, 16
+	Patch "CSH22317", 0, 24
+	Patch "CSH22319", 8, 24
+	Patch "CSH22317", 0, 32
+	Patch "CSH22319", 8, 32
+	Patch "CSH22317", 0, 40
+	Patch "CSH22319", 8, 40
+	Patch "CSH22317", 0, 48
+	Patch "CSH22319", 8, 48
+	Patch "CSH22317", 0, 56
+	Patch "CSH22319", 8, 56
+	Patch "CSH22317", 0, 64
+	Patch "CSH22319", 8, 64
+	Patch "CSH22317", 0, 72
+	Patch "CSH22319", 8, 72
+	Patch "CSH22317", 0, 80
+	Patch "CSH22319", 8, 80
+	Patch "CSH22317", 0, 88
+	Patch "CSH22319", 8, 88
+	Patch "CSH22317", 0, 96
+	Patch "CSH22319", 8, 96
+	Patch "CSH22317", 0, 104
+	Patch "CSH22319", 8, 104
+	Patch "CSH22317", 0, 112
+	Patch "CSH22319", 8, 112
+	Patch "CSH22317", 0, 120
+	Patch "CSH22319", 8, 120
+}
+
+WallTexture "CSH21101", 32, 128
+{
+	Patch "CSH22327", 16, 0
+	Patch "CSH22328", 24, 0
+	Patch "CSH22327", 16, 8
+	Patch "CSH22328", 24, 8
+	Patch "CSH22327", 16, 16
+	Patch "CSH22328", 24, 16
+	Patch "CSH22327", 16, 24
+	Patch "CSH22328", 24, 24
+	Patch "CSH22327", 16, 32
+	Patch "CSH22328", 24, 32
+	Patch "CSH22327", 16, 40
+	Patch "CSH22328", 24, 40
+	Patch "CSH22327", 16, 48
+	Patch "CSH22328", 24, 48
+	Patch "CSH22327", 16, 56
+	Patch "CSH22328", 24, 56
+	Patch "CSH22327", 16, 64
+	Patch "CSH22328", 24, 64
+	Patch "CSH22327", 16, 72
+	Patch "CSH22328", 24, 72
+	Patch "CSH22327", 16, 80
+	Patch "CSH22328", 24, 80
+	Patch "CSH22327", 16, 88
+	Patch "CSH22328", 24, 88
+	Patch "CSH22327", 16, 96
+	Patch "CSH22328", 24, 96
+	Patch "CSH22327", 16, 104
+	Patch "CSH22328", 24, 104
+	Patch "CSH22327", 16, 112
+	Patch "CSH22328", 24, 112
+	Patch "CSH22327", 16, 120
+	Patch "CSH22328", 24, 120
+	Patch "CSH22327", 8, 64
+	Patch "CSH22327", 8, 72
+	Patch "CSH22327", 8, 80
+	Patch "CSH22327", 8, 88
+	Patch "CSH22327", 8, 96
+	Patch "CSH22327", 8, 104
+	Patch "CSH22327", 8, 112
+	Patch "CSH22327", 8, 120
+	Patch "CSH22326", 0, 0
+	Patch "CSH22326", 0, 8
+	Patch "CSH22326", 0, 16
+	Patch "CSH22326", 0, 24
+	Patch "CSH22326", 0, 32
+	Patch "CSH22326", 0, 40
+	Patch "CSH22326", 0, 48
+	Patch "CSH22326", 0, 56
+	Patch "CSH22326", 0, 64
+	Patch "CSH22326", 0, 72
+	Patch "CSH22326", 0, 80
+	Patch "CSH22326", 0, 88
+	Patch "CSH22326", 0, 96
+	Patch "CSH22326", 0, 104
+	Patch "CSH22326", 0, 112
+	Patch "CSH22326", 0, 120
+	Patch "CSH22327", 8, 56
+	Patch "CSH22327", 8, 48
+	Patch "CSH22327", 8, 40
+	Patch "CSH22327", 8, 32
+	Patch "CSH22327", 8, 24
+	Patch "CSH22327", 8, 16
+	Patch "CSH22327", 8, 8
+	Patch "CSH22327", 8, 0
+}
+
+WallTexture "CSH21102", 32, 128
+{
+	Patch "CSH22324", 16, 0
+	Patch "CSH22325", 24, 0
+	Patch "CSH22324", 16, 8
+	Patch "CSH22325", 24, 8
+	Patch "CSH22324", 16, 16
+	Patch "CSH22325", 24, 16
+	Patch "CSH22324", 16, 24
+	Patch "CSH22325", 24, 24
+	Patch "CSH22324", 16, 32
+	Patch "CSH22325", 24, 32
+	Patch "CSH22324", 16, 40
+	Patch "CSH22325", 24, 40
+	Patch "CSH22324", 16, 48
+	Patch "CSH22325", 24, 48
+	Patch "CSH22324", 16, 56
+	Patch "CSH22325", 24, 56
+	Patch "CSH22324", 16, 64
+	Patch "CSH22325", 24, 64
+	Patch "CSH22324", 16, 72
+	Patch "CSH22325", 24, 72
+	Patch "CSH22324", 16, 80
+	Patch "CSH22325", 24, 80
+	Patch "CSH22324", 16, 88
+	Patch "CSH22325", 24, 88
+	Patch "CSH22324", 16, 96
+	Patch "CSH22325", 24, 96
+	Patch "CSH22324", 16, 104
+	Patch "CSH22325", 24, 104
+	Patch "CSH22324", 16, 112
+	Patch "CSH22325", 24, 112
+	Patch "CSH22324", 16, 120
+	Patch "CSH22325", 24, 120
+	Patch "CSH22324", 8, 64
+	Patch "CSH22324", 8, 72
+	Patch "CSH22324", 8, 80
+	Patch "CSH22324", 8, 88
+	Patch "CSH22324", 8, 96
+	Patch "CSH22324", 8, 104
+	Patch "CSH22324", 8, 112
+	Patch "CSH22324", 8, 120
+	Patch "CSH22323", 0, 0
+	Patch "CSH22323", 0, 120
+	Patch "CSH22323", 0, 112
+	Patch "CSH22323", 0, 104
+	Patch "CSH22323", 0, 96
+	Patch "CSH22323", 0, 88
+	Patch "CSH22323", 0, 80
+	Patch "CSH22323", 0, 72
+	Patch "CSH22323", 0, 64
+	Patch "CSH22323", 0, 56
+	Patch "CSH22323", 0, 48
+	Patch "CSH22323", 0, 40
+	Patch "CSH22323", 0, 32
+	Patch "CSH22323", 0, 24
+	Patch "CSH22323", 0, 16
+	Patch "CSH22323", 0, 8
+	Patch "CSH22324", 8, 56
+	Patch "CSH22324", 8, 48
+	Patch "CSH22324", 8, 40
+	Patch "CSH22324", 8, 32
+	Patch "CSH22324", 8, 24
+	Patch "CSH22324", 8, 16
+	Patch "CSH22324", 8, 8
+	Patch "CSH22324", 8, 0
+}
+
+WallTexture "CSH21103", 32, 128
+{
+	Patch "CSH22321", 16, 0
+	Patch "CSH22322", 24, 0
+	Patch "CSH22321", 16, 8
+	Patch "CSH22322", 24, 8
+	Patch "CSH22321", 16, 16
+	Patch "CSH22322", 24, 16
+	Patch "CSH22321", 16, 24
+	Patch "CSH22322", 24, 24
+	Patch "CSH22321", 16, 32
+	Patch "CSH22322", 24, 32
+	Patch "CSH22321", 16, 40
+	Patch "CSH22322", 24, 40
+	Patch "CSH22321", 16, 48
+	Patch "CSH22322", 24, 48
+	Patch "CSH22321", 16, 56
+	Patch "CSH22322", 24, 56
+	Patch "CSH22321", 16, 64
+	Patch "CSH22322", 24, 64
+	Patch "CSH22321", 16, 72
+	Patch "CSH22322", 24, 72
+	Patch "CSH22321", 16, 80
+	Patch "CSH22322", 24, 80
+	Patch "CSH22321", 16, 88
+	Patch "CSH22322", 24, 88
+	Patch "CSH22321", 16, 96
+	Patch "CSH22322", 24, 96
+	Patch "CSH22321", 16, 104
+	Patch "CSH22322", 24, 104
+	Patch "CSH22321", 16, 112
+	Patch "CSH22322", 24, 112
+	Patch "CSH22321", 16, 120
+	Patch "CSH22322", 24, 120
+	Patch "CSH22321", 8, 64
+	Patch "CSH22321", 8, 72
+	Patch "CSH22321", 8, 80
+	Patch "CSH22321", 8, 88
+	Patch "CSH22321", 8, 96
+	Patch "CSH22321", 8, 104
+	Patch "CSH22321", 8, 112
+	Patch "CSH22321", 8, 120
+	Patch "CSH22320", 0, 0
+	Patch "CSH22320", 0, 120
+	Patch "CSH22320", 0, 112
+	Patch "CSH22320", 0, 104
+	Patch "CSH22320", 0, 96
+	Patch "CSH22320", 0, 88
+	Patch "CSH22320", 0, 80
+	Patch "CSH22320", 0, 72
+	Patch "CSH22320", 0, 64
+	Patch "CSH22320", 0, 56
+	Patch "CSH22320", 0, 48
+	Patch "CSH22320", 0, 40
+	Patch "CSH22320", 0, 32
+	Patch "CSH22320", 0, 24
+	Patch "CSH22320", 0, 16
+	Patch "CSH22320", 0, 8
+	Patch "CSH22321", 8, 56
+	Patch "CSH22321", 8, 48
+	Patch "CSH22321", 8, 40
+	Patch "CSH22321", 8, 32
+	Patch "CSH22321", 8, 24
+	Patch "CSH22321", 8, 16
+	Patch "CSH22321", 8, 8
+	Patch "CSH22321", 8, 0
+}
+
+WallTexture "CSH21104", 32, 128
+{
+	Patch "CSH22318", 16, 0
+	Patch "CSH22319", 24, 0
+	Patch "CSH22318", 16, 8
+	Patch "CSH22319", 24, 8
+	Patch "CSH22318", 16, 16
+	Patch "CSH22319", 24, 16
+	Patch "CSH22318", 16, 24
+	Patch "CSH22319", 24, 24
+	Patch "CSH22318", 16, 32
+	Patch "CSH22319", 24, 32
+	Patch "CSH22318", 16, 40
+	Patch "CSH22319", 24, 40
+	Patch "CSH22318", 16, 48
+	Patch "CSH22319", 24, 48
+	Patch "CSH22318", 16, 56
+	Patch "CSH22319", 24, 56
+	Patch "CSH22318", 16, 64
+	Patch "CSH22319", 24, 64
+	Patch "CSH22318", 16, 72
+	Patch "CSH22319", 24, 72
+	Patch "CSH22318", 16, 80
+	Patch "CSH22319", 24, 80
+	Patch "CSH22318", 16, 88
+	Patch "CSH22319", 24, 88
+	Patch "CSH22318", 16, 96
+	Patch "CSH22319", 24, 96
+	Patch "CSH22318", 16, 104
+	Patch "CSH22319", 24, 104
+	Patch "CSH22318", 16, 112
+	Patch "CSH22319", 24, 112
+	Patch "CSH22318", 16, 120
+	Patch "CSH22319", 24, 120
+	Patch "CSH22318", 8, 64
+	Patch "CSH22318", 8, 72
+	Patch "CSH22318", 8, 80
+	Patch "CSH22318", 8, 88
+	Patch "CSH22318", 8, 96
+	Patch "CSH22318", 8, 104
+	Patch "CSH22318", 8, 112
+	Patch "CSH22318", 8, 120
+	Patch "CSH22317", 0, 0
+	Patch "CSH22317", 0, 120
+	Patch "CSH22317", 0, 112
+	Patch "CSH22317", 0, 104
+	Patch "CSH22317", 0, 96
+	Patch "CSH22317", 0, 88
+	Patch "CSH22317", 0, 80
+	Patch "CSH22317", 0, 72
+	Patch "CSH22317", 0, 64
+	Patch "CSH22317", 0, 56
+	Patch "CSH22317", 0, 48
+	Patch "CSH22317", 0, 40
+	Patch "CSH22317", 0, 32
+	Patch "CSH22317", 0, 24
+	Patch "CSH22317", 0, 16
+	Patch "CSH22317", 0, 8
+	Patch "CSH22318", 8, 56
+	Patch "CSH22318", 8, 48
+	Patch "CSH22318", 8, 40
+	Patch "CSH22318", 8, 24
+	Patch "CSH22318", 8, 32
+	Patch "CSH22318", 8, 16
+	Patch "CSH22318", 8, 8
+	Patch "CSH22318", 8, 0
+}
+
+WallTexture "CSH21105", 16, 128
+{
+	Patch "CSH22320", 0, 0
+	Patch "CSH22322", 8, 0
+	Patch "CSH22320", 0, 8
+	Patch "CSH22322", 8, 8
+	Patch "CSH22320", 0, 16
+	Patch "CSH22322", 8, 16
+	Patch "CSH22320", 0, 24
+	Patch "CSH22322", 8, 24
+	Patch "CSH22320", 0, 32
+	Patch "CSH22322", 8, 32
+	Patch "CSH22320", 0, 40
+	Patch "CSH22322", 8, 40
+	Patch "CSH22320", 0, 48
+	Patch "CSH22322", 8, 48
+	Patch "CSH22320", 0, 56
+	Patch "CSH22322", 8, 56
+	Patch "CSH22320", 0, 64
+	Patch "CSH22322", 8, 64
+	Patch "CSH22320", 0, 72
+	Patch "CSH22322", 8, 72
+	Patch "CSH22320", 0, 80
+	Patch "CSH22322", 8, 80
+	Patch "CSH22320", 0, 88
+	Patch "CSH22322", 8, 88
+	Patch "CSH22320", 0, 96
+	Patch "CSH22322", 8, 96
+	Patch "CSH22320", 0, 104
+	Patch "CSH22322", 8, 104
+	Patch "CSH22320", 0, 112
+	Patch "CSH22322", 8, 112
+	Patch "CSH22320", 0, 120
+	Patch "CSH22322", 8, 120
+}
+
+WallTexture "CSH21106", 16, 128
+{
+	Patch "CSH22323", 0, 0
+	Patch "CSH22325", 8, 0
+	Patch "CSH22323", 0, 8
+	Patch "CSH22325", 8, 8
+	Patch "CSH22323", 0, 16
+	Patch "CSH22325", 8, 16
+	Patch "CSH22323", 0, 24
+	Patch "CSH22325", 8, 24
+	Patch "CSH22323", 0, 32
+	Patch "CSH22325", 8, 32
+	Patch "CSH22323", 0, 40
+	Patch "CSH22325", 8, 40
+	Patch "CSH22323", 0, 48
+	Patch "CSH22325", 8, 48
+	Patch "CSH22323", 0, 56
+	Patch "CSH22325", 8, 56
+	Patch "CSH22323", 0, 64
+	Patch "CSH22325", 8, 64
+	Patch "CSH22323", 0, 72
+	Patch "CSH22325", 8, 72
+	Patch "CSH22323", 0, 80
+	Patch "CSH22325", 8, 80
+	Patch "CSH22323", 0, 88
+	Patch "CSH22325", 8, 88
+	Patch "CSH22323", 0, 96
+	Patch "CSH22325", 8, 96
+	Patch "CSH22323", 0, 104
+	Patch "CSH22325", 8, 104
+	Patch "CSH22323", 0, 112
+	Patch "CSH22325", 8, 112
+	Patch "CSH22323", 0, 120
+	Patch "CSH22325", 8, 120
+}
+
+WallTexture "CSH21107", 16, 128
+{
+	Patch "CSH22326", 0, 0
+	Patch "CSH22328", 8, 0
+	Patch "CSH22326", 0, 8
+	Patch "CSH22328", 8, 8
+	Patch "CSH22326", 0, 16
+	Patch "CSH22328", 8, 16
+	Patch "CSH22326", 0, 24
+	Patch "CSH22328", 8, 24
+	Patch "CSH22326", 0, 32
+	Patch "CSH22328", 8, 32
+	Patch "CSH22326", 0, 40
+	Patch "CSH22328", 8, 40
+	Patch "CSH22326", 0, 48
+	Patch "CSH22328", 8, 48
+	Patch "CSH22326", 0, 56
+	Patch "CSH22328", 8, 56
+	Patch "CSH22326", 0, 64
+	Patch "CSH22328", 8, 64
+	Patch "CSH22326", 0, 72
+	Patch "CSH22328", 8, 72
+	Patch "CSH22326", 0, 80
+	Patch "CSH22328", 8, 80
+	Patch "CSH22326", 0, 88
+	Patch "CSH22328", 8, 88
+	Patch "CSH22326", 0, 96
+	Patch "CSH22328", 8, 96
+	Patch "CSH22326", 0, 104
+	Patch "CSH22328", 8, 104
+	Patch "CSH22326", 0, 112
+	Patch "CSH22328", 8, 112
+	Patch "CSH22326", 0, 120
+	Patch "CSH22328", 8, 120
+}
+
+WallTexture "CSH21110", 16, 128
+{
+	Patch "CSH22331", 0, 0
+	Patch "CSH22331", 0, 56
+}
+
+WallTexture "CSH21111", 16, 128
+{
+	Patch "CSH22332", 0, 56
+	Patch "CSH22317", 0, 0
+	Patch "CSH22317", 0, 40
+	Patch "CSH22317", 0, 32
+	Patch "CSH22317", 0, 24
+	Patch "CSH22317", 0, 16
+	Patch "CSH22317", 0, 8
+	Patch "CSH22317", 0, 48
+	Patch "CSH22319", 8, 48
+	Patch "CSH22319", 8, 40
+	Patch "CSH22319", 8, 32
+	Patch "CSH22319", 8, 24
+	Patch "CSH22319", 8, 16
+	Patch "CSH22319", 8, 8
+	Patch "CSH22319", 8, 0
+}
+
+WallTexture "CSH21114", 16, 128
+{
+	Patch "CSH22335", 0, 0
+	Patch "CSH22335", 0, 56
+}
+
+WallTexture "CSH21115", 16, 128
+{
+	Patch "CSH22336", 0, 56
+	Patch "CSH22320", 0, 0
+	Patch "CSH22320", 0, 48
+	Patch "CSH22320", 0, 40
+	Patch "CSH22320", 0, 32
+	Patch "CSH22320", 0, 24
+	Patch "CSH22320", 0, 16
+	Patch "CSH22320", 0, 8
+	Patch "CSH22322", 8, 48
+	Patch "CSH22322", 8, 40
+	Patch "CSH22322", 8, 32
+	Patch "CSH22322", 8, 24
+	Patch "CSH22322", 8, 16
+	Patch "CSH22322", 8, 8
+	Patch "CSH22322", 8, 0
+}
+
+WallTexture "CSH21118", 16, 128
+{
+	Patch "CSH22339", 0, 0
+	Patch "CSH22339", 0, 56
+}
+
+WallTexture "CSH21119", 16, 128
+{
+	Patch "CSH22340", 0, 56
+	Patch "CSH22326", 0, 0
+	Patch "CSH22326", 0, 48
+	Patch "CSH22326", 0, 40
+	Patch "CSH22326", 0, 32
+	Patch "CSH22326", 0, 24
+	Patch "CSH22326", 0, 16
+	Patch "CSH22326", 0, 8
+	Patch "CSH22328", 8, 48
+	Patch "CSH22328", 8, 40
+	Patch "CSH22328", 8, 32
+	Patch "CSH22328", 8, 24
+	Patch "CSH22328", 8, 16
+	Patch "CSH22328", 8, 8
+	Patch "CSH22328", 8, 0
+}
+
+WallTexture "CSH21122", 16, 128
+{
+	Patch "CSH22343", 0, 0
+	Patch "CSH22343", 0, 56
+}
+
+WallTexture "CSH21123", 16, 128
+{
+	Patch "CSH22344", 0, 56
+	Patch "CSH22323", 0, 0
+	Patch "CSH22323", 0, 48
+	Patch "CSH22323", 0, 40
+	Patch "CSH22323", 0, 32
+	Patch "CSH22323", 0, 24
+	Patch "CSH22323", 0, 16
+	Patch "CSH22323", 0, 8
+	Patch "CSH22325", 8, 48
+	Patch "CSH22325", 8, 40
+	Patch "CSH22325", 8, 32
+	Patch "CSH22325", 8, 24
+	Patch "CSH22325", 8, 16
+	Patch "CSH22325", 8, 8
+	Patch "CSH22325", 8, 0
+}
+
+WallTexture "CSH21126", 16, 128
+{
+	Patch "CSH22347", 0, 0
+	Patch "CSH22347", 0, 56
+}
+
+WallTexture "CSH21127", 16, 128
+{
+	Patch "CSH22348", 0, 56
+	Patch "BLITA0", 0, 0
+	Patch "BLITA0", 0, 48
+	Patch "BLITA0", 0, 40
+	Patch "BLITA0", 0, 32
+	Patch "BLITA0", 0, 24
+	Patch "BLITA0", 0, 16
+	Patch "BLITA0", 0, 8
+	Patch "BLITC0", 8, 48
+	Patch "BLITC0", 8, 40
+	Patch "BLITC0", 8, 32
+	Patch "BLITC0", 8, 24
+	Patch "BLITC0", 8, 16
+	Patch "BLITC0", 8, 8
+	Patch "BLITC0", 8, 0
+}
+
+WallTexture "CSH21175", 64, 128
+{
+	Patch "CSH22398", 0, 0
+	Patch "CSH22398", 32, 64
+	Patch "CSH22398", -32, 64
+}
+
+WallTexture "CSH21188", 128, 128
+{
+	Patch "CSH22416", 1, 0
+	Patch "CSH22416", -127, 0
+}
+
+WallTexture "CSH21207", 64, 128
+{
+	Patch "CSH22435", 0, 0
+	Patch "CSH22435", 32, 64
+	Patch "CSH22435", -32, 64
+}
+
+WallTexture "CSH21208", 64, 128
+{
+	Patch "CSH21206", 0, 0
+	Patch "CSH21206", -32, 64
+	Patch "CSH21206", 32, 64
+}
+
+WallTexture "CSH21209", 64, 128
+{
+	Patch "CSH20603", 0, 0
+	Patch "CSH20603", 32, 64
+	Patch "CSH20603", -32, 64
+}
+
+WallTexture "CSH21210", 64, 128
+{
+	Patch "CSH20600", 0, 0
+	Patch "CSH22407", 1, 104
+	Patch "CSH22407", -63, 104
+}
+
+WallTexture "CSH21211", 64, 128
+{
+	Patch "CSH20601", 0, 0
+	Patch "CSH22407", -63, 104
+	Patch "CSH22407", 1, 104
+}
+
+WallTexture "CSH21212", 64, 128
+{
+	Patch "CSH21206", 0, 0
+	Patch "CSH22407", 1, 104
+	Patch "CSH22407", -63, 104
+}
+
+WallTexture "CSH21213", 64, 128
+{
+	Patch "CSH20603", 0, 0
+	Patch "CSH22407", -63, 104
+	Patch "CSH22407", 1, 104
+}
+
+WallTexture "CSH21214", 64, 128
+{
+	Patch "CSH20604", 0, 0
+	Patch "CSH22407", -63, 104
+	Patch "CSH22407", 1, 104
+}
+
+WallTexture "CSH21215", 64, 128
+{
+	Patch "CSH21206", 0, 0
+	Patch "CSH21206", 32, 64
+	Patch "CSH21206", -32, 64
+	Patch "CSH22407", -63, 104
+	Patch "CSH22407", 1, 104
+}
+
+WallTexture "CSH21216", 64, 128
+{
+	Patch "CSH21184", 0, 0
+	Patch "CSH22405", -63, 104
+	Patch "CSH22405", 1, 104
+}
+
+WallTexture "CSH21217", 128, 128
+{
+	Patch "CSH22416", 1, 0
+	Patch "CSH22405", 65, 104
+	Patch "CSH22416", -127, 0
+	Patch "CSH22405", 1, 104
+	Patch "CSH22405", -63, 104
+	Patch "CSH22406", 33, 104
+}
+
+WallTexture "CSH21218", 128, 128
+{
+	Patch "CSH21190", 0, 0
+	Patch "CSH22405", 1, 104
+	Patch "CSH22405", 65, 104
+	Patch "CSH22405", -63, 104
+}
+
+WallTexture "CSH21219", 128, 128
+{
+	Patch "CSH21195", 0, 0
+	Patch "CSH22406", 1, 104
+	Patch "CSH22406", 65, 104
+	Patch "CSH22406", -63, 104
+}
+
+WallTexture "CSH21220", 128, 128
+{
+	Patch "CSH21197", 0, 0
+	Patch "CSH22406", -63, 104
+	Patch "CSH22406", 1, 104
+	Patch "CSH22406", 65, 104
+}
+
+WallTexture "CSH21221", 128, 128
+{
+	Patch "CSH21199", 0, 0
+	Patch "CSH22405", -63, 104
+	Patch "CSH22405", 1, 104
+	Patch "CSH22405", 65, 104
+}
+
+WallTexture "CSH21222", 128, 128
+{
+	Patch "CSH21201", 0, 0
+	Patch "CSH22407", -63, 104
+	Patch "CSH22407", 1, 104
+	Patch "CSH22407", 65, 104
+}
+
+WallTexture "CSH21223", 64, 128
+{
+	Patch "CSH22437", 0, 0
+	Patch "CSH22437", 32, 64
+	Patch "CSH22437", -32, 64
+}
+
+WallTexture "CSH21224", 64, 128
+{
+	Patch "CSH22436", 0, 0
+	Patch "CSH22436", 32, 64
+	Patch "CSH22436", -32, 64
+}
+
+WallTexture "CSH21232", 64, 128
+{
+	Patch "CSH22447", 0, 0
+	Patch "CSH21234", 24, 0
+	Patch "CSH22447", 40, 0
+}
+
+WallTexture "CSH21233", 128, 64
+{
+	Patch "CSH22448", 0, 0
+	Patch "CSH21235", 0, 24
+	Patch "CSH22448", 0, 40
+}
+
+WallTexture "CSH21337", 64, 128
+{
+	Patch "CSH22578", 0, 0
+	Patch "CSH22578", 0, 64
+}
+
+WallTexture "CSH21338", 64, 128
+{
+	Patch "CSH22579", 0, 0
+	Patch "CSH22579", 0, 64
+}
+
+WallTexture "CSH21339", 64, 128
+{
+	Patch "CSH22580", 0, 0
+	Patch "CSH22580", 0, 64
+}
+
+WallTexture "CSH21419", 256, 128
+{
+	Patch "SW11_1", 0, 0
+	Patch "SW11_1", 192, 0
+	Patch "SW11_1", 128, 0
+	Patch "SW11_1", 64, 0
+	Patch "SW11_2", 224, 0
+	Patch "SW11_2", 160, 0
+	Patch "SW11_2", 96, 0
+	Patch "SW11_2", 32, 0
+	Patch "CSH22708", 0, 56
+}
+
+WallTexture "CSH21425", 128, 128
+{
+	Patch "SW11_1", 0, 0
+	Patch "SW11_1", 64, 0
+	Patch "SW11_2", 96, 0
+	Patch "SW11_2", 32, 0
+	Patch "CSH22706", 0, 44
+}
+
+WallTexture "CSH21438", 64, 128
+{
+	Patch "CSH21437", 0, 0
+	Patch "CSH22730", 9, 60
+	Patch "CSH22730", 25, 60
+	Patch "CSH22730", 41, 60
+}
+
+WallTexture "CSH21439", 64, 128
+{
+	Patch "CSH21437", 0, 0
+	Patch "CSH22731", 9, 60
+	Patch "CSH22731", 25, 60
+	Patch "CSH22731", 41, 60
+}
+
+WallTexture "CSH21440", 64, 128
+{
+	Patch "CSH21455", 0, 0
+	Patch "CSH22731", 9, 60
+	Patch "CSH22731", 25, 60
+	Patch "CSH22731", 41, 60
+}
+
+WallTexture "CSH21441", 64, 128
+{
+	Patch "CSH21457", 0, 0
+	Patch "CSH22731", 9, 60
+	Patch "CSH22731", 25, 60
+	Patch "CSH22731", 41, 60
+}
+
+WallTexture "CSH21442", 64, 128
+{
+	Patch "TEKLITE2", 0, 0
+	Patch "CSH22731", 9, 60
+	Patch "CSH22731", 25, 60
+	Patch "CSH22731", 41, 60
+}
+
+WallTexture "CSH21443", 64, 128
+{
+	Patch "CSH21437", 0, 0
+	Patch "CSH22732", 9, 60
+	Patch "CSH22732", 25, 60
+	Patch "CSH22732", 41, 60
+}
+
+WallTexture "CSH21444", 64, 128
+{
+	Patch "CSH21455", 0, 0
+	Patch "CSH22732", 9, 60
+	Patch "CSH22732", 25, 60
+	Patch "CSH22732", 41, 60
+}
+
+WallTexture "CSH21445", 64, 128
+{
+	Patch "CSH21457", 0, 0
+	Patch "CSH22732", 9, 60
+	Patch "CSH22732", 25, 60
+	Patch "CSH22732", 41, 60
+}
+
+WallTexture "CSH21446", 64, 128
+{
+	Patch "TEKLITE2", 0, 0
+	Patch "CSH22732", 9, 60
+	Patch "CSH22732", 25, 60
+	Patch "CSH22732", 41, 60
+}
+
+WallTexture "CSH21447", 64, 128
+{
+	Patch "CSH21437", 0, 0
+	Patch "CSH22733", 9, 60
+	Patch "CSH22733", 25, 60
+	Patch "CSH22733", 41, 60
+}
+
+WallTexture "CSH21448", 64, 128
+{
+	Patch "CSH21455", 0, 0
+	Patch "CSH22733", 9, 60
+	Patch "CSH22733", 25, 60
+	Patch "CSH22733", 41, 60
+}
+
+WallTexture "CSH21449", 64, 128
+{
+	Patch "CSH21457", 0, 0
+	Patch "CSH22733", 9, 60
+	Patch "CSH22733", 25, 60
+	Patch "CSH22733", 41, 60
+}
+
+WallTexture "CSH21450", 64, 128
+{
+	Patch "TEKLITE2", 0, 0
+	Patch "CSH22733", 9, 60
+	Patch "CSH22733", 25, 60
+	Patch "CSH22733", 41, 60
+}
+
+WallTexture "CSH21451", 64, 128
+{
+	Patch "CSH21437", 0, 0
+	Patch "CSH22729", 9, 60
+	Patch "CSH22729", 25, 60
+	Patch "CSH22729", 41, 60
+}
+
+WallTexture "CSH21452", 64, 128
+{
+	Patch "CSH21455", 0, 0
+	Patch "CSH22729", 9, 60
+	Patch "CSH22729", 25, 60
+	Patch "CSH22729", 41, 60
+}
+
+WallTexture "CSH21453", 64, 128
+{
+	Patch "CSH21457", 0, 0
+	Patch "CSH22729", 9, 60
+	Patch "CSH22729", 25, 60
+	Patch "CSH22729", 41, 60
+}
+
+WallTexture "CSH21454", 64, 128
+{
+	Patch "TEKLITE2", 0, 0
+	Patch "CSH22729", 9, 60
+	Patch "CSH22729", 25, 60
+	Patch "CSH22729", 41, 60
+}
+
+WallTexture "CSH21456", 64, 128
+{
+	Patch "CSH21455", 0, 0
+	Patch "CSH22730", 9, 60
+	Patch "CSH22730", 25, 60
+	Patch "CSH22730", 41, 60
+}
+
+WallTexture "CSH21458", 64, 128
+{
+	Patch "CSH21457", 0, 0
+	Patch "CSH22730", 9, 60
+	Patch "CSH22730", 25, 60
+	Patch "CSH22730", 41, 60
+}
+
+WallTexture "CSH21459", 64, 128
+{
+	Patch "TEKLITE2", 0, 0
+	Patch "CSH22730", 9, 60
+	Patch "CSH22730", 25, 60
+	Patch "CSH22730", 41, 60
+}
+
+WallTexture "CSH21460", 64, 128
+{
+	Patch "CSH21434", 0, 0
+	Patch "CSH22724", 38, 124
+	Patch "CSH22724", 6, 124
+	Patch "CSH22724", 38, 92
+	Patch "CSH22724", 6, 92
+	Patch "CSH22724", 38, 60
+	Patch "CSH22724", 6, 60
+	Patch "CSH22724", 38, 28
+	Patch "CSH22724", 6, 28
+}
+
+WallTexture "CSH21461", 64, 128
+{
+	Patch "CSH21435", 0, 0
+	Patch "CSH22724", 38, 124
+	Patch "CSH22724", 6, 124
+	Patch "CSH22724", 38, 92
+	Patch "CSH22724", 6, 92
+	Patch "CSH22724", 38, 60
+	Patch "CSH22724", 6, 60
+	Patch "CSH22724", 38, 28
+	Patch "CSH22724", 6, 28
+}
+
+WallTexture "CSH21462", 64, 128
+{
+	Patch "CSH21436", 0, 0
+	Patch "CSH22724", 38, 124
+	Patch "CSH22724", 6, 124
+	Patch "CSH22724", 38, 92
+	Patch "CSH22724", 6, 92
+	Patch "CSH22724", 38, 60
+	Patch "CSH22724", 6, 60
+	Patch "CSH22724", 38, 28
+	Patch "CSH22724", 6, 28
+}
+
+WallTexture "CSH21463", 64, 128
+{
+	Patch "TEKLITE", 0, 0
+	Patch "CSH22724", 38, 124
+	Patch "CSH22724", 6, 124
+	Patch "CSH22724", 38, 92
+	Patch "CSH22724", 6, 92
+	Patch "CSH22724", 38, 60
+	Patch "CSH22724", 6, 60
+	Patch "CSH22724", 38, 28
+	Patch "CSH22724", 6, 28
+}
+
+WallTexture "CSH21464", 64, 128
+{
+	Patch "CSH21434", 0, 0
+	Patch "CSH22725", 38, 124
+	Patch "CSH22725", 6, 124
+	Patch "CSH22725", 38, 92
+	Patch "CSH22725", 6, 92
+	Patch "CSH22725", 38, 60
+	Patch "CSH22725", 6, 60
+	Patch "CSH22725", 38, 28
+	Patch "CSH22725", 6, 28
+}
+
+WallTexture "CSH21465", 64, 128
+{
+	Patch "CSH21435", 0, 0
+	Patch "CSH22725", 38, 124
+	Patch "CSH22725", 6, 124
+	Patch "CSH22725", 38, 92
+	Patch "CSH22725", 6, 92
+	Patch "CSH22725", 38, 60
+	Patch "CSH22725", 6, 60
+	Patch "CSH22725", 38, 28
+	Patch "CSH22725", 6, 28
+}
+
+WallTexture "CSH21466", 64, 128
+{
+	Patch "CSH21436", 0, 0
+	Patch "CSH22725", 38, 124
+	Patch "CSH22725", 6, 124
+	Patch "CSH22725", 38, 92
+	Patch "CSH22725", 6, 92
+	Patch "CSH22725", 38, 60
+	Patch "CSH22725", 6, 60
+	Patch "CSH22725", 38, 28
+	Patch "CSH22725", 6, 28
+}
+
+WallTexture "CSH21467", 64, 128
+{
+	Patch "TEKLITE", 0, 0
+	Patch "CSH22725", 38, 124
+	Patch "CSH22725", 6, 124
+	Patch "CSH22725", 38, 92
+	Patch "CSH22725", 6, 92
+	Patch "CSH22725", 38, 60
+	Patch "CSH22725", 6, 60
+	Patch "CSH22725", 38, 28
+	Patch "CSH22725", 6, 28
+}
+
+WallTexture "CSH21468", 64, 128
+{
+	Patch "CSH21434", 0, 0
+	Patch "CSH22726", 38, 124
+	Patch "CSH22726", 6, 124
+	Patch "CSH22726", 38, 92
+	Patch "CSH22726", 6, 92
+	Patch "CSH22726", 38, 60
+	Patch "CSH22726", 6, 60
+	Patch "CSH22726", 38, 28
+	Patch "CSH22726", 6, 28
+}
+
+WallTexture "CSH21469", 64, 128
+{
+	Patch "CSH21436", 0, 0
+	Patch "CSH22726", 38, 124
+	Patch "CSH22726", 6, 124
+	Patch "CSH22726", 38, 92
+	Patch "CSH22726", 6, 92
+	Patch "CSH22726", 38, 60
+	Patch "CSH22726", 6, 60
+	Patch "CSH22726", 38, 28
+	Patch "CSH22726", 6, 28
+}
+
+WallTexture "CSH21470", 64, 128
+{
+	Patch "CSH21435", 0, 0
+	Patch "CSH22726", 38, 124
+	Patch "CSH22726", 6, 124
+	Patch "CSH22726", 38, 92
+	Patch "CSH22726", 6, 92
+	Patch "CSH22726", 38, 60
+	Patch "CSH22726", 6, 60
+	Patch "CSH22726", 38, 28
+	Patch "CSH22726", 6, 28
+}
+
+WallTexture "CSH21471", 64, 128
+{
+	Patch "TEKLITE", 0, 0
+	Patch "CSH22726", 38, 124
+	Patch "CSH22726", 6, 124
+	Patch "CSH22726", 38, 92
+	Patch "CSH22726", 6, 92
+	Patch "CSH22726", 38, 60
+	Patch "CSH22726", 6, 60
+	Patch "CSH22726", 38, 28
+	Patch "CSH22726", 6, 28
+}
+
+WallTexture "CSH21472", 64, 128
+{
+	Patch "CSH21434", 0, 0
+	Patch "CSH22727", 38, 124
+	Patch "CSH22727", 6, 124
+	Patch "CSH22727", 38, 92
+	Patch "CSH22727", 6, 92
+	Patch "CSH22727", 38, 60
+	Patch "CSH22727", 6, 60
+	Patch "CSH22727", 38, 28
+	Patch "CSH22727", 6, 28
+}
+
+WallTexture "CSH21473", 64, 128
+{
+	Patch "CSH21436", 0, 0
+	Patch "CSH22727", 38, 124
+	Patch "CSH22727", 6, 124
+	Patch "CSH22727", 38, 92
+	Patch "CSH22727", 6, 92
+	Patch "CSH22727", 38, 60
+	Patch "CSH22727", 6, 60
+	Patch "CSH22727", 38, 28
+	Patch "CSH22727", 6, 28
+}
+
+WallTexture "CSH21474", 64, 128
+{
+	Patch "CSH21435", 0, 0
+	Patch "CSH22727", 38, 124
+	Patch "CSH22727", 6, 124
+	Patch "CSH22727", 38, 92
+	Patch "CSH22727", 6, 92
+	Patch "CSH22727", 38, 60
+	Patch "CSH22727", 6, 60
+	Patch "CSH22727", 38, 28
+	Patch "CSH22727", 6, 28
+}
+
+WallTexture "CSH21475", 64, 128
+{
+	Patch "TEKLITE", 0, 0
+	Patch "CSH22727", 38, 124
+	Patch "CSH22727", 6, 124
+	Patch "CSH22727", 38, 92
+	Patch "CSH22727", 6, 92
+	Patch "CSH22727", 38, 60
+	Patch "CSH22727", 6, 60
+	Patch "CSH22727", 38, 28
+	Patch "CSH22727", 6, 28
+}
+
+WallTexture "CSH21476", 64, 128
+{
+	Patch "CSH21434", 0, 0
+	Patch "CSH22728", 38, 124
+	Patch "CSH22728", 6, 124
+	Patch "CSH22728", 38, 92
+	Patch "CSH22728", 6, 92
+	Patch "CSH22728", 38, 60
+	Patch "CSH22728", 6, 60
+	Patch "CSH22728", 38, 28
+	Patch "CSH22728", 6, 28
+}
+
+WallTexture "CSH21477", 64, 128
+{
+	Patch "CSH21435", 0, 0
+	Patch "CSH22728", 38, 124
+	Patch "CSH22728", 6, 124
+	Patch "CSH22728", 38, 92
+	Patch "CSH22728", 6, 92
+	Patch "CSH22728", 38, 60
+	Patch "CSH22728", 6, 60
+	Patch "CSH22728", 38, 28
+	Patch "CSH22728", 6, 28
+}
+
+WallTexture "CSH21478", 64, 128
+{
+	Patch "TEKLITE", 0, 0
+	Patch "CSH22728", 38, 124
+	Patch "CSH22728", 6, 124
+	Patch "CSH22728", 38, 92
+	Patch "CSH22728", 6, 92
+	Patch "CSH22728", 38, 60
+	Patch "CSH22728", 6, 60
+	Patch "CSH22728", 38, 28
+	Patch "CSH22728", 6, 28
+}
+
+WallTexture "CSH21479", 64, 128
+{
+	Patch "CSH21436", 0, 0
+	Patch "CSH22728", 38, 124
+	Patch "CSH22728", 6, 124
+	Patch "CSH22728", 38, 92
+	Patch "CSH22728", 6, 92
+	Patch "CSH22728", 38, 60
+	Patch "CSH22728", 6, 60
+	Patch "CSH22728", 38, 28
+	Patch "CSH22728", 6, 28
+}
+
+WallTexture "CSH21531", 64, 128
+{
+	Patch "TEKGREN5", 0, 0
+	Patch "CSH22788", 3, 3
+}
+
+WallTexture "CSH21532", 64, 128
+{
+	Patch "TEKGREN5", 0, 0
+	Patch "CSH22789", 3, 3
+}
+
+WallTexture "CSH21533", 64, 128
+{
+	Patch "TEKGREN5", 0, 0
+	Patch "CSH22790", 3, 3
+}
+
+WallTexture "CSH21534", 64, 128
+{
+	Patch "TEKGREN5", 0, 0
+	Patch "CSH22791", 3, 3
+}
+
+WallTexture "CSH21535", 64, 128
+{
+	Patch "TEKGREN5", 0, 0
+	Patch "CSH22792", 3, 3
+}
+
+WallTexture "CSH21536", 64, 128
+{
+	Patch "TEKGREN3", 0, 0
+	Patch "CSH22793", 5, 24
+}
+
+WallTexture "CSH21537", 64, 128
+{
+	Patch "TEKGREN3", 0, 0
+	Patch "CSH22794", 5, 24
+}
+
+WallTexture "CSH21538", 64, 128
+{
+	Patch "TEKGREN3", 0, 0
+	Patch "CSH22795", 5, 24
+}
+
+WallTexture "CSH21539", 64, 128
+{
+	Patch "TEKGREN3", 0, 0
+	Patch "CSH22796", 5, 24
+}
+
+WallTexture "CSH21540", 64, 128
+{
+	Patch "CSH20604", 0, 0
+	Patch "CSH22788", 4, 2
+}
+
+WallTexture "CSH21541", 64, 128
+{
+	Patch "CSH20604", 0, 0
+	Patch "CSH22789", 4, 2
+}
+
+WallTexture "CSH21542", 64, 128
+{
+	Patch "CSH20604", 0, 0
+	Patch "CSH22790", 4, 2
+}
+
+WallTexture "CSH21543", 64, 128
+{
+	Patch "CSH20604", 0, 0
+	Patch "CSH22791", 4, 2
+}
+
+WallTexture "CSH21544", 64, 128
+{
+	Patch "CSH20604", 0, 0
+	Patch "CSH22792", 4, 2
+}
+
+WallTexture "CSH21545", 64, 128
+{
+	Patch "CSH20605", 0, 0
+	Patch "CSH22788", 4, 116
+}
+
+WallTexture "CSH21546", 64, 128
+{
+	Patch "CSH20605", 0, 0
+	Patch "CSH22789", 4, 116
+}
+
+WallTexture "CSH21547", 64, 128
+{
+	Patch "CSH20605", 0, 0
+	Patch "CSH22790", 4, 116
+}
+
+WallTexture "CSH21548", 64, 128
+{
+	Patch "CSH20605", 0, 0
+	Patch "CSH22791", 4, 116
+}
+
+WallTexture "CSH21549", 64, 128
+{
+	Patch "CSH20605", 0, 0
+	Patch "CSH22792", 4, 116
+}
+
+WallTexture "CSH21550", 64, 128
+{
+	Patch "CSH21484", 0, 0
+	Patch "CSH22788", 3, 3
+}
+
+WallTexture "CSH21551", 64, 128
+{
+	Patch "CSH21484", 0, 0
+	Patch "CSH22789", 3, 3
+}
+
+WallTexture "CSH21552", 64, 128
+{
+	Patch "CSH21484", 0, 0
+	Patch "CSH22790", 3, 3
+}
+
+WallTexture "CSH21553", 64, 128
+{
+	Patch "CSH21484", 0, 0
+	Patch "CSH22791", 3, 3
+}
+
+WallTexture "CSH21554", 64, 128
+{
+	Patch "CSH21484", 0, 0
+	Patch "CSH22792", 3, 3
+}
+
+WallTexture "CSH21555", 64, 128
+{
+	Patch "CSH21482", 0, 0
+	Patch "CSH22793", 5, 24
+}
+
+WallTexture "CSH21556", 64, 128
+{
+	Patch "CSH21482", 0, 0
+	Patch "CSH22794", 5, 24
+}
+
+WallTexture "CSH21557", 64, 128
+{
+	Patch "CSH21482", 0, 0
+	Patch "CSH22795", 5, 24
+}
+
+WallTexture "CSH21558", 64, 128
+{
+	Patch "CSH21482", 0, 0
+	Patch "CSH22796", 5, 24
+}
+
+WallTexture "CSH21592", 256, 128
+{
+	Patch "CSH22833", 0, 0
+	Patch "CSH22834", 64, 0
+	Patch "CSH22835", 128, 0
+	Patch "CSH22836", 192, 0
+}
+
+WallTexture "CSH21596", 256, 128
+{
+	Patch "CSH22840", 0, 0
+	Patch "CSH22841", 64, 0
+	Patch "CSH22842", 128, 0
+	Patch "CSH22843", 192, 0
+}
+
+WallTexture "CSH21597", 256, 128
+{
+	Patch "CSH22844", 192, 0
+	Patch "CSH22848", 0, 0
+	Patch "CSH22849", 64, 0
+	Patch "CSH22850", 128, 0
+}
+
+WallTexture "CSH21669", 64, 128
+{
+	Patch "CSH22927", 0, 0
+	Patch "CSH22927", 0, 8
+	Patch "CSH22927", 0, 16
+	Patch "CSH22927", 0, 24
+	Patch "CSH22927", 0, 120
+	Patch "CSH22927", 0, 112
+	Patch "CSH22927", 0, 104
+	Patch "CSH22927", 0, 88
+	Patch "CSH22927", 0, 96
+	Patch "CSH22927", 0, 80
+	Patch "CSH22927", 0, 72
+	Patch "CSH22927", 0, 64
+	Patch "CSH22927", 0, 56
+	Patch "CSH22927", 0, 48
+	Patch "CSH22927", 0, 40
+	Patch "CSH22927", 0, 32
+}
+
+WallTexture "CSH21670", 64, 128
+{
+	Patch "CSH22928", 0, 0
+	Patch "CSH22928", 0, 64
+}
+
+WallTexture "CSH21671", 64, 128
+{
+	Patch "CSH22929", 0, 0
+	Patch "CSH22929", 0, 64
+}
+
+WallTexture "CSH21672", 64, 128
+{
+	Patch "CSH22930", 0, 0
+	Patch "CSH22930", 32, 64
+	Patch "CSH22930", -32, 64
+}
+
+WallTexture "CSH21673", 16, 128
+{
+	Patch "CSH22931", 0, 0
+	Patch "CSH22931", 0, 64
+}
+
+WallTexture "CSH21674", 64, 128
+{
+	Patch "CSH22932", 0, 0
+	Patch "CSH22932", 0, 112
+	Patch "CSH22932", 0, 96
+	Patch "CSH22932", 0, 80
+	Patch "CSH22932", 0, 64
+	Patch "CSH22932", 0, 48
+	Patch "CSH22932", 0, 32
+	Patch "CSH22932", 0, 16
+}
+
+WallTexture "CSH21675", 8, 128
+{
+	Patch "CSH22933", 0, 0
+	Patch "CSH22933", 0, 64
+}
+
+WallTexture "CSH21678", 64, 128
+{
+	Patch "CSH22936", 0, 0
+	Patch "CSH22936", 0, 64
+}
+
+WallTexture "CSH21679", 64, 128
+{
+	Patch "CSH22937", 0, 0
+	Patch "CSH22937", 0, 64
+}
+
+WallTexture "CSH21680", 256, 128
+{
+	Patch "CSH22938", 128, 64
+	Patch "CSH22948", 192, 0
+	Patch "CSH22949", 192, 64
+	Patch "CSH22099", 32, 0
+	Patch "CSH22101", 96, 0
+	Patch "CSH22097", 0, 0
+	Patch "CSH22097", 160, 0
+	Patch "CSH22098", 0, 64
+	Patch "CSH22100", 64, 64
+}
+
+WallTexture "CSH21681", 256, 56
+{
+	Patch "CSH22941", 64, 0
+	Patch "CSH22946", 192, 0
+	Patch "CSH22942", 128, 0
+	Patch "CSH22088", 0, 0
+}
+
+WallTexture "CSH21682", 128, 128
+{
+	Patch "CSH22118", 32, 4
+	Patch "CSH22118", 96, 4
+	Patch "SW11_4", 0, 4
+	Patch "SW11_4", 64, 4
+	Patch "STEP08", 96, 56
+	Patch "STEP08", 64, 56
+	Patch "STEP08", 32, 56
+	Patch "STEP08", 0, 56
+	Patch "CSH22088", 0, 0
+	Patch "CSH22941", 64, 0
+}
+
+WallTexture "CSH21683", 256, 128
+{
+	Patch "CSH22943", 128, 0
+	Patch "CSH22942", 192, 0
+	Patch "CSH22944", 192, 64
+	Patch "CSH22945", 0, 64
+	Patch "CSH22946", 128, 64
+	Patch "CSH22947", 64, 64
+	Patch "CSH22941", 64, 0
+	Patch "CSH22088", 0, 0
+	Patch "STEP08", 224, 56
+	Patch "STEP08", 192, 56
+	Patch "STEP08", 160, 56
+	Patch "STEP08", 128, 56
+	Patch "STEP08", 96, 56
+	Patch "STEP08", 64, 56
+	Patch "STEP08", 32, 56
+	Patch "STEP08", 0, 56
+	Patch "STEP08", 224, 120
+	Patch "STEP08", 192, 120
+	Patch "STEP08", 160, 120
+	Patch "STEP08", 128, 120
+	Patch "STEP08", 96, 120
+	Patch "STEP08", 64, 120
+	Patch "STEP08", 32, 120
+	Patch "STEP08", 0, 120
+}
+
+WallTexture "CSH21688", 64, 16
+{
+	Patch "ASHWALL2", 0, 0
+	Patch "CSH22963", 0, 0
+}
+
+WallTexture "CSH21689", 64, 16
+{
+	Patch "ASHWALL2", 0, 0
+	Patch "CSH22964", 0, 0
+}
+
+WallTexture "CSH21690", 64, 16
+{
+	Patch "ASHWALL2", 0, 0
+	Patch "CSH22965", 0, 0
+}
+
+WallTexture "CSH21695", 128, 128
+{
+	Patch "CSH22970", 0, 0
+	Patch "CSH22971", 64, 0
+	Patch "CSH22972", 0, 64
+	Patch "CSH22973", 64, 64
+}
+
+WallTexture "CSH21702", 16, 128
+{
+	Patch "CSH21694", 0, 112
+	Patch "CSH21694", 0, 96
+	Patch "CSH21694", 0, 80
+	Patch "CSH21694", 0, 64
+	Patch "CSH21694", 0, 48
+	Patch "CSH21694", 0, 32
+	Patch "CSH21694", 0, 0
+	Patch "CSH21694", 0, 16
+}
+
+WallTexture "CSH21703", 32, 128
+{
+	Patch "CSH21691", 0, 0
+	Patch "CSH21691", 0, 96
+	Patch "CSH21691", 0, 64
+	Patch "CSH21691", 0, 32
+}
+
+WallTexture "CSH21704", 64, 128
+{
+	Patch "CSH22989", 0, 0
+	Patch "CSH22988", 0, 64
+}
+
+WallTexture "CSH21705", 128, 128
+{
+	Patch "CSH22980", 64, 0
+	Patch "CSH22983", 64, 64
+	Patch "CSH22983", 0, 0
+	Patch "CSH22980", 0, 64
+	Patch "CSH22124", 0, 0
+	Patch "CSH22124", 0, 64
+	Patch "CSH22125", 96, 64
+	Patch "CSH22125", 96, 0
+}
+
+WallTexture "CSH21706", 64, 128
+{
+	Patch "CSH22981", 0, 0
+	Patch "CSH22982", 0, 64
+}
+
+WallTexture "CSH21707", 128, 128
+{
+	Patch "CSH22982", 64, 0
+	Patch "CSH22982", 0, 64
+	Patch "CSH22981", 0, 0
+	Patch "CSH22981", 64, 64
+	Patch "CSH22124", 0, 0
+	Patch "CSH22124", 0, 64
+	Patch "CSH22125", 96, 64
+	Patch "CSH22125", 96, 0
+}
+
+WallTexture "CSH21708", 64, 128
+{
+	Patch "CSH22983", 0, 0
+	Patch "CSH22980", 0, 64
+}
+
+WallTexture "CSH21709", 128, 128
+{
+	Patch "CSH22984", 64, 0
+	Patch "CSH22984", 0, 64
+	Patch "CSH22985", 0, 0
+	Patch "CSH22985", 64, 64
+	Patch "CSH22124", 0, 0
+	Patch "CSH22124", 0, 64
+	Patch "CSH22125", 96, 64
+	Patch "CSH22125", 96, 0
+}
+
+WallTexture "CSH21710", 64, 128
+{
+	Patch "CSH22985", 0, 0
+	Patch "CSH22984", 0, 64
+}
+
+WallTexture "CSH21711", 64, 128
+{
+	Patch "CSH22986", 0, 0
+	Patch "CSH22987", 0, 64
+}
+
+WallTexture "CSH21712", 128, 128
+{
+	Patch "CSH22987", 64, 0
+	Patch "CSH22987", 0, 64
+	Patch "CSH22986", 0, 0
+	Patch "CSH22986", 64, 64
+	Patch "CSH22124", 0, 0
+	Patch "CSH22124", 0, 64
+	Patch "CSH22125", 96, 64
+	Patch "CSH22125", 96, 0
+}
+
+WallTexture "CSH21713", 128, 128
+{
+	Patch "CSH22988", 64, 0
+	Patch "CSH22988", 0, 64
+	Patch "CSH22989", 0, 0
+	Patch "CSH22989", 64, 64
+	Patch "CSH22125", 96, 64
+	Patch "CSH22125", 96, 0
+	Patch "CSH22124", 0, 0
+	Patch "CSH22124", 0, 64
+}
+
+WallTexture "CSH21714", 128, 128
+{
+	Patch "CSH23004", 0, 0
+	Patch "CSH22999", 64, 66
+	Patch "CSH23003", 0, 66
+	Patch "CSH23003", 64, 0
+}
+
+WallTexture "CSH21715", 128, 128
+{
+	Patch "CSH22992", 0, 0
+	Patch "CSH22993", 64, 66
+	Patch "CSH22991", 64, 0
+	Patch "CSH22991", 0, 66
+}
+
+WallTexture "CSH21716", 128, 128
+{
+	Patch "CSH22995", 0, 0
+	Patch "CSH22994", 0, 66
+	Patch "CSH22994", 64, 0
+	Patch "CSH22996", 64, 66
+}
+
+WallTexture "CSH21717", 128, 128
+{
+	Patch "CSH22998", 0, 0
+	Patch "CSH22997", 0, 66
+	Patch "CSH22997", 64, 0
+	Patch "CSH22990", 64, 66
+}
+
+WallTexture "CSH21718", 128, 128
+{
+	Patch "CSH23001", 0, 0
+	Patch "CSH23000", 0, 66
+	Patch "CSH23000", 64, 0
+	Patch "CSH23002", 64, 66
+}
+
+WallTexture "CSH21722", 64, 128
+{
+	Patch "CSH23029", 0, 0
+	Patch "CSH23029", 0, 64
+}
+
+WallTexture "CSH21724", 64, 128
+{
+	Patch "CSH23031", 0, 0
+	Patch "CSH23031", 0, 64
+}
+
+WallTexture "CSH21725", 64, 128
+{
+	Patch "CSH23032", 0, 0
+	Patch "CSH23032", 0, 64
+}
+
+WallTexture "CSH21726", 64, 128
+{
+	Patch "CSH23033", 0, 0
+	Patch "CSH23033", 0, 64
+}
+
+WallTexture "CSH21727", 64, 128
+{
+	Patch "CSH23034", 0, 0
+	Patch "CSH23034", 0, 64
+}
+
+WallTexture "CSH21728", 64, 128
+{
+	Patch "CSH23035", 0, 0
+	Patch "CSH23035", 0, 64
+}
+
+WallTexture "CSH21729", 64, 128
+{
+	Patch "CSH23036", 0, 0
+	Patch "CSH23036", 0, 64
+}
+
+WallTexture "CSH21730", 64, 128
+{
+	Patch "CSH23037", 0, 0
+	Patch "CSH23037", 0, 64
+}
+
+WallTexture "CSH21731", 64, 128
+{
+	Patch "CSH23038", 0, 0
+	Patch "CSH23038", 0, 64
+}
+
+WallTexture "CSH21749", 32, 16
+{
+	Patch "CSH23125", 0, 0
+	Patch "CSH23126", 0, 8
+}
+
+WallTexture "CSH21750", 32, 16
+{
+	Patch "CSH23120", 0, 0
+	Patch "CSH23120", 0, 8
+}
+
+WallTexture "CSH21751", 32, 16
+{
+	Patch "CSH23121", 0, 0
+	Patch "CSH23121", 0, 8
+}
+
+WallTexture "CSH21752", 32, 16
+{
+	Patch "CSH23122", 0, 0
+	Patch "CSH23124", 0, 8
+}
+
+WallTexture "CSH21754", 32, 16
+{
+	Patch "CSH23124", 0, 0
+	Patch "CSH23124", 0, 8
+}
+
+WallTexture "CSH21755", 32, 16
+{
+	Patch "CSH23127", 0, 0
+	Patch "CSH23128", 0, 8
+}
+
+WallTexture "CSH21757", 32, 16
+{
+	Patch "CSH23130", 0, 0
+	Patch "CSH23131", 0, 8
+}
+
+WallTexture "CSH21758", 32, 16
+{
+	Patch "CSH23131", 0, 0
+	Patch "CSH23131", 0, 8
+}
+
+WallTexture "CSH21759", 32, 16
+{
+	Patch "CSH23132", 0, 0
+	Patch "CSH23133", 0, 8
+}
+
+WallTexture "CSH21760", 64, 16
+{
+	Patch "CSH23137", 0, 0
+	Patch "CSH23137", 0, 8
+}
+
+WallTexture "CSH21762", 32, 16
+{
+	Patch "CSH23135", 0, 0
+	Patch "CSH23134", 0, 8
+}
+
+WallTexture "CSH21782", 64, 128
+{
+	Patch "CSH23100", 0, 0
+	Patch "CSH23100", -32, 64
+	Patch "CSH23100", 32, 64
+}
+
+WallTexture "CSH21826", 256, 128
+{
+	Patch "CSH23183", 0, 0
+	Patch "CSH23185", 128, 0
+	Patch "CSH23193", 128, 64
+	Patch "CSH23195", 128, 96
+	Patch "CSH23175", 160, 64
+	Patch "CSH23177", 160, 96
+	Patch "CSH23187", 216, 0
+	Patch "CSH23189", 192, 24
+	Patch "CSH23191", 216, 24
+	Patch "CSH22086", 192, 0
+	Patch "CSH23181", 192, 48
+	Patch "CSH22437", 192, 80
+	Patch "CSH22437", 224, 48
+	Patch "CSH22437", 240, 0
+}
+
+WallTexture "CSH21827", 256, 128
+{
+	Patch "CSH22437", 224, 48
+	Patch "CSH22437", 192, 80
+	Patch "CSH22437", 240, 0
+	Patch "CSH23184", 0, 0
+	Patch "CSH23186", 128, 0
+	Patch "CSH23188", 216, 0
+	Patch "CSH23190", 192, 24
+	Patch "CSH23192", 216, 24
+	Patch "CSH23194", 128, 64
+	Patch "CSH23196", 128, 96
+	Patch "CSH23176", 160, 64
+	Patch "CSH23178", 160, 96
+	Patch "CSH23182", 192, 48
+	Patch "CSH22085", 192, 0
+}
+
+WallTexture "CSH21943", 8, 128
+{
+	Patch "CSH23113", 0, 0
+	Patch "CSH23113", 0, 64
+}
+
+WallTexture "CSH21949", 64, 128
+{
+	Patch "CSH22613", 0, 0
+	Patch "CSH22613", 0, 64
+}
+
+WallTexture "CSH21950", 64, 128
+{
+	Patch "CSH22581", 0, 0
+	Patch "CSH22581", 0, 64
+}
+
+WallTexture "CSH21951", 64, 128
+{
+	Patch "CSH22583", 0, 0
+	Patch "CSH22583", 0, 64
+}
+
+WallTexture "CSH21952", 64, 128
+{
+	Patch "CSH22582", 0, 0
+	Patch "CSH22582", 0, 64
+}
+
+WallTexture "CSH21953", 64, 128
+{
+	Patch "CSH22592", 0, 0
+	Patch "CSH22592", 0, 64
+}
+
+WallTexture "CSH21954", 64, 128
+{
+	Patch "CSH22614", 0, 0
+	Patch "CSH22614", 0, 64
+}
+
+WallTexture "CSH21955", 64, 128
+{
+	Patch "CSH22615", 0, 0
+	Patch "CSH22615", 0, 64
+}
+
+WallTexture "CSH21956", 64, 128
+{
+	Patch "CSH22616", 0, 0
+	Patch "CSH22616", 0, 64
+}
+
+WallTexture "CSH21957", 64, 128
+{
+	Patch "CSH22617", 0, 0
+	Patch "CSH22617", 0, 64
+}
+
+WallTexture "CSH21958", 64, 128
+{
+	Patch "CSH22618", 0, 0
+	Patch "CSH22618", 0, 64
+}
+
+WallTexture "CSH21961", 64, 128
+{
+	Patch "CSH22624", 0, 0
+	Patch "CSH22624", 0, 64
+}
+
+WallTexture "CSH21962", 64, 128
+{
+	Patch "CSH22619", 0, 0
+	Patch "CSH22619", 0, 64
+}
+
+WallTexture "CSH21963", 64, 128
+{
+	Patch "CSH22620", 0, 0
+	Patch "CSH22620", 0, 64
+}
+
+WallTexture "CSH21964", 64, 128
+{
+	Patch "CSH22622", 0, 0
+	Patch "CSH22622", 0, 64
+}
+
+WallTexture "CSH21965", 64, 128
+{
+	Patch "CSH22623", 0, 0
+	Patch "CSH22623", 0, 64
+}
+
+WallTexture "CSH21977", 256, 96
+{
+	Patch "CSH22640", 0, 0
+	Patch "CSH22641", 128, 0
+}
+
+WallTexture "CSH21978", 64, 128
+{
+	Patch "CSH22625", 0, 0
+	Patch "CSH22625", 0, 64
+}
+
+WallTexture "CSH21979", 64, 128
+{
+	Patch "CSH22629", 0, 0
+	Patch "CSH22629", 0, 64
+}
+
+WallTexture "CSH21980", 64, 128
+{
+	Patch "CSH22626", 0, 0
+	Patch "CSH22626", 0, 64
+}
+
+WallTexture "CSH21981", 64, 128
+{
+	Patch "CSH22627", 0, 0
+	Patch "CSH22627", 0, 64
+}
+
+WallTexture "CSH21982", 64, 128
+{
+	Patch "CSH22628", 0, 0
+	Patch "CSH22628", 32, 64
+	Patch "CSH22628", -32, 64
+}
+
+WallTexture "CSH21983", 64, 128
+{
+	Patch "CSH22630", 0, 0
+	Patch "CSH22630", 0, 64
+}
+
+WallTexture "CSH21984", 64, 128
+{
+	Patch "CSH22631", 0, 0
+	Patch "CSH22631", 0, 64
+}
+
+WallTexture "CSH21991", 128, 64
+{
+	Patch "CSH22495", 0, 0
+	Patch "CSH22495", 0, 40
+	Patch "CSH21995", 0, 24
+}
+
+WallTexture "CSH22008", 64, 128
+{
+	Patch "CSH22494", 0, 0
+	Patch "CSH21994", 24, 0
+	Patch "CSH22494", 40, 0
+}
+
+WallTexture "CSH22009", 64, 128
+{
+	Patch "CSH22632", 0, 0
+	Patch "CSH22632", 0, 64
+}
+
+WallTexture "CSH22010", 64, 128
+{
+	Patch "CSH22633", 0, 0
+	Patch "CSH22633", 0, 64
+}
+
+WallTexture "CSH22011", 64, 128
+{
+	Patch "CSH23119", 0, 0
+	Patch "CSH23119", 0, 64
+}
+
+WallTexture "CSH22018", 256, 128
+{
+	Patch "CSH21072", 0, 0
+	Patch "CSH21072", 128, 0
+	Patch "CSH20920", 0, 0
+}
+
+WallTexture "CSH22019", 256, 128
+{
+	Patch "CSH21830", 0, 0
+	Patch "CSH21830", 64, 0
+	Patch "CSH21830", 128, 0
+	Patch "CSH21830", 192, 0
+	Patch "CSH20920", 0, 0
+}
+
+WallTexture "CSH22020", 256, 128
+{
+	Patch "CSH20835", 0, 0
+	Patch "CSH20835", 64, 0
+	Patch "CSH20835", 128, 0
+	Patch "CSH20835", 192, 0
+	Patch "CSH20920", 0, 0
+}
+
+WallTexture "CSH22033", 1024, 128
+{
+	Patch "CSH22035", 0, 0
+	Patch "CSH22036", 256, 0
+	Patch "CSH22037", 512, 0
+	Patch "CSH22038", 768, 0
+}
+

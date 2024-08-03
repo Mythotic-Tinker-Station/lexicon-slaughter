@@ -20,6 +20,12 @@ CSH1_MAPSET_MAPS = "4";
 CSH1_MAPSET_TTLE = "Combat Shock";
 
 // Combat Shock 2
+CSH2_ACTOR_1 = "Lexicon_CSH2_ShotgunGuy";
+CSH2_ACTORALT_1 = "ShotgunGuy";
+CSH2_ACTOR_2 = "Lexicon_CSH2_ChaingunGuy";
+CSH2_ACTORALT_2 = "ChaingunGuy";
+CSH2_ACTOR_3 = "Lexicon_CSH2_ZombieMan";
+CSH2_ACTORALT_3 = "ZombieMan";
 CSH2_MAPSET_AUTH = "Daniel Jakobsson";
 CSH2_MAPSET_CUST = "Y";
 CSH2_MAPSET_DATE = "2012";

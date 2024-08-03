@@ -18,6 +18,25 @@ texture CSH10576 range CSH10579 tics 8 allowdecals
 switch CSH10488 on pic CSH10489 tics 0
 switch CSH11098 on pic CSH11099 tics 0
 
+// Combat Shock 2
+texture CSH20653 range CSH20656 tics 8
+texture CSH20884 range CSH20886 tics 8 allowdecals
+texture CSH20903 range CSH20906 tics 8 allowdecals
+texture CSH20929 range CSH20932 tics 8
+switch CSH20730 on pic CSH20765 tics 0
+switch CSH20734 on pic CSH20770 tics 0
+switch CSH20739 on pic CSH20775 tics 0
+switch CSH20745 on pic CSH20781 tics 0
+switch CSH20746 on pic CSH20782 tics 0
+switch CSH20754 on pic CSH20790 tics 0
+switch CSH20757 on pic CSH20793 tics 0
+switch CSH20758 on pic CSH20794 tics 0
+switch CSH20890 on pic CSH20895 tics 0
+switch CSH20891 on pic CSH20766 tics 0
+switch CSH20892 on pic CSH20896 tics 0
+switch CSH20893 on pic CSH20897 tics 0
+switch CSH20894 on pic CSH20898 tics 0
+
 // Dark Tartarus
 Switch	Doom 3		DKTS0235   	On Pic	DKTS0236   	Tics 0
 Texture	Optional	DKTS0249  	Range	DKTS0252  	Tics 8
