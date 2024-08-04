@@ -1,333 +1,333 @@
-WallTexture "CSH10499", 1024, 128
+WallTexture "CSH10080", 1024, 128
 {
-	Patch "CSH11050", 0, 0
-	Patch "CSH11051", 768, 0
-	Patch "CSH11055", 512, 0
-	Patch "CSH11056", 256, 0
+	Patch "CSH10350", 0, 0
+	Patch "CSH10351", 768, 0
+	Patch "CSH10355", 512, 0
+	Patch "CSH10356", 256, 0
 }
 
-WallTexture "CSH10529", 128, 128
+WallTexture "CSH10110", 128, 128
 {
-	Patch "CSH10524", 0, 0
-	Patch "CSH10084", 0, 0
-	Patch "CSH10085", 64, 64
-	Patch "CSH10084", 0, 64
-	Patch "CSH10085", 64, 0
+	Patch "CSH10105", 0, 0
+	Patch "W111_2", 0, 0
+	Patch "W111_3", 64, 64
+	Patch "W111_2", 0, 64
+	Patch "W111_3", 64, 0
 }
 
-WallTexture "CSH10530", 256, 128
+WallTexture "CSH10111", 256, 128
 {
-	Patch "CSH10528", 0, 0
-	Patch "CSH10528", 128, 0
-	Patch "CSH10537", 0, 0
+	Patch "CSH10109", 0, 0
+	Patch "CSH10109", 128, 0
+	Patch "W107_1", 0, 0
 }
 
-WallTexture "CSH10531", 256, 128
+WallTexture "CSH10112", 256, 128
 {
-	Patch "CSH10528", 0, 0
-	Patch "CSH10528", 128, 0
-	Patch "CSH10538", 0, 0
+	Patch "CSH10109", 0, 0
+	Patch "CSH10109", 128, 0
+	Patch "W106_1", 0, 0
 }
 
-WallTexture "CSH10532", 128, 128
+WallTexture "CSH10113", 128, 128
 {
-	Patch "CSH11135", 0, 0
-	Patch "CSH11135", 0, 64
+	Patch "CSH10428", 0, 0
+	Patch "CSH10428", 0, 64
 }
 
-WallTexture "CSH10539", 256, 128
+WallTexture "CSH10120", 256, 128
 {
-	Patch "BSTONE2", 0, 0
-	Patch "BSTONE2", 64, 0
-	Patch "BSTONE2", 128, 0
-	Patch "BSTONE2", 192, 0
-	Patch "CSH10537", 0, 0
+	Patch "RW1_2", 0, 0
+	Patch "RW1_2", 64, 0
+	Patch "RW1_2", 128, 0
+	Patch "RW1_2", 192, 0
+	Patch "W107_1", 0, 0
 }
 
-WallTexture "CSH10540", 256, 128
+WallTexture "CSH10121", 256, 128
 {
-	Patch "BSTONE2", 0, 0
-	Patch "BSTONE2", 64, 0
-	Patch "BSTONE2", 128, 0
-	Patch "BSTONE2", 192, 0
-	Patch "CSH10538", 0, 0
+	Patch "RW1_2", 0, 0
+	Patch "RW1_2", 64, 0
+	Patch "RW1_2", 128, 0
+	Patch "RW1_2", 192, 0
+	Patch "W106_1", 0, 0
 }
 
-WallTexture "CSH10541", 128, 128
+WallTexture "CSH10122", 128, 128
 {
-	Patch "BRICK10", 0, 0
-	Patch "BRICK10", 64, 0
-	Patch "WOOD6", 0, 0
-	Patch "WOOD6", 64, 0
+	Patch "RW41_1", 0, 0
+	Patch "RW41_1", 64, 0
+	Patch "RW9_1", 0, 0
+	Patch "RW9_1", 64, 0
 }
 
-WallTexture "CSH10542", 128, 128
+WallTexture "CSH10123", 128, 128
 {
-	Patch "BRICK10", 0, 0
-	Patch "BRICK10", 64, 0
-	Patch "CSH10189", 0, 64
-	Patch "CSH10189", 64, 64
+	Patch "RW41_1", 0, 0
+	Patch "RW41_1", 64, 0
+	Patch "WALL47_1", 0, 64
+	Patch "WALL47_1", 64, 64
 }
 
-WallTexture "CSH10543", 128, 128
+WallTexture "CSH10124", 128, 128
 {
-	Patch "BRICK10", 0, 0
-	Patch "BRICK10", 64, 0
-	Patch "CSH10085", 0, 0
-	Patch "CSH10085", 64, 0
-	Patch "CSH10085", 0, 64
-	Patch "CSH10085", 64, 64
-	Patch "CSH10865", 33, 51
+	Patch "RW41_1", 0, 0
+	Patch "RW41_1", 64, 0
+	Patch "W111_3", 0, 0
+	Patch "W111_3", 64, 0
+	Patch "W111_3", 0, 64
+	Patch "W111_3", 64, 64
+	Patch "PS20A0", 33, 51
 }
 
-WallTexture "CSH10544", 128, 128
+WallTexture "CSH10125", 128, 128
 {
-	Patch "BRICK10", 0, 0
-	Patch "BRICK10", 64, 0
-	Patch "CSH11067", 16, 16
+	Patch "RW41_1", 0, 0
+	Patch "RW41_1", 64, 0
+	Patch "DUCT1", 16, 16
 }
 
-WallTexture "CSH10545", 128, 128
+WallTexture "CSH10126", 128, 128
 {
-	Patch "BRICK10", 0, 0
-	Patch "BRICK10", 64, 0
-	Patch "METAL2", 0, 64
-	Patch "METAL2", 64, 64
+	Patch "RW41_1", 0, 0
+	Patch "RW41_1", 64, 0
+	Patch "RW33_1", 0, 64
+	Patch "RW33_1", 64, 64
 }
 
-WallTexture "CSH10546", 128, 128
+WallTexture "CSH10127", 128, 128
 {
-	Patch "BRICK10", 0, 0
-	Patch "BRICK10", 64, 0
-	Patch "CSH10792", 20, 32
+	Patch "RW41_1", 0, 0
+	Patch "RW41_1", 64, 0
+	Patch "T14_5", 20, 32
 }
 
-WallTexture "CSH10547", 128, 128
+WallTexture "CSH10128", 128, 128
 {
-	Patch "CSH10729", 0, 0
-	Patch "CSH10729", 64, 0
-	Patch "CSH10753", 0, 64
-	Patch "CSH10752", 64, 64
+	Patch "WALL02_2", 0, 0
+	Patch "WALL02_2", 64, 0
+	Patch "W32_4", 0, 64
+	Patch "W32_1", 64, 64
 }
 
-WallTexture "CSH10548", 256, 128
+WallTexture "CSH10129", 256, 128
 {
-	Patch "CSH10819", 0, 0
-	Patch "CSH10820", 192, 64
-	Patch "CSH10821", 128, 0
-	Patch "CSH10822", 64, 64
-	Patch "CSH10823", 0, 64
-	Patch "CSH10824", 64, 0
-	Patch "CSH10825", 128, 64
-	Patch "CSH10826", 192, 0
-	Patch "CSH10801", 224, 56
-	Patch "CSH10801", 192, 56
-	Patch "CSH10801", 160, 56
-	Patch "CSH10801", 128, 56
-	Patch "CSH10801", 96, 56
-	Patch "CSH10801", 64, 56
-	Patch "CSH10801", 32, 56
-	Patch "CSH10801", 0, 56
-	Patch "CSH10801", 224, 120
-	Patch "CSH10801", 192, 120
-	Patch "CSH10801", 160, 120
-	Patch "CSH10801", 128, 120
-	Patch "CSH10801", 96, 120
-	Patch "CSH10801", 64, 120
-	Patch "CSH10801", 32, 120
-	Patch "CSH10801", 0, 120
+	Patch "CSH10308", 0, 0
+	Patch "CSH10309", 192, 64
+	Patch "CSH10310", 128, 0
+	Patch "CSH10311", 64, 64
+	Patch "CSH10312", 0, 64
+	Patch "CSH10313", 64, 0
+	Patch "CSH10314", 128, 64
+	Patch "CSH10315", 192, 0
+	Patch "STEP04", 224, 56
+	Patch "STEP04", 192, 56
+	Patch "STEP04", 160, 56
+	Patch "STEP04", 128, 56
+	Patch "STEP04", 96, 56
+	Patch "STEP04", 64, 56
+	Patch "STEP04", 32, 56
+	Patch "STEP04", 0, 56
+	Patch "STEP04", 224, 120
+	Patch "STEP04", 192, 120
+	Patch "STEP04", 160, 120
+	Patch "STEP04", 128, 120
+	Patch "STEP04", 96, 120
+	Patch "STEP04", 64, 120
+	Patch "STEP04", 32, 120
+	Patch "STEP04", 0, 120
 }
 
-WallTexture "CSH10549", 128, 128
+WallTexture "CSH10130", 128, 128
 {
-	Patch "CSH10484", 0, 0
-	Patch "CSH10474", 0, 0
+	Patch "CSH10065", 0, 0
+	Patch "CSH10055", 0, 0
 }
 
-WallTexture "CSH10550", 64, 128
+WallTexture "CSH10131", 64, 128
 {
-	Patch "TEKGREN5", 0, 0
-	Patch "TEKLITE", 0, -64
+	Patch "RW39_1", 0, 0
+	Patch "RW43_3", 0, -64
 }
 
-WallTexture "CSH10551", 64, 128
+WallTexture "CSH10132", 64, 128
 {
-	Patch "METAL2", 0, 0
-	Patch "CSH11057", 6, 44
+	Patch "RW33_1", 0, 0
+	Patch "SW2_4", 6, 44
 }
 
-WallTexture "CSH10552", 64, 128
+WallTexture "CSH10133", 64, 128
 {
-	Patch "METAL2", 0, 0
-	Patch "CSH11048", 22, 67
+	Patch "RW33_1", 0, 0
+	Patch "SW2_2", 22, 67
 }
 
-WallTexture "CSH10558", 64, 128
+WallTexture "CSH10139", 64, 128
 {
-	Patch "BLAKWAL1", 0, 0
-	Patch "CSH10864", 4, 4
-	Patch "CSH10859", 5, 68
+	Patch "RW34_1", 0, 0
+	Patch "CSH10326", 4, 4
+	Patch "CSH10321", 5, 68
 }
 
-WallTexture "CSH10559", 64, 128
+WallTexture "CSH10140", 64, 128
 {
-	Patch "CSH10838", 0, 0
-	Patch "CSH10838", 0, 64
-	Patch "CSH10864", 5, 5
-	Patch "CSH10859", 5, 69
+	Patch "COMP04_7", 0, 0
+	Patch "COMP04_7", 0, 64
+	Patch "CSH10326", 5, 5
+	Patch "CSH10321", 5, 69
 }
 
-WallTexture "CSH10560", 64, 128
+WallTexture "CSH10141", 64, 128
 {
-	Patch "CSH10838", 0, 0
-	Patch "CSH10838", 0, 64
-	Patch "CSH10860", 5, 5
-	Patch "CSH10861", 5, 69
+	Patch "COMP04_7", 0, 0
+	Patch "COMP04_7", 0, 64
+	Patch "CSH10322", 5, 5
+	Patch "CSH10323", 5, 69
 }
 
-WallTexture "CSH10561", 64, 128
+WallTexture "CSH10142", 64, 128
 {
-	Patch "CSH10838", 0, 0
-	Patch "CSH10838", 0, 64
-	Patch "CSH10862", 5, 5
-	Patch "CSH10863", 5, 69
+	Patch "COMP04_7", 0, 0
+	Patch "COMP04_7", 0, 64
+	Patch "CSH10324", 5, 5
+	Patch "CSH10325", 5, 69
 }
 
-WallTexture "CSH10569", 128, 128
+WallTexture "CSH10150", 128, 128
 {
-	Patch "CSH10553", 0, 0
-	Patch "CSH10553", 64, 0
-	Patch "CSH10697", 0, 0
+	Patch "CSH10134", 0, 0
+	Patch "CSH10134", 64, 0
+	Patch "CSH10273", 0, 0
 }
 
-WallTexture "CSH10570", 128, 128
+WallTexture "CSH10151", 128, 128
 {
-	Patch "CSH10553", 0, 0
-	Patch "CSH10553", 64, 0
-	Patch "CSH10711", 0, 0
+	Patch "CSH10134", 0, 0
+	Patch "CSH10134", 64, 0
+	Patch "CSH10285", 0, 0
 }
 
-WallTexture "CSH10571", 256, 128
+WallTexture "CSH10152", 256, 128
 {
-	Patch "CSH10553", 0, 0
-	Patch "CSH10553", 192, 0
-	Patch "CSH10553", 128, 0
-	Patch "CSH10553", 64, 0
-	Patch "CSH10715", 0, 0
+	Patch "CSH10134", 0, 0
+	Patch "CSH10134", 192, 0
+	Patch "CSH10134", 128, 0
+	Patch "CSH10134", 64, 0
+	Patch "CSH10287", 0, 0
 }
 
-WallTexture "CSH10573", 256, 128
+WallTexture "CSH10154", 256, 128
 {
-	Patch "ZIMMER5", 0, 0
-	Patch "ZIMMER5", 64, 0
-	Patch "ZIMMER5", 128, 0
-	Patch "ZIMMER5", 192, 0
-	Patch "CSH10538", 0, 0
+	Patch "RW42_1", 0, 0
+	Patch "RW42_1", 64, 0
+	Patch "RW42_1", 128, 0
+	Patch "RW42_1", 192, 0
+	Patch "W106_1", 0, 0
 }
 
-WallTexture "CSH10574", 256, 128
+WallTexture "CSH10155", 256, 128
 {
-	Patch "CSH10475", 0, 0
-	Patch "CSH10475", 128, 0
-	Patch "CSH10538", 0, 0
+	Patch "CSH10056", 0, 0
+	Patch "CSH10056", 128, 0
+	Patch "W106_1", 0, 0
 }
 
-WallTexture "CSH10575", 256, 128
+WallTexture "CSH10156", 256, 128
 {
-	Patch "ZIMMER5", 0, 0
-	Patch "ZIMMER5", 64, 0
-	Patch "ZIMMER5", 128, 0
-	Patch "ZIMMER5", 192, 0
-	Patch "CSH10537", 0, 0
+	Patch "RW42_1", 0, 0
+	Patch "RW42_1", 64, 0
+	Patch "RW42_1", 128, 0
+	Patch "RW42_1", 192, 0
+	Patch "W107_1", 0, 0
 }
 
-WallTexture "CSH10619", 128, 128
+WallTexture "CSH10200", 128, 128
 {
-	Patch "CSH10611", 0, 0
-	Patch "CSH10611", 64, 0
-	Patch "CSH10711", 0, 0
+	Patch "CSH10192", 0, 0
+	Patch "CSH10192", 64, 0
+	Patch "CSH10285", 0, 0
 }
 
-WallTexture "CSH10620", 128, 128
+WallTexture "CSH10201", 128, 128
 {
-	Patch "CSH10611", 0, 0
-	Patch "CSH10611", 64, 0
-	Patch "CSH10697", 0, 0
+	Patch "CSH10192", 0, 0
+	Patch "CSH10192", 64, 0
+	Patch "CSH10273", 0, 0
 }
 
-WallTexture "CSH10621", 256, 128
+WallTexture "CSH10202", 256, 128
 {
-	Patch "CSH10611", 0, 0
-	Patch "CSH10611", 192, 0
-	Patch "CSH10611", 128, 0
-	Patch "CSH10611", 64, 0
-	Patch "CSH10715", 0, 0
+	Patch "CSH10192", 0, 0
+	Patch "CSH10192", 192, 0
+	Patch "CSH10192", 128, 0
+	Patch "CSH10192", 64, 0
+	Patch "CSH10287", 0, 0
 }
 
-WallTexture "CSH10628", 256, 128
+WallTexture "CSH10209", 256, 128
 {
-	Patch "CSH10183", 0, 0
-	Patch "CSH10183", 128, 0
-	Patch "CSH10625", 0, 0
+	Patch "MWALL4_1", 0, 0
+	Patch "MWALL4_1", 128, 0
+	Patch "CSH10206", 0, 0
 }
 
-WallTexture "CSH10629", 256, 128
+WallTexture "CSH10210", 256, 128
 {
-	Patch "CSH10185", 0, 0
-	Patch "CSH10185", 128, 0
-	Patch "CSH10537", 0, 0
+	Patch "MWALL1_1", 0, 0
+	Patch "MWALL1_1", 128, 0
+	Patch "W107_1", 0, 0
 }
 
-WallTexture "CSH10630", 256, 128
+WallTexture "CSH10211", 256, 128
 {
-	Patch "MARBGRAY", 0, 0
-	Patch "MARBGRAY", 64, 0
-	Patch "MARBGRAY", 192, 0
-	Patch "MARBGRAY", 128, 0
-	Patch "CSH10537", 0, 0
+	Patch "RW7_2", 0, 0
+	Patch "RW7_2", 64, 0
+	Patch "RW7_2", 192, 0
+	Patch "RW7_2", 128, 0
+	Patch "W107_1", 0, 0
 }
 
-WallTexture "CSH10631", 256, 128
+WallTexture "CSH10212", 256, 128
 {
-	Patch "TANROCK5", 0, 0
-	Patch "TANROCK5", 192, 0
-	Patch "TANROCK5", 128, 0
-	Patch "TANROCK5", 64, 0
-	Patch "CSH10537", 0, 0
+	Patch "RW14_1", 0, 0
+	Patch "RW14_1", 192, 0
+	Patch "RW14_1", 128, 0
+	Patch "RW14_1", 64, 0
+	Patch "W107_1", 0, 0
 }
 
-WallTexture "CSH10637", 1024, 128
+WallTexture "CSH10218", 1024, 128
 {
-	Patch "CSH11071", 0, 0
-	Patch "CSH11071", 768, 0
-	Patch "CSH11071", 512, 0
-	Patch "CSH11071", 256, 0
+	Patch "CSH10364", 0, 0
+	Patch "CSH10364", 768, 0
+	Patch "CSH10364", 512, 0
+	Patch "CSH10364", 256, 0
 }
 
-WallTexture "CSH10640", 256, 128
+WallTexture "CSH10221", 256, 128
 {
-	Patch "ZIMMER1", 0, 0
-	Patch "ZIMMER1", 192, 0
-	Patch "ZIMMER1", 128, 0
-	Patch "ZIMMER1", 64, 0
-	Patch "CSH10537", 0, 0
+	Patch "RW20_1", 0, 0
+	Patch "RW20_1", 192, 0
+	Patch "RW20_1", 128, 0
+	Patch "RW20_1", 64, 0
+	Patch "W107_1", 0, 0
 }
 
-WallTexture "CSH10641", 256, 128
+WallTexture "CSH10222", 256, 128
 {
-	Patch "WOODMET1", 0, 0
-	Patch "WOODMET1", 192, 0
-	Patch "WOODMET1", 128, 0
-	Patch "WOODMET1", 64, 0
-	Patch "CSH10537", 0, 0
+	Patch "RW26_1", 0, 0
+	Patch "RW26_1", 192, 0
+	Patch "RW26_1", 128, 0
+	Patch "RW26_1", 64, 0
+	Patch "W107_1", 0, 0
 }
 
-WallTexture "CSH10642", 256, 128
+WallTexture "CSH10223", 256, 128
 {
-	Patch "ZIMMER3", 0, 0
-	Patch "ZIMMER3", 64, 0
-	Patch "ZIMMER3", 128, 0
-	Patch "ZIMMER3", 192, 0
-	Patch "CSH10537", 0, 0
+	Patch "RW20_3", 0, 0
+	Patch "RW20_3", 64, 0
+	Patch "RW20_3", 128, 0
+	Patch "RW20_3", 192, 0
+	Patch "W107_1", 0, 0
 }
 
