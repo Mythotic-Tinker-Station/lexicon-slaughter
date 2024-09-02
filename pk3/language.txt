@@ -6,18 +6,18 @@ CHLX_ACTOR_1 = "Lexicon_CHLX_BossBrain";
 CHLX_ACTORALT_1 = "BossBrain";
 CHLX_ACTOR_2 = "Lexicon_CHLX_BossEye";
 CHLX_ACTORALT_2 = "BossEye";
-CHLX_MAPSET_AUTH = "Anonymous author, maps originally from multiple authors";
-CHLX_MAPSET_CUST = "Y";
+CHLX_MAPSET_AUTHORS = "Anonymous author, maps originally from multiple authors";
+CHLX_MAPSET_CUSTOM = "Y";
 CHLX_MAPSET_DATE = "2020";
 CHLX_MAPSET_MAPS = "47";
-CHLX_MAPSET_TTLE = "Chillax";
+CHLX_MAPSET_TITLE = "Chillax";
 
 // Combat Shock 1
-CSH1_MAPSET_AUTH = "Daniel Jakobsson";
-CSH1_MAPSET_CUST = "N";
+CSH1_MAPSET_AUTHORS = "Daniel Jakobsson";
+CSH1_MAPSET_CUSTOM = "N";
 CSH1_MAPSET_DATE = "2011";
 CSH1_MAPSET_MAPS = "4";
-CSH1_MAPSET_TTLE = "Combat Shock";
+CSH1_MAPSET_TITLE = "Combat Shock";
 
 // Combat Shock 2
 CSH2_ACTOR_1 = "Lexicon_CSH2_ShotgunGuy";
@@ -26,11 +26,11 @@ CSH2_ACTOR_2 = "Lexicon_CSH2_ChaingunGuy";
 CSH2_ACTORALT_2 = "ChaingunGuy";
 CSH2_ACTOR_3 = "Lexicon_CSH2_ZombieMan";
 CSH2_ACTORALT_3 = "ZombieMan";
-CSH2_MAPSET_AUTH = "Daniel Jakobsson";
-CSH2_MAPSET_CUST = "Y";
+CSH2_MAPSET_AUTHORS = "Daniel Jakobsson";
+CSH2_MAPSET_CUSTOM = "Y";
 CSH2_MAPSET_DATE = "2012";
 CSH2_MAPSET_MAPS = "7";
-CSH2_MAPSET_TTLE = "Combat Shock 2";
+CSH2_MAPSET_TITLE = "Combat Shock 2";
 
 // Dark Tartarus
 DKTS_ACTORST_1 = "StrengthRune";
@@ -59,22 +59,22 @@ DKTS_ACTOR_13 = "Lexicon_DKTS_DiscoImpSpawner";
 DKTS_ACTOR_14 = "Lexicon_DKTS_PracticeTargets";
 DKTS_ACTOR_15 = "Lexicon_DKTS_TkBarrel";
 DKTS_ACTOR_16 = "Lexicon_DKTS_CyberSpider";
-DKTS_MAPSET_AUTH = "lihanchi";
-DKTS_MAPSET_CUST = "Y";
+DKTS_MAPSET_AUTHORS = "lihanchi";
+DKTS_MAPSET_CUSTOM = "Y";
 DKTS_MAPSET_DATE = "2015";
 DKTS_MAPSET_MAPS = "43";
-DKTS_MAPSET_TTLE = "Dark Tartarus";
+DKTS_MAPSET_TITLE = "Dark Tartarus";
 
 // Deus Vult
 DSV1_ACTOR_1 = "Lexicon_DSV1_BurningBarrel";
 DSV1_ACTOR_2 = "Lexicon_DSV1_CommanderKeen";
 DSV1_ACTOR_3 = "Lexicon_DSV1_BossEye";
 DSV1_ACTORALT_3 = "BossEye";
-DSV1_MAPSET_AUTH = "Huy Pham";
-DSV1_MAPSET_CUST = "Y";
+DSV1_MAPSET_AUTHORS = "Huy Pham";
+DSV1_MAPSET_CUSTOM = "Y";
 DSV1_MAPSET_DATE = "2004";
 DSV1_MAPSET_MAPS = "4";
-DSV1_MAPSET_TTLE = "Deus Vult";
+DSV1_MAPSET_TITLE = "Deus Vult";
 
 // Deus Vult II
 DSV2_ACTOR_1 = "Lexicon_DSV2_SpiderMastermind";
@@ -128,15 +128,15 @@ DSV2_ACTORALT_36 = "Zombieman";
 DSV2_TAG_PISTOL = "Dual Pistols";
 DSV2_GOTCHAINSAW = "Sauron's Gauntlet! Emperor Palpatine's got nothing on this!";
 DSV2_TAG_CHAINSAW = "Sauron's Gauntlets";
-OB_DSV2_WOLFSS = "%o's soul was claimed by a Hell Cleric.";
-TAG_DSV2_WOLFSS = "Hell Cleric";
-OB_DSV2_KEEN = "%o was baptized by a Flying Balrog.";
-TAG_DSV2_KEEN = "Flying Balrog";
-DSV2_MAPSET_AUTH = "Huy Pham";
-DSV2_MAPSET_CUST = "Y";
+DSV2_OB_WOLFSS = "%o's soul was claimed by a Hell Cleric.";
+DSV2_TAG_WOLFSS = "Hell Cleric";
+DSV2_OB_KEEN = "%o was baptized by a Flying Balrog.";
+DSV2_TAG_KEEN = "Flying Balrog";
+DSV2_MAPSET_AUTHORS = "Huy Pham";
+DSV2_MAPSET_CUSTOM = "Y";
 DSV2_MAPSET_DATE = "2008";
 DSV2_MAPSET_MAPS = "13";
-DSV2_MAPSET_TTLE = "Deus Vult II";
+DSV2_MAPSET_TITLE = "Deus Vult II";
 
 // Drown in Blood
 DIBL_ACTOR_1 = "Lexicon_DIBL_SpiderMastermind";
@@ -168,12 +168,12 @@ DIBL_WEAPON_6 = "Lexicon_DIBL_Chaingun";
 DIBL_WEAPON_7 = "Lexicon_DIBL_RocketLauncher";
 DIBL_GOTLAUNCHER = "RL Armed!";
 DIBL_GOTSHOTGUN = "Shotgun...... What a crap.....";
-DIBL_MAPSET_AUTH = "TimeOfDeath, Ak-01, Doom Trooper, various fixes by EnragedLegendaryGoldberg";
-DIBL_MAPSET_CUST = "Y";
+DIBL_MAPSET_AUTHORS = "TimeOfDeath, Ak-01, Doom Trooper, various fixes by EnragedLegendaryGoldberg";
+DIBL_MAPSET_CUSTOM = "Y";
 DIBL_MAPSET_DATE = "2018";
 DIBL_MAPSET_MAPS = "28";
-DIBL_MAPSET_TTLE = "Drown in Blood";
-DIBL_MAPFLAG_INFAMM = "Y";
+DIBL_MAPSET_TITLE = "Drown in Blood";
+DIBL_MAPFLAG_INFINITEAMMO = "Y";
 
 // Haste
 HSTE_ACTOR_1 = "Lexicon_HSTE_Arachnotron";
@@ -181,46 +181,46 @@ HSTE_ACTORALT_1 = "Arachnotron";
 HSTE_ACTOR_2 = "Lexicon_HSTE_PlasmaRifle";
 HSTE_ACTORALT_2 = "PlasmaRifle";
 MY17_WEAPON_8 = "Lexicon_HSTE_PlasmaRifle";
-HSTE_MAPSET_AUTH = "Insane_Gazebo, Scotty, Haste Team";
-HSTE_MAPSET_CUST = "Y";
+HSTE_MAPSET_AUTHORS = "Insane_Gazebo, Scotty, Haste Team";
+HSTE_MAPSET_CUSTOM = "Y";
 HSTE_MAPSET_DATE = "2021";
 HSTE_MAPSET_MAPS = "17";
-HSTE_MAPSET_TTLE = "Haste";
+HSTE_MAPSET_TITLE = "Haste";
 
 // Maps of Chaos
-MOC2_MAPSET_AUTH = "DoomVideoVault";
-MOC2_MAPSET_CUST = "N";
+MOC2_MAPSET_AUTHORS = "DoomVideoVault";
+MOC2_MAPSET_CUSTOM = "N";
 MOC2_MAPSET_DATE = "2020";
 MOC2_MAPSET_MAPS = "32";
-MOC2_MAPSET_TTLE = "Maps of Chaos (Doom 2)";
+MOC2_MAPSET_TITLE = "Maps of Chaos (Doom 2)";
 
 // Newgothic Movement 1
-NGM1_MAPSET_AUTH = "Christopher Shepherd";
-NGM1_MAPSET_CUST = "N";
+NGM1_MAPSET_AUTHORS = "Christopher Shepherd";
+NGM1_MAPSET_CUSTOM = "N";
 NGM1_MAPSET_DATE = "2010";
 NGM1_MAPSET_MAPS = "18";
-NGM1_MAPSET_TTLE = "Newgothic Movement";
+NGM1_MAPSET_TITLE = "Newgothic Movement";
 
 // Newgothic Movement 2
-NGM2_MAPSET_AUTH = "Christopher Shepherd, Arthur O.";
-NGM2_MAPSET_CUST = "N";
+NGM2_MAPSET_AUTHORS = "Christopher Shepherd, Arthur O.";
+NGM2_MAPSET_CUSTOM = "N";
 NGM2_MAPSET_DATE = "2017";
 NGM2_MAPSET_MAPS = "17";
-NGM2_MAPSET_TTLE = "Newgothic Movement 2";
+NGM2_MAPSET_TITLE = "Newgothic Movement 2";
 
 // Pizza Steve
-PZST_MAPSET_AUTH = "pocho_man123";
-PZST_MAPSET_CUST = "N";
+PZST_MAPSET_AUTHORS = "pocho_man123";
+PZST_MAPSET_CUSTOM = "N";
 PZST_MAPSET_DATE = "2016";
 PZST_MAPSET_MAPS = "32";
-PZST_MAPSET_TTLE = "Pizza Steve";
+PZST_MAPSET_TITLE = "Pizza Steve";
 
 // Shai'tan's Luck
-SHLK_MAPSET_AUTH = "Christopher Shepherd";
-SHLK_MAPSET_CUST = "Y";
+SHLK_MAPSET_AUTHORS = "Christopher Shepherd";
+SHLK_MAPSET_CUSTOM = "Y";
 SHLK_MAPSET_DATE = "2009";
 SHLK_MAPSET_MAPS = "11";
-SHLK_MAPSET_TTLE = "Shai'tan's Luck";
+SHLK_MAPSET_TITLE = "Shai'tan's Luck";
 SHLK_ACTOR_1 = "Lexicon_SHLK_TallGreenColumn";
 SHLK_ACTOR_2 = "Lexicon_SHLK_TallRedColumn";
 SHLK_ACTOR_3 = "Lexicon_SHLK_BigTree";
@@ -231,11 +231,11 @@ SF11_ACTOR_1 = "Lexicon_SF11_WolfensteinSS";
 SF11_ACTOR_2 = "Lexicon_SF11_Chainsaw";
 SF11_ACTORALT_2 = "BFG9000";
 SF11_WEAPON_3 = "Lexicon_SF11_Chainsaw";
-SF11_MAPSET_AUTH = "General Rainbow Bacon, SF2011 Team";
-SF11_MAPSET_CUST = "Y";
+SF11_MAPSET_AUTHORS = "General Rainbow Bacon, SF2011 Team";
+SF11_MAPSET_CUSTOM = "Y";
 SF11_MAPSET_DATE = "2011";
 SF11_MAPSET_MAPS = "11";
-SF11_MAPSET_TTLE = "Slaughterfest 2011";
+SF11_MAPSET_TITLE = "Slaughterfest 2011";
 
 // Slaughterfest 2012
 SF12_ACTOR_1 = "Lexicon_SF12_WolfensteinSS";
@@ -244,11 +244,11 @@ SF12_ACTORALT_2 = "BFG9000";
 SF12_WEAPON_3 = "Lexicon_SF12_Chainsaw";
 SF12_GOTCHAINSAW = "Infinite BFG!";
 SF12_TAG_CHAINSAW = "Infinite BFG";
-SF12_MAPSET_AUTH = "General Rainbow Bacon, SF2012 Team";
-SF12_MAPSET_CUST = "Y";
+SF12_MAPSET_AUTHORS = "General Rainbow Bacon, SF2012 Team";
+SF12_MAPSET_CUSTOM = "Y";
 SF12_MAPSET_DATE = "2012";
 SF12_MAPSET_MAPS = "35";
-SF12_MAPSET_TTLE = "Slaughterfest 2012";
+SF12_MAPSET_TITLE = "Slaughterfest 2012";
 
 // Slaughterfest 3
 SF13_ACTOR_1 = "Lexicon_SF13_Arachnotron";
@@ -260,8 +260,8 @@ SF13_ACTOR_4 = "Lexicon_SF12_Chainsaw";
 SF13_ACTORALT_4 = "BFG9000";
 SF13_WEAPON_3 = "Lexicon_SF12_Chainsaw";
 SF13_WEAPON_8 = "Lexicon_SF13_PlasmaRifle";
-SF13_MAPSET_AUTH = "General Rainbow Bacon, SF3 Team";
-SF13_MAPSET_CUST = "Y";
+SF13_MAPSET_AUTHORS = "General Rainbow Bacon, SF3 Team";
+SF13_MAPSET_CUSTOM = "Y";
 SF13_MAPSET_DATE = "2018";
 SF13_MAPSET_MAPS = "35";
-SF13_MAPSET_TTLE = "Slaughterfest 3";
+SF13_MAPSET_TITLE = "Slaughterfest 3";

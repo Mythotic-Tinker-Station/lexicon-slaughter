@@ -451,8 +451,8 @@ Actor Lexicon_DSV2_DeadLostSoul : DeadLostSoul
 	AttackSound "DSV2/DSBOSCUB"
 	PainSound "grunt/pain"
 	DeathSound "DSV2/DSSSDTH"
-	Obituary "$OB_DSV2_WOLFSS"
-	Tag "$TAG_DSV2_WOLFSS"
+	Obituary "$DSV2_OB_WOLFSS"
+	Tag "$DSV2_TAG_WOLFSS"
 	States
 	{
 	Spawn:
@@ -505,8 +505,8 @@ Actor Lexicon_DSV2_WolfensteinSS : WolfensteinSS
 {
 	SeeSound "DSV2/DSSSSIT"
 	DeathSound "DSV2/DSSSDTH"
-	Obituary "$OB_DSV2_WOLFSS"
-	Tag "$TAG_DSV2_WOLFSS"
+	Obituary "$DSV2_OB_WOLFSS"
+	Tag "$DSV2_TAG_WOLFSS"
 	States
 	{
 	Spawn:
@@ -570,8 +570,8 @@ ACTOR Lexicon_DSV2_CommanderKeen : CommanderKeen
 	PainSound "DSV2/DSKEENDT"
 	DeathSound "DSV2/DSBOSPIT"
 	ActiveSound "DSV2/DSKEENDT"
-	Obituary "$OB_DSV2_KEEN"
-	Tag "$TAG_DSV2_KEEN"
+	Obituary "$DSV2_OB_KEEN"
+	Tag "$DSV2_TAG_KEEN"
 	States
 	{
 	Spawn:
