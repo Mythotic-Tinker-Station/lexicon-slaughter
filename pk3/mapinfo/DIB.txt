@@ -244,7 +244,7 @@ map DIBL22 "Drown in Blood Map 22"
 	next = "DIBL23"
 	secretnext = "DIBL23"
 	sky1 = "DIBL0320"
-	music = "D_DIBL22"
+	music = "$MUSIC_DDTBL3"
 	ExitPic = "DIBLINT"
 	EnterPic = "DIBLINT"
 }
