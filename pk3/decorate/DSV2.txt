@@ -51,7 +51,7 @@ ACTOR Lexicon_DSV2_Chainsaw : Weapon
 	Weapon.SlotNumber 1
 	Weapon.UpSound "DSV2/DSSAWUP"
 	Weapon.ReadySound "DSV2/DSSAWIDL"
-	Inventory.PickupMessage "$DSV2_GOTCHAINSAW"
+	Inventory.PickupMessage "$DSV2_MSG_CHAINSAW"
 	Obituary "$OB_MPCHAINSAW"
 	Tag "$DSV2_TAG_CHAINSAW"
 	+WEAPON.MELEEWEAPON		

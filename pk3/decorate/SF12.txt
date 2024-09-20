@@ -49,7 +49,7 @@ Actor Lexicon_SF12_Chainsaw : Weapon
 	Weapon.ReadySound "weapons/sawidle"
 	Weapon.SlotNumber 1
 	Weapon.SlotPriority 1
-	Inventory.PickupMessage "$SF12_GOTCHAINSAW"
+	Inventory.PickupMessage "$SF12_MSG_CHAINSAW"
 	Tag "$SF12_TAG_CHAINSAW"
 	+WEAPON.MELEEWEAPON		
 	+WEAPON.ALLOW_WITH_RESPAWN_INVUL

@@ -53,7 +53,7 @@ ACTOR Lexicon_DIBL_Shotgun : DoomWeapon
 	Weapon.SlotNumber 3
 	Weapon.SlotPriority 0
 	+WEAPON.CHEATNOTWEAPON
-	Inventory.PickupMessage "$DIBL_GOTSHOTGUN"
+	Inventory.PickupMessage "$DIBL_MSG_SHOTGUN"
 	Inventory.PickupSound "DIBL/DSWPNUP"
 	Obituary "$OB_MPSHOTGUN"
 	Tag "$TAG_SHOTGUN"
@@ -142,7 +142,7 @@ ACTOR Lexicon_DIBL_RocketLauncher : DoomWeapon
 	Weapon.SlotNumber 5
 	+WEAPON.NOAUTOFIRE
 	+WEAPON.CHEATNOTWEAPON
-	Inventory.PickupMessage "$DIBL_GOTLAUNCHER"
+	Inventory.PickupMessage "$DIBL_MSG_LAUNCHER"
 	Inventory.PickupSound "DIBL/DSWPNUP"
 	Tag "$TAG_ROCKETLAUNCHER"
 	States
