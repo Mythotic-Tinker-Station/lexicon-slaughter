@@ -61,9 +61,11 @@ DIBL/thankgod 				DIBL0128
 
 // Haste
 HSTE/DSPLASMA				HSTE0001
+$limit						HSTE/DSPLASMA 0
 
 // Slaughterfest 2012
 SF12/DSSAWUP				SF120001
 
 // Slaughterfest 3
 SF13/DSPLASMA				SF130002
+$limit						SF13/DSPLASMA 0
