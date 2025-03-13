@@ -382,8 +382,8 @@ map DKTS42 "Beat Doom V0.01"
 
 map DKTS43 "LOCK N' LOAD"
 {
-	next = "VR"
-	secretnext = "VR"
+	next = "HUBMAP"
+	secretnext = "HUBMAP"
 	sky1 = "DKTS0300"
 	music = "D_DKTS43"
 	intermusic = "D_DKTSIN"
