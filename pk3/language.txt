@@ -141,6 +141,7 @@ DSV2_ACTORALT_34 = "BlurSphere";
 DSV2_ACTOR_35 = "Lexicon_DSV2_Column";
 DSV2_ACTOR_36 = "Lexicon_DSV2_Zombieman";
 DSV2_ACTORALT_36 = "Zombieman";
+DSV2_WEAPON_2 = "Lexicon_DSV2_Pistol";
 DSV2_TAG_PISTOL = "Dual Pistols";
 DSV2_MSG_CHAINSAW = "Sauron's Gauntlet! Emperor Palpatine's got nothing on this!";
 DSV2_TAG_CHAINSAW = "Sauron's Gauntlets";
