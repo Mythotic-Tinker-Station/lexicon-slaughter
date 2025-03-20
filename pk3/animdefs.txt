@@ -376,3 +376,6 @@ switch SF131308 on pic SF131309 tics 0
 switch SF131314 on pic SF131315 tics 0
 switch SF131437 on pic SF131440 tics 0
 switch SF131438 on pic SF131441 tics 0
+
+// SlaughterMAX
+texture SMAX0011 range SMAX0014 tics 8

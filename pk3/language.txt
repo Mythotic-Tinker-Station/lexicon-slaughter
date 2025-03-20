@@ -15,6 +15,7 @@ ADD_MAPSET_2_13 = "SHLK";
 ADD_MAPSET_2_14 = "SF11";
 ADD_MAPSET_2_15 = "SF12";
 ADD_MAPSET_2_16 = "SF13";
+ADD_MAPSET_2_17 = "SMAX";
 
 // Custom actors and metadata for Lexicon Slaughter mapsets
 // Chillax
@@ -282,3 +283,10 @@ SF13_MAPSET_CUSTOM = "Y";
 SF13_MAPSET_DATE = "2018";
 SF13_MAPSET_MAPS = "35";
 SF13_MAPSET_TITLE = "Slaughterfest 3";
+
+// SlaughterMAX
+SMAX_MAPSET_AUTHORS = "SlaughterMAX Team";
+SMAX_MAPSET_CUSTOM = "N";
+SMAX_MAPSET_DATE = "2020";
+SMAX_MAPSET_MAPS = "32";
+SMAX_MAPSET_TITLE = "SlaughterMAX";
