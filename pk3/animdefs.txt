@@ -294,7 +294,8 @@ switch DSV24535 on pic DSV24634 tics 0
 switch DSV24536 on pic DSV24635 tics 0
 
 // Drown in Blood
-switch DIBL0410 on pic DIBL0450 tics 0
+switch DIBL0096 on pic DIBL0102 tics 0
+switch DIBL0101 on pic DIBL0107 tics 0
 
 // Haste
 texture HSTE0128 range HSTE0131 tics 8

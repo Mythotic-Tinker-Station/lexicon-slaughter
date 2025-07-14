@@ -1,5 +1,11 @@
 // SlaughterMAX Mapinfo
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map SMAX01 "Mud Elemental"
 {
 	titlepatch = "SMAXV00"

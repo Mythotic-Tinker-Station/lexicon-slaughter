@@ -245,7 +245,42 @@ ACTOR Lexicon_DIBL_Zombieman : Zombieman
 	}
 }
 
-ACTOR Lexicon_DIBL_ShotgunGuy : ShotgunGuy  { AttackSound "DIBL/DSSHOTGN" DropItem "Lexicon_DIBL_Shotgun" }
-ACTOR Lexicon_DIBL_ChaingunGuy : ChaingunGuy  { AttackSound "DIBL/DSSHOTGN" DropItem "Lexicon_DIBL_Chaingun" }
-ACTOR Lexicon_DIBL_Demon : Demon  { Speed 20 }
-ACTOR Lexicon_DIBL_SpiderMastermind : SpiderMastermind  { AttackSound "DIBL/DSSHOTGN" }
+ACTOR Lexicon_DIBL_ShotgunGuy : ShotgunGuy { AttackSound "DIBL/DSSHOTGN" DropItem "Lexicon_DIBL_Shotgun" }
+ACTOR Lexicon_DIBL_ChaingunGuy : ChaingunGuy { AttackSound "DIBL/DSSHOTGN" DropItem "Lexicon_DIBL_Chaingun" }
+ACTOR Lexicon_DIBL_Demon : Demon { Speed 20 }
+ACTOR Lexicon_DIBL_SpiderMastermind : SpiderMastermind { AttackSound "DIBL/DSSHOTGN" }
+
+ACTOR Lexicon_DIBL_StealthChaingunGuy : Lexicon_DIBL_ChaingunGuy
+{
+	+STEALTH
+	RenderStyle Translucent
+	Alpha 0
+	Obituary "$OB_STEALTHCHAINGUY"
+}
+
+ACTOR Lexicon_DIBL_StealthDoomImp : Lexicon_DIBL_DoomImp
+{
+	+STEALTH
+	RenderStyle Translucent
+	Alpha 0
+	Obituary "$OB_STEALTHIMP"
+	HitObituary "$OB_STEALTHIMP"
+}
+
+ACTOR Lexicon_DIBL_StealthDemon : Lexicon_DIBL_Demon
+{
+	+STEALTH
+	RenderStyle Translucent
+	Alpha 0
+	Obituary "$OB_STEALTHDEMON"
+	HitObituary "$OB_STEALTHDEMON"
+}
+
+ACTOR Lexicon_DIBL_StealthCacodemon : Lexicon_DIBL_Cacodemon
+{
+	+STEALTH
+	RenderStyle Translucent
+	Alpha 0
+	Obituary "$OB_STEALTHCACO"
+	HitObituary "$OB_STEALTHCACO"
+}

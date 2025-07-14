@@ -32,3 +32,9 @@ object Lexicon_DIBL_ChaingunGuy
     frame CPOSE { light ZOMBIEATK }
     frame CPOSF { light ZOMBIEATK }
 }
+
+object Lexicon_DIBL_StealthChaingunGuy
+{
+    frame CPOSE { light ZOMBIEATK }
+    frame CPOSF { light ZOMBIEATK }
+}
