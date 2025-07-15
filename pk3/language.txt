@@ -194,10 +194,10 @@ DIBL_WEAPON_6 = "Lexicon_DIBL_Chaingun";
 DIBL_WEAPON_7 = "Lexicon_DIBL_RocketLauncher";
 DIBL_MSG_LAUNCHER = "RL Armed!";
 DIBL_MSG_SHOTGUN = "Shotgun...... What a crap.....";
-DIBL_MAPSET_AUTHORS = "TimeOfDeath, Ak-01, Doom Trooper, various fixes by EnragedLegendaryGoldberg";
+DIBL_MAPSET_AUTHORS = "TimeOfDeath, Ak-01, Doom Trooper, various fixes by EnragedLegendaryGoldberg and cubebert";
 DIBL_MAPSET_CUSTOM = "Y";
 DIBL_MAPSET_DATE = "2018";
-DIBL_MAPSET_MAPS = "28";
+DIBL_MAPSET_MAPS = "27";
 DIBL_MAPSET_TITLE = "Drown in Blood";
 DIBL_MAPFLAG_INFINITEAMMO = "Y";
 

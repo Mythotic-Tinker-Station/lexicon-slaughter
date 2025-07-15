@@ -269,20 +269,20 @@ map DIBL25 "Drown in Blood Map 25"
 	EnterPic = "DIBLINT"
 }
 
-map DIBL26 "Drown in Blood Map 26"
+map DIBL26 "Fortress"
 {
 	next = "DIBL27"
 	secretnext = "DIBL27"
 	sky1 = "DIBL0093"
-	music = "$MUSIC_MESSG2"
+	music = "D_DIBL26"
 	ExitPic = "DIBLINT"
 	EnterPic = "DIBLINT"
 }
 
 map DIBL27 "Drown in Blood Map 27"
 {
-	next = "DIBL29"
-	secretnext = "DIBL29"
+	next = "DIBL30"
+	secretnext = "DIBL30"
 	sky1 = "DIBL0093"
 	music = "$MUSIC_ROMER2"
 	ExitPic = "DIBLINT"
@@ -302,6 +302,8 @@ map DIBL28 "Drown in Blood Map 28"
 }
 */
 
+// Duplicate of DIBL01, so skip as well
+/*
 map DIBL29 "Drown in Blood Map 29"
 {
 	next = "DIBL30"
@@ -311,11 +313,12 @@ map DIBL29 "Drown in Blood Map 29"
 	ExitPic = "DIBLINT"
 	EnterPic = "DIBLINT"
 }
+*/
 
 map DIBL30 "Drown in Blood Map 30"
 {
-	next = "DIBL33"
-	secretnext = "DIBL33"
+	next = "HUBMAP"
+	secretnext = "HUBMAP"
 	sky1 = "DIBL0093"
 	music = "$MUSIC_OPENIN"
 	ExitPic = "DIBLINT"
@@ -323,6 +326,8 @@ map DIBL30 "Drown in Blood Map 30"
 	allowmonstertelefrags
 }
 
+// Duplicate of DIBL26, so skip as well
+/*
 map DIBL33 "Fortress"
 {
 	next = "HUBMAP"
@@ -332,3 +337,4 @@ map DIBL33 "Fortress"
 	ExitPic = "DIBLINT"
 	EnterPic = "DIBLINT"
 }
+*/
