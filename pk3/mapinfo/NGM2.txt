@@ -145,8 +145,8 @@ map NGM215 "Newgothic Movement 2 Map 15"
 map NGM216 "Newgothic Movement 2 Map 16"
 {
 	titlepatch = "CWILV15"
-	next = "HUBMAP"
-	secretnext = "HUBMAP"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "NGM20213"
 	music = "D_NGM216"
 }
