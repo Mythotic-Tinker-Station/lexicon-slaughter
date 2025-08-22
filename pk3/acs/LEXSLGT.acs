@@ -1,0 +1,7 @@
+#library "LEXSLGT"
+#include "zcommon.acs"
+
+Script "Lexicon_SlaughterPack_AddAcronym" OPEN
+{
+	ACS_NamedExecuteWithResult("Lexicon_AddMapSet","SLGT",1);
+}

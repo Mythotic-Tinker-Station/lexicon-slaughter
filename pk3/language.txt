@@ -1,21 +1,25 @@
 [default]
-ADD_MAPSET_2_1 = "CHLX";
-ADD_MAPSET_2_2 = "CSH1";
-ADD_MAPSET_2_3 = "CSH2";
-ADD_MAPSET_2_4 = "DKTS";
-ADD_MAPSET_2_5 = "DSV1";
-ADD_MAPSET_2_6 = "DSV2";
-ADD_MAPSET_2_7 = "DIBL";
-ADD_MAPSET_2_8 = "HSTE";
-ADD_MAPSET_2_9 = "MOC2";
-ADD_MAPSET_2_10 = "NGM1";
-ADD_MAPSET_2_11 = "NGM2";
-ADD_MAPSET_2_12 = "PZST";
-ADD_MAPSET_2_13 = "SHLK";
-ADD_MAPSET_2_14 = "SF11";
-ADD_MAPSET_2_15 = "SF12";
-ADD_MAPSET_2_16 = "SF13";
-ADD_MAPSET_2_17 = "SMAX";
+LEX_SLGT_PACKNAME = "Slaughter (Doom 2)";
+LEX_SLGT_IWAD = "Doom2";
+LEX_SLGT_GAMETYPE = "COOP";
+
+LEX_SLGT_1 = "CHLX";
+LEX_SLGT_2 = "CSH1";
+LEX_SLGT_3 = "CSH2";
+LEX_SLGT_4 = "DKTS";
+LEX_SLGT_5 = "DSV1";
+LEX_SLGT_6 = "DSV2";
+LEX_SLGT_7 = "DIBL";
+LEX_SLGT_8 = "HSTE";
+LEX_SLGT_9 = "MOC2";
+LEX_SLGT_10 = "NGM1";
+LEX_SLGT_11 = "NGM2";
+LEX_SLGT_12 = "PZST";
+LEX_SLGT_13 = "SHLK";
+LEX_SLGT_14 = "SF11";
+LEX_SLGT_15 = "SF12";
+LEX_SLGT_16 = "SF13";
+LEX_SLGT_17 = "SMAX";
 
 // Custom actors and metadata for Lexicon Slaughter mapsets
 // Chillax
@@ -28,6 +32,7 @@ CHLX_MAPSET_CUSTOM = "Y";
 CHLX_MAPSET_DATE = "2020";
 CHLX_MAPSET_MAPS = "47";
 CHLX_MAPSET_TITLE = "Chillax";
+CHLX_MAPSET_PACK = "SLGT";
 
 // Combat Shock 1
 CSH1_MAPSET_AUTHORS = "Daniel Jakobsson";
@@ -35,6 +40,7 @@ CSH1_MAPSET_CUSTOM = "N";
 CSH1_MAPSET_DATE = "2011";
 CSH1_MAPSET_MAPS = "4";
 CSH1_MAPSET_TITLE = "Combat Shock";
+CSH1_MAPSET_PACK = "SLGT";
 
 // Combat Shock 2
 CSH2_ACTOR_1 = "Lexicon_CSH2_ShotgunGuy";
@@ -48,6 +54,7 @@ CSH2_MAPSET_CUSTOM = "Y";
 CSH2_MAPSET_DATE = "2012";
 CSH2_MAPSET_MAPS = "7";
 CSH2_MAPSET_TITLE = "Combat Shock 2";
+CSH2_MAPSET_PACK = "SLGT";
 
 // Dark Tartarus
 DKTS_ACTORST_1 = "StrengthRune";
@@ -81,6 +88,7 @@ DKTS_MAPSET_CUSTOM = "Y";
 DKTS_MAPSET_DATE = "2015";
 DKTS_MAPSET_MAPS = "43";
 DKTS_MAPSET_TITLE = "Dark Tartarus";
+DKTS_MAPSET_PACK = "SLGT";
 
 // Deus Vult
 DSV1_ACTOR_1 = "Lexicon_DSV1_BurningBarrel";
@@ -92,6 +100,7 @@ DSV1_MAPSET_CUSTOM = "Y";
 DSV1_MAPSET_DATE = "2004";
 DSV1_MAPSET_MAPS = "4";
 DSV1_MAPSET_TITLE = "Deus Vult";
+DSV1_MAPSET_PACK = "SLGT";
 
 // Deus Vult II
 DSV2_ACTOR_1 = "Lexicon_DSV2_SpiderMastermind";
@@ -155,6 +164,7 @@ DSV2_MAPSET_CUSTOM = "Y";
 DSV2_MAPSET_DATE = "2008";
 DSV2_MAPSET_MAPS = "13";
 DSV2_MAPSET_TITLE = "Deus Vult II";
+DSV2_MAPSET_PACK = "SLGT";
 
 // Drown in Blood
 DIBL_ACTOR_1 = "Lexicon_DIBL_SpiderMastermind";
@@ -200,6 +210,7 @@ DIBL_MAPSET_DATE = "2018";
 DIBL_MAPSET_MAPS = "27";
 DIBL_MAPSET_TITLE = "Drown in Blood";
 DIBL_MAPFLAG_INFINITEAMMO = "Y";
+DIBL_MAPSET_PACK = "SLGT";
 
 // Haste
 HSTE_ACTOR_1 = "Lexicon_HSTE_Arachnotron";
@@ -212,6 +223,7 @@ HSTE_MAPSET_CUSTOM = "Y";
 HSTE_MAPSET_DATE = "2021";
 HSTE_MAPSET_MAPS = "17";
 HSTE_MAPSET_TITLE = "Haste";
+HSTE_MAPSET_PACK = "SLGT";
 
 // Maps of Chaos
 MOC2_MAPSET_AUTHORS = "DoomVideoVault";
@@ -219,6 +231,7 @@ MOC2_MAPSET_CUSTOM = "N";
 MOC2_MAPSET_DATE = "2020";
 MOC2_MAPSET_MAPS = "32";
 MOC2_MAPSET_TITLE = "Maps of Chaos (Doom 2)";
+MOC2_MAPSET_PACK = "SLGT";
 
 // Newgothic Movement 1
 NGM1_MAPSET_AUTHORS = "Christopher Shepherd";
@@ -226,6 +239,7 @@ NGM1_MAPSET_CUSTOM = "N";
 NGM1_MAPSET_DATE = "2010";
 NGM1_MAPSET_MAPS = "18";
 NGM1_MAPSET_TITLE = "Newgothic Movement";
+NGM1_MAPSET_PACK = "SLGT";
 
 // Newgothic Movement 2
 NGM2_MAPSET_AUTHORS = "Christopher Shepherd, Arthur O.";
@@ -233,6 +247,7 @@ NGM2_MAPSET_CUSTOM = "N";
 NGM2_MAPSET_DATE = "2017";
 NGM2_MAPSET_MAPS = "17";
 NGM2_MAPSET_TITLE = "Newgothic Movement 2";
+NGM2_MAPSET_PACK = "SLGT";
 
 // Pizza Steve
 PZST_MAPSET_AUTHORS = "pocho_man123";
@@ -240,6 +255,7 @@ PZST_MAPSET_CUSTOM = "N";
 PZST_MAPSET_DATE = "2016";
 PZST_MAPSET_MAPS = "32";
 PZST_MAPSET_TITLE = "Pizza Steve";
+PZST_MAPSET_PACK = "SLGT";
 
 // Shai'tan's Luck
 SHLK_MAPSET_AUTHORS = "Christopher Shepherd";
@@ -251,6 +267,7 @@ SHLK_ACTOR_1 = "Lexicon_SHLK_TallGreenColumn";
 SHLK_ACTOR_2 = "Lexicon_SHLK_TallRedColumn";
 SHLK_ACTOR_3 = "Lexicon_SHLK_BigTree";
 SHLK_ACTOR_4 = "Lexicon_SHLK_ColonGibs";
+SHLK_MAPSET_PACK = "SLGT";
 
 // Slaughterfest 2011
 SF11_ACTOR_1 = "Lexicon_SF11_WolfensteinSS";
@@ -262,6 +279,7 @@ SF11_MAPSET_CUSTOM = "Y";
 SF11_MAPSET_DATE = "2011";
 SF11_MAPSET_MAPS = "35";
 SF11_MAPSET_TITLE = "Slaughterfest 2011";
+SF11_MAPSET_PACK = "SLGT";
 
 // Slaughterfest 2012
 SF12_ACTOR_1 = "Lexicon_SF12_WolfensteinSS";
@@ -275,6 +293,7 @@ SF12_MAPSET_CUSTOM = "Y";
 SF12_MAPSET_DATE = "2012";
 SF12_MAPSET_MAPS = "35";
 SF12_MAPSET_TITLE = "Slaughterfest 2012";
+SF12_MAPSET_PACK = "SLGT";
 
 // Slaughterfest 3
 SF13_ACTOR_1 = "Lexicon_SF13_Arachnotron";
@@ -291,6 +310,7 @@ SF13_MAPSET_CUSTOM = "Y";
 SF13_MAPSET_DATE = "2018";
 SF13_MAPSET_MAPS = "35";
 SF13_MAPSET_TITLE = "Slaughterfest 3";
+SF13_MAPSET_PACK = "SLGT";
 
 // SlaughterMAX
 SMAX_MAPSET_AUTHORS = "SlaughterMAX Team";
@@ -298,3 +318,4 @@ SMAX_MAPSET_CUSTOM = "N";
 SMAX_MAPSET_DATE = "2020";
 SMAX_MAPSET_MAPS = "32";
 SMAX_MAPSET_TITLE = "SlaughterMAX";
+SMAX_MAPSET_PACK = "SLGT";
