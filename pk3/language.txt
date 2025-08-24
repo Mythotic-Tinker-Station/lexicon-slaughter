@@ -1,6 +1,5 @@
 [default]
 LEX_SLGT_PACKNAME = "Slaughter (Doom 2)";
-LEX_SLGT_IWAD = "Doom2";
 LEX_SLGT_GAMETYPE = "COOP";
 
 LEX_SLGT_1 = "CHLX";
