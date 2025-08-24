@@ -1,0 +1,13 @@
+Graphic "CHLXTN", 640, 480
+{
+	XScale 2.000
+	YScale 2.400
+	Patch "CHLXTN", 0, 0
+}
+
+Graphic "PZSTTN", 640, 400
+{
+	XScale 2.000
+	YScale 2.000
+	Patch "PZSTTN", 0, 0
+}
