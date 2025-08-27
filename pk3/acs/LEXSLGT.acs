@@ -1,5 +1,10 @@
+/*
+	Lexicon Slaughtermap Expansion Pack
+	Map Scripts
+*/
+
+#import "zcommon.bcs"
 #library "LEXSLGT"
-#include "zcommon.acs"
 
 Script "Lexicon_SlaughterPack_AddAcronym" OPEN
 {
