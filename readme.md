@@ -1,12 +1,4 @@
-# Lexicon Slaughter Mapset Expansion Pack
-This Repo contains the Slaughter Mapsets pack to be used for lexicon. This set will only contain a subset of mapsets themed around the Slaughter Map. This file is required to run along side lexicon itself
+# ATTENTION
+## This repository has been deprecated in favor of using the main repo: https://github.com/Mythotic-Tinker-Station/lexicon
 
-## How to build the pk3?
-Will put info later
-
-## Where can I play this?
-Will put info later
-
-## Credits
-
-Insert credits here
+# THIS REPO IS OUTDATED AND SHOULD NOT BE USED ANYMORE!
